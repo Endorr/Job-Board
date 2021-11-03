@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-03T12:03:01.140Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="sYcWXj5T4vs-dszdbY-p" version="15.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-03T12:16:15.103Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="_RjtayIxLPM42GK3y-60" version="15.6.6" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -163,44 +163,44 @@
         <mxCell id="mTPu1nSo0R1RRkqdtAdQ-9" value="잠긴 지역 클릭시 토스트 출력" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="350" y="870" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mTPu1nSo0R1RRkqdtAdQ-10" value="클리어한 스테이지 클릭시 토스트 팝업" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="523" y="30" width="160" height="60" as="geometry" />
+        <mxCell id="mTPu1nSo0R1RRkqdtAdQ-10" value="클리어한 스테이지 클릭시 토스트 팝업" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="519.5" y="30" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JcdMrhdxGSStzC7vy00--23" value="퀘스트 타겟 테이블 잘못 참조하는 문제 해결" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="524" y="170" width="159" height="60" as="geometry" />
+        <mxCell id="JcdMrhdxGSStzC7vy00--23" value="퀘스트 타겟 테이블 잘못 참조하는 문제 해결" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="520.5" y="170" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mTPu1nSo0R1RRkqdtAdQ-7" value="지역 아이콘 지역명에 딤드 안보이게 처리" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="524" y="100" width="159" height="60" as="geometry" />
+        <mxCell id="mTPu1nSo0R1RRkqdtAdQ-7" value="지역 아이콘 지역명에 딤드 안보이게 처리" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="520.5" y="100" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mTPu1nSo0R1RRkqdtAdQ-2" value="Area 완료 체크에서 인카운터 스테이지 계산 제외" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="523" y="240" width="159" height="60" as="geometry" />
+        <mxCell id="mTPu1nSo0R1RRkqdtAdQ-2" value="Area 완료 체크에서 인카운터 스테이지 계산 제외" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="519.5" y="240" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mTPu1nSo0R1RRkqdtAdQ-16" value="지역 클리어시 스테이지 리스트 안띄운채로 월드맵 켜기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="524" y="310" width="159" height="60" as="geometry" />
+        <mxCell id="mTPu1nSo0R1RRkqdtAdQ-16" value="지역 클리어시 스테이지 리스트 안띄운채로 월드맵 켜기" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="520.5" y="310" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mTPu1nSo0R1RRkqdtAdQ-18" value="월드맵에서 다음전투 인카운터일때 자동 포커싱 막기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="524" y="380" width="159" height="60" as="geometry" />
+        <mxCell id="mTPu1nSo0R1RRkqdtAdQ-18" value="월드맵에서 다음전투 인카운터일때 자동 포커싱 막기" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="520.5" y="380" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mTPu1nSo0R1RRkqdtAdQ-12" value="잠긴 스테이지 클릭시 토스트 팝업" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="522" y="450" width="160" height="60" as="geometry" />
+        <mxCell id="mTPu1nSo0R1RRkqdtAdQ-12" value="잠긴 스테이지 클릭시 토스트 팝업" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="518.5" y="450" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mTPu1nSo0R1RRkqdtAdQ-17" value="구름 애니메이션 연출" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="520" y="520" width="163" height="60" as="geometry" />
+        <mxCell id="mTPu1nSo0R1RRkqdtAdQ-17" value="구름 애니메이션 연출" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="516.5" y="520" width="163" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JcdMrhdxGSStzC7vy00--21" value="StoryStarAmount 딤드 패널 삭제" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="522.5" y="590" width="159" height="60" as="geometry" />
+        <mxCell id="JcdMrhdxGSStzC7vy00--21" value="StoryStarAmount 딤드 패널 삭제" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="519" y="590" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8GiOX_5ZcvJH73Y0Fhzy-3" value="기존 챕터 지도 팝업 삭제" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="520" y="660" width="159" height="60" as="geometry" />
+        <mxCell id="8GiOX_5ZcvJH73Y0Fhzy-3" value="기존 챕터 지도 팝업 삭제" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="516.5" y="660" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8GiOX_5ZcvJH73Y0Fhzy-5" value="챕터 완료 연출을 위해 쓰던 코드 삭제" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="523" y="730" width="159" height="60" as="geometry" />
+        <mxCell id="8GiOX_5ZcvJH73Y0Fhzy-5" value="챕터 완료 연출을 위해 쓰던 코드 삭제" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="519.5" y="730" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="32iTDsRpcqnxO3VkxNKm-4" value="인카운터 데이터테이블 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="524" y="800" width="159" height="60" as="geometry" />
+        <mxCell id="32iTDsRpcqnxO3VkxNKm-4" value="인카운터 데이터테이블 수정" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="520.5" y="800" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u-zzOmrkJS4MpRmy39Oz-1" value="ProgressBar 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="524" y="870" width="159" height="60" as="geometry" />
+        <mxCell id="u-zzOmrkJS4MpRmy39Oz-1" value="ProgressBar 수정" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="520.5" y="870" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u-zzOmrkJS4MpRmy39Oz-2" value="스테이지 리스트의 아이콘 연동" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="690" y="30" width="159" height="60" as="geometry" />
