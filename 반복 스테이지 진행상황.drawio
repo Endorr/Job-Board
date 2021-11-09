@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T07:52:03.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="fj0V0o4E0WwyZFAS3Zw8" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-09T07:54:05.590Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="uXukPN_XGu9QnAe_uQuL" version="15.7.0" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,6 +36,12 @@
         </mxCell>
         <mxCell id="twP-iYC3pEqsz_lacLF1-8" value="스테이지 리스트 난이도 변경 처리" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
           <mxGeometry x="180" y="110" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="twP-iYC3pEqsz_lacLF1-9" value="패트롤 스테이지 진행도에 따른 스테이지 잠금 처리" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="180" y="180" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="twP-iYC3pEqsz_lacLF1-10" value="로컬에 저장된 최근 전투 스테이지로 이동시키기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="180" y="250" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
