@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T09:08:19.296Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="vK-Gomdy9ZeXdokU7or4" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-09T02:51:21.623Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Gnn9NIOhnKCzV2RZkuXR" version="15.7.0" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,16 +7,22 @@
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-16" value="구현" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="270" y="50" width="339" height="660" as="geometry" />
         </mxCell>
-        <mxCell id="Qk77YPfGWMz_Xu8xhVY--2" value="패트롤 지역 월드맵에 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
+        <mxCell id="Qk77YPfGWMz_Xu8xhVY--3" value="패트롤 스테이지 입장" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="180" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qk77YPfGWMz_Xu8xhVY--3" value="패트롤 스테이지 입장" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="10" y="320" width="159" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Qk77YPfGWMz_Xu8xhVY--4" value="스테이지 리스트 위젯에 패트롤 스테이지일 때의 기능 구현" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="10" y="250" width="159" height="60" as="geometry" />
+          <mxGeometry x="10" y="110" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qk77YPfGWMz_Xu8xhVY--5" value="패트롤 전투 결과 위젯 작업" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
+          <mxGeometry x="10" y="250" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="twP-iYC3pEqsz_lacLF1-1" value="로그인 시 달성 별 갯수와 별 위치 받아서 저장하기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="10" y="40" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="twP-iYC3pEqsz_lacLF1-3" value="패트롤 전투 결과 서버에 전달" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="10" y="320" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="twP-iYC3pEqsz_lacLF1-4" value="패트롤 전투 결과 로컬에 저장" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
           <mxGeometry x="10" y="390" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
@@ -42,6 +48,9 @@
         </mxCell>
         <mxCell id="Qk77YPfGWMz_Xu8xhVY--7" value="UPV_Mapper_Star_Point&lt;br&gt;작성" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="10" y="170" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qk77YPfGWMz_Xu8xhVY--2" value="패트롤 지역 월드맵에 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="10" y="240" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1070" height="300" as="geometry">
