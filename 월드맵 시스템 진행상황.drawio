@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T04:27:03.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="fLyUisv0vKwQ86QxlUxO" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-09T05:10:58.659Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="QN3YXZ8hFhW-q9AwNnsq" version="15.7.0" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -281,6 +281,9 @@
         </mxCell>
         <mxCell id="Hf2SFhrhB0-e0Vb06iSS-1" value="고려" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="620" y="50" width="219.5" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="Vl92tkifqei7AE4Ekfks-1" value="Public으로 열어놓은 데이터 값 정해지면 삭제하기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Hf2SFhrhB0-e0Vb06iSS-1">
+          <mxGeometry x="10" y="30" width="159" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
