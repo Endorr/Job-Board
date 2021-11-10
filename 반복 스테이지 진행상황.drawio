@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T08:55:48.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="X28uekeSYaY80XZcPKuQ" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-10T08:32:45.719Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="sTyotTf5t-wlaZU6p9Sl" version="15.7.0" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,32 +16,29 @@
         <mxCell id="Qk77YPfGWMz_Xu8xhVY--5" value="패트롤 전투 결과 위젯 작업" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="250" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="twP-iYC3pEqsz_lacLF1-1" value="로그인 시 달성 별 갯수와 별 위치 받아서 저장하기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+        <mxCell id="twP-iYC3pEqsz_lacLF1-1" value="로그인 시 달성 별 갯수와 별 위치 받아서 저장하기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="40" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="twP-iYC3pEqsz_lacLF1-3" value="패트롤 전투 결과 서버에 전달" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+        <mxCell id="twP-iYC3pEqsz_lacLF1-3" value="패트롤 전투 결과 서버에 전달" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="320" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="twP-iYC3pEqsz_lacLF1-4" value="패트롤 전투 결과 로컬에 저장" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+        <mxCell id="twP-iYC3pEqsz_lacLF1-4" value="패트롤 전투 결과 로컬에 저장" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="390" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="twP-iYC3pEqsz_lacLF1-5" value="스테이지 리스트 패트롤 리워드 표기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="10" y="460" width="159" height="60" as="geometry" />
+        <mxCell id="twP-iYC3pEqsz_lacLF1-5" value="스테이지 리스트 패트롤 리워드 표기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
+          <mxGeometry x="90" y="460" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="twP-iYC3pEqsz_lacLF1-6" value="월드맵 패트롤 진행도 표기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+        <mxCell id="twP-iYC3pEqsz_lacLF1-6" value="월드맵 패트롤 진행도 표기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="110" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="twP-iYC3pEqsz_lacLF1-7" value="패트롤 스테이지 진행도 저장" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+        <mxCell id="twP-iYC3pEqsz_lacLF1-7" value="패트롤 스테이지 진행도 저장" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="180" y="40" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="twP-iYC3pEqsz_lacLF1-8" value="스테이지 리스트 난이도 변경 처리" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+        <mxCell id="twP-iYC3pEqsz_lacLF1-9" value="패트롤 스테이지 진행도에 따른 스테이지 잠금 처리" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="180" y="110" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="twP-iYC3pEqsz_lacLF1-9" value="패트롤 스테이지 진행도에 따른 스테이지 잠금 처리" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+        <mxCell id="twP-iYC3pEqsz_lacLF1-10" value="로컬에 저장된 최근 전투 스테이지로 이동시키기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="180" y="180" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="twP-iYC3pEqsz_lacLF1-10" value="로컬에 저장된 최근 전투 스테이지로 이동시키기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="180" y="250" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
@@ -70,8 +67,11 @@
         <mxCell id="Qk77YPfGWMz_Xu8xhVY--2" value="패트롤 지역 월드맵에 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="10" y="240" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="twP-iYC3pEqsz_lacLF1-11" value="스테이지 리스트 패트롤 별 획득 조건 표기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="twP-iYC3pEqsz_lacLF1-11" value="스테이지 리스트 패트롤 별 획득 조건 표기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="10" y="310" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="twP-iYC3pEqsz_lacLF1-8" value="스테이지 리스트 난이도 변경 처리" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="10" y="380" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1070" height="300" as="geometry">
