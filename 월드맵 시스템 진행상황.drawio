@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T12:34:56.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="OTNLi79rp2_3HH7iUO1a" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-11T08:41:21.341Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="FjgLECWO7VrA34EiUvIk" version="15.7.1" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -244,8 +244,11 @@
         <mxCell id="PSq5UGeVe7J4AEmQiXRz-1" value="챕터 BGM이 나오지 않는 문제" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="858" y="170" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h3ZSoLO2vfeByswtqO_V-1" value="클리어한 지역 이름 표기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="h3ZSoLO2vfeByswtqO_V-1" value="클리어한 지역 이름 표기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="858" y="240" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8pUPVwigBOaY4RKg8TQ-1" value="임시로 지역 이미지 추가하기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="858" y="310" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1070" height="270" as="geometry">
