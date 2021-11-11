@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T08:31:17.134Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="c0k0t0nhtVvQVNaYEwYq" version="15.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-11T08:41:58.004Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="xpdXJSZcm2yKwBsCac69" version="15.7.1" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="10" y="180" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qk77YPfGWMz_Xu8xhVY--4" value="스테이지 리스트 패트롤 진행도 표기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="10" y="530" width="159" height="60" as="geometry" />
+          <mxGeometry x="10" y="460" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qk77YPfGWMz_Xu8xhVY--5" value="패트롤 전투 결과 위젯 작업" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="250" width="159" height="60" as="geometry" />
@@ -36,9 +36,6 @@
         </mxCell>
         <mxCell id="twP-iYC3pEqsz_lacLF1-10" value="로컬에 저장된 최근 전투 스테이지로 이동시키기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="180" y="180" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZG7KpP1o5SDsFTY563xy-3" value="별 달성 조건에 소속 표기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="180" y="250" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
@@ -80,9 +77,12 @@
           <mxGeometry x="10" y="450" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="twP-iYC3pEqsz_lacLF1-5" value="스테이지 리스트 패트롤 리워드 표기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="10" y="590" width="159" height="60" as="geometry" />
+          <mxGeometry x="10" y="660" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZG7KpP1o5SDsFTY563xy-4" value="패트롤 리워드 표기시 골드 먼저 표기하고 그 다음에 나머지 표기할 것" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="10" y="590" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG7KpP1o5SDsFTY563xy-3" value="별 달성 조건에 소속 표기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="10" y="520" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
