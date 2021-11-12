@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T13:54:12.839Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="F9y8hrhKHMCeBx05kaah" version="15.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-12T01:58:03.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="GdilkVUtfX8LeTo_VW3p" version="15.7.3" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           <mxGeometry x="180" y="110" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="twP-iYC3pEqsz_lacLF1-10" value="로컬에 저장된 최근 전투 스테이지로 이동시키기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="180" y="180" width="159" height="60" as="geometry" />
+          <mxGeometry x="10" y="180" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
@@ -43,7 +43,7 @@
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-18" value="고려" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="620" y="50" width="220" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="ftfbbZICx7ae7yBzmVb_-1" value="몬스터 아이콘 왜 깜박거리는 지 알아보기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-18">
+        <mxCell id="ftfbbZICx7ae7yBzmVb_-1" value="몬스터 아이콘 왜 깜박거리는 지 알아보기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-18" vertex="1">
           <mxGeometry x="20" y="40" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MTrl5ynQiznJmTlUDSWs-4" value="대기 | 요청" style="swimlane;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
@@ -85,7 +85,7 @@
         <mxCell id="ZG7KpP1o5SDsFTY563xy-3" value="별 달성 조건에 소속 표기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="10" y="520" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ftfbbZICx7ae7yBzmVb_-2" value="패트롤 전투 준비 위젯 작업" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="ftfbbZICx7ae7yBzmVb_-2" value="패트롤 전투 준비 위젯 작업" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="10" y="730" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
