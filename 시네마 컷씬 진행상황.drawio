@@ -1,1 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2021-09-17T03:29:26.355Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="jVY5whqzC_YsGM7gV5s1" version="15.2.7" type="device"><diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">1VlZc6M4EP41PHpKIA7xiMHOsXGSnWSSSV5SHLIhAeTB8pVfvxII2wxKbNfiya6TcuHupiV9/fWBrUA3W50V/jQekQinigailQI9RdNUXdMU/g+idSWxTCGYFEkkjLaCu+QdCyEQ0nkS4VnDkBKS0mTaFIYkz3FIGzK/KMiyaTYmaXPVqT/BLcFd6Kdt6WMS0biSIs3ays9xMonrlVXTrjSZXxuLk8xiPyLLHREcKNAtCKHVVbZyccrBq3Gp7ht+oN1srMA5PeSG5U1+Nnxznl7BDzoHL8uH3ui6p5qVm4WfzsWJlYGj9A3FcZWBp9hIQbrYP13XoMyWSZb6OfvUHydp6pKUFKUGRj5G45DJZ7Qgb3hHY4YIB2Omae9bHGWBC4pXOyJxjjNMMkyLNTMRWg0JTAWpTPFxuY2QhoTXeCc6JhSGvmDFZON6Cxy7ENgdg6MlwbGv9E0O38Dl7zYTAsVy+TtTIUPpu1xllyh/AnELSqQF0DTb4HvGAHl6NxDr9l6EAWgjDM0OELYdkF2dz0gRz1de4QfR4Oa1p0kArvnJURxwxnJo2bVesreEtq/XQqO0ZMCzf5kl0uvIsHCVWgQVxiKudctY9RVH5dfczOMO2erc3uF+KofMuV0mDvMgnDiKU2sdwO/aeBZ7GCi2WvoZKrbdIkJB5nmEOTIqi+wyTii+m/oh1y5ZyWWymGapULcD/zlbD8848M1oEMJoE0I1bEnKdcCHx5GNRxPrxjay/EnH5nPy0+5BCR9KhHmUGf5IxgdLsUGdjnUcWSIidxspLnG5sAoxcygii8o0rUOGjgo9Y45VrsJsYLkKc2LW5Px4D/9RMjSpoOqGhAuS4mCfrPoieReDPHwcfFAG4uAuhtXIwJas9NqmBX2zmxJrgv1dTJPVWL2LnCpeneeLXyRYLILz75dxeLsIpDlV8pkXul1yMmzrXODE1kX5QnUuMGLzBCnN+lW1tMtMMVN2iH5QsKsJvwpj7FN20685ntEkT2jbpLlynShVaRfrg073MqNsqKv28ifSDx3LG/iVtXh0X6TGOv87ec8vs/v0h3f3OOvp0uFH9NEa+O3ww6JX1k0eHE1xvKOGn8iyA5Y4rZwdj7EZhicZfnQJwNLpR+siM6XTjy3tdqKfsaYyLLvdwQVujEIcSsf0ABn8uCcpcLraxlE3DAmOqAMcY+/26SKZzcmaRqubs7OHPAg/qnDDEkcpU21RUhxYjo1HMNUsXxLwDf7H5SSnO/Lq1Q30SP/C3mK+vT1E6OFlnf01eQYvV2CxWkuQH/H9uiTLJJV2B9fu89mCkoIJVMkDo6F+AodY7jsOqZ9P2M4/XE+TrSerH7C5mp9SXOQ+xX3eeGatGGxOelBYyDy78lAEvYV/76vXP4vHKe1p7QfXe0LSzwISkyJ5Z9T1eafrqFSowGoSVrUljLVOxVg5NEa7WHQ8EXweksMnAvW3iUBSaE82EUjPANX92E0YeNN/i8nmmz8/qP2CPVg1kJLRTFYYu+hI8pNJnl3+BMvg4Tn6ZSzSJGPPx9iAr8BmU7/29ltVRivtZAkI/q/Q6V8OnbYfuo6/AT9ZH0CS8qba3yQz9+lageTp8KhxrzNwGtBIR2JVUt2MDoB5etes7y/g+hYOLy/xq3FhLsc9TfbYLPlKm43IgU/vQszw2f5eAPo49hcJKe4LjI8D9OgU/X02kz3IQSjLUet48NjH7Y9i1Zi7/WkRDv4B</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-15T06:51:30.583Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Ei0-JvFOVtPnFFU84W65" version="15.7.3" type="github">
+  <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wOnGFkAYj0Utu0_wV-MN-16" value="구현" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="273" y="60" width="281" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="WM9eMg7O95mnY4e6ZiX9-3" value="전투씬 페이드가 시작되면 Stage Start Cut 시네마가 나오도록 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
+          <mxGeometry x="30" y="35" width="150" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
+          <mxGeometry x="49" y="60" width="200" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="9A0mLHsorhuxDrabdEOj-2" value="현재 씬이 아닌 씬을 대상으로 하는 시퀀스 정상 작동" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-17" vertex="1">
+          <mxGeometry x="20.5" y="50" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wOnGFkAYj0Utu0_wV-MN-18" value="고려" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="600" y="60" width="220" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="WrjAZIqobvvbHRJhcPvb-3" value="퀘스트 진도 초기화&lt;br&gt;cheat questinit&lt;br&gt;스테이지 진도 초기화&lt;br&gt;cheat stageinit" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-18" vertex="1">
+          <mxGeometry x="30.5" y="50" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MTrl5ynQiznJmTlUDSWs-4" value="대기 | 요청" style="swimlane;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
+          <mxGeometry x="49" y="450" width="200" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="9A0mLHsorhuxDrabdEOj-9" value="에러" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="600" y="410" width="455" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="hDPYIisuoytdxOGGVnbc-3" value="폐기 | 완료" style="swimlane;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="840" y="60" width="220" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Commit" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="49" y="730" width="1011" height="510" as="geometry">
+            <mxRectangle x="49" y="720" width="100" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oumLD8d3DvaTa1NXrWpt-27" value="Tool" style="swimlane;horizontal=0;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="190" width="270" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="oumLD8d3DvaTa1NXrWpt-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="oumLD8d3DvaTa1NXrWpt-27" vertex="1">
+          <mxGeometry x="31.5" y="10" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oumLD8d3DvaTa1NXrWpt-31" value="" style="group" parent="oumLD8d3DvaTa1NXrWpt-27" vertex="1" connectable="0">
+          <mxGeometry x="31" y="90" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oumLD8d3DvaTa1NXrWpt-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="oumLD8d3DvaTa1NXrWpt-31" vertex="1">
+          <mxGeometry width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oumLD8d3DvaTa1NXrWpt-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="oumLD8d3DvaTa1NXrWpt-31" vertex="1">
+          <mxGeometry x="100" y="60" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oumLD8d3DvaTa1NXrWpt-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="oumLD8d3DvaTa1NXrWpt-31" vertex="1">
+          <mxGeometry x="100" y="40" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oumLD8d3DvaTa1NXrWpt-32" value="" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="oumLD8d3DvaTa1NXrWpt-27" vertex="1">
+          <mxGeometry x="31.5" y="180" width="219.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oumLD8d3DvaTa1NXrWpt-34" value="" style="swimlane;" parent="oumLD8d3DvaTa1NXrWpt-27" vertex="1">
+          <mxGeometry x="31" y="260" width="219" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Yz27R_0NP3FJJej5I6wf-24" value="현재 CombatScene의 BehaviorTree" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="70" y="1410" width="330" height="270" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
