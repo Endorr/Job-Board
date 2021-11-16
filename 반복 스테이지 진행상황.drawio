@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T02:04:48.651Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="zxUXKOZsn8ACUwAImBrX" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-16T03:38:24.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="EdDVDyf0qn53hRXG3gHC" version="15.7.4" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,14 +19,26 @@
         <mxCell id="iNiQomuWCNf6HEFR2LjS-3" value="스테이지 리스트 별 달성 여부 표기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="250" width="159" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="y7kd1urKHsp-Xs45smwK-4" value="스테이지 리스트 별 달성도 보상 정보 표기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="10" y="320" width="159" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="y7kd1urKHsp-Xs45smwK-3" value="포커싱 기능 변경" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-17">
+          <mxGeometry x="25.5" y="40" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y7kd1urKHsp-Xs45smwK-1" value="현재 거점 진입시 로딩 없이" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-17">
+          <mxGeometry x="26" y="110" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-18" value="고려" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="620" y="50" width="220" height="380" as="geometry" />
         </mxCell>
         <mxCell id="MTrl5ynQiznJmTlUDSWs-4" value="대기 | 요청" style="swimlane;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="49" y="330" width="210" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="y7kd1urKHsp-Xs45smwK-2" value="UI 변경&lt;br&gt;UI 홍은채님" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MTrl5ynQiznJmTlUDSWs-4">
+          <mxGeometry x="25.5" y="50" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9A0mLHsorhuxDrabdEOj-9" value="에러 | 수정" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="620" y="440" width="500" height="270" as="geometry" />
