@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T11:03:47.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="wjfgqM7elhuc_LqwY1c0" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-16T12:15:03.594Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Sm5Uu5lX9YTxuVgWkJdf" version="15.7.4" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,19 +8,25 @@
           <mxGeometry x="270" y="50" width="339" height="660" as="geometry" />
         </mxCell>
         <mxCell id="twP-iYC3pEqsz_lacLF1-10" value="로컬에 저장된 최근 전투 스테이지로 이동시키기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="10" y="240" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y7kd1urKHsp-Xs45smwK-5" value="스테이지 달성도 보상 획득" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="10" y="100" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y7kd1urKHsp-Xs45smwK-8" value="패트롤 최신 스테이지 포커싱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
           <mxGeometry x="10" y="170" width="159" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="y7kd1urKHsp-Xs45smwK-5" value="스테이지 달성도 보상 획득" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="10" y="30" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y7kd1urKHsp-Xs45smwK-8" value="패트롤 최신 스테이지 포커싱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="10" y="100" width="159" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="y7kd1urKHsp-Xs45smwK-9" value="전투 결과창 별 달성 위젯 표현" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="10" y="310" width="159" height="60" as="geometry" />
+          <mxGeometry x="10" y="240" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y7kd1urKHsp-Xs45smwK-10" value="패트롤 보상 레드닷" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="10" y="310" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y7kd1urKHsp-Xs45smwK-11" value="다시하기 클릭시 로딩 안거치고 스테이지 재진입" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
           <mxGeometry x="10" y="380" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y7kd1urKHsp-Xs45smwK-12" value="마지막 스테이지면 다음스테이지 버튼 안뜨게 하기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="10" y="450" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
@@ -132,7 +138,7 @@
             <mxRectangle x="49" y="720" width="100" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KfCYHrgsOKh0RXw9eGPa-2" value="&lt;h1&gt;Memo&lt;/h1&gt;&lt;p&gt;Lorem ipsum&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" parent="6kkVd8V_ymKgZ0_L0vxy-3" vertex="1">
+        <mxCell id="KfCYHrgsOKh0RXw9eGPa-2" value="&lt;h1&gt;Memo&lt;/h1&gt;&lt;p&gt;반복 스테이지의 마지막 스테이지를 판단하는 기준은 난이도로 한다. Easy다음에 Normal로 가지 않는다.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" parent="6kkVd8V_ymKgZ0_L0vxy-3" vertex="1">
           <mxGeometry y="20" width="1070" height="280" as="geometry" />
         </mxCell>
         <mxCell id="oumLD8d3DvaTa1NXrWpt-27" value="Tool" style="swimlane;horizontal=0;" parent="1" vertex="1">
