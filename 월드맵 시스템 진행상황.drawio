@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-17T08:42:13.429Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="IvAMPupPOEBE6pEahhNW" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-17T11:00:28.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="LHxWhaIj0dBs6qSe__WG" version="15.7.4" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,18 +28,6 @@
         <mxCell id="JvFQZsxhrIlM6GvxB-Bj-3" value="챕터 변경 연출&lt;br&gt;(다수 챕터 필요한 모든 연출)&lt;br&gt;[기획 이푸른님]" style="rounded=1;whiteSpace=wrap;html=1;" parent="MTrl5ynQiznJmTlUDSWs-4" vertex="1">
           <mxGeometry x="20.5" y="30" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JvFQZsxhrIlM6GvxB-Bj-4" value="지역 클리어 연출&lt;br&gt;[UI 홍은채님]" style="rounded=1;whiteSpace=wrap;html=1;" parent="MTrl5ynQiznJmTlUDSWs-4" vertex="1">
-          <mxGeometry x="20.5" y="100" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JcdMrhdxGSStzC7vy00--24" value="중도포기 처리" style="rounded=1;whiteSpace=wrap;html=1;" parent="MTrl5ynQiznJmTlUDSWs-4" vertex="1">
-          <mxGeometry x="40" y="255" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mTPu1nSo0R1RRkqdtAdQ-14" value="아지트에서 입장시 아지트로 보내기" style="rounded=1;whiteSpace=wrap;html=1;" parent="MTrl5ynQiznJmTlUDSWs-4" vertex="1">
-          <mxGeometry x="41" y="210" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="u-zzOmrkJS4MpRmy39Oz-33" value="월드맵 진입 플로우 변경&lt;br&gt;[두용님]" style="rounded=1;whiteSpace=wrap;html=1;" parent="MTrl5ynQiznJmTlUDSWs-4" vertex="1">
-          <mxGeometry x="19.5" y="170" width="160" height="59" as="geometry" />
-        </mxCell>
         <mxCell id="9A0mLHsorhuxDrabdEOj-9" value="에러 | 수정" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="620" y="440" width="500" height="270" as="geometry" />
         </mxCell>
@@ -48,6 +36,9 @@
         </mxCell>
         <mxCell id="7aeweUhe6Mv9d77EpXdP-3" value="스테이지 위젯 스토리 스테이지 클리어 표기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9A0mLHsorhuxDrabdEOj-9">
           <mxGeometry x="20" y="100" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7aeweUhe6Mv9d77EpXdP-4" value="지역락 UI 변경점 대응" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9A0mLHsorhuxDrabdEOj-9">
+          <mxGeometry x="20" y="170" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hDPYIisuoytdxOGGVnbc-3" value="     폐기 | 완료" style="swimlane;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;align=left;" parent="1" vertex="1">
           <mxGeometry x="1130" y="50" width="1230" height="950" as="geometry" />
@@ -261,6 +252,18 @@
         </mxCell>
         <mxCell id="z8pUPVwigBOaY4RKg8TQ-1" value="임시로 지역 이미지 추가하기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="858" y="310" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvFQZsxhrIlM6GvxB-Bj-4" value="지역 클리어 연출&lt;br&gt;[UI 홍은채님]" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="858" y="380" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JcdMrhdxGSStzC7vy00--24" value="중도포기 처리&lt;br&gt;[광래님]" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="858" y="590" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7aeweUhe6Mv9d77EpXdP-6" value="아지트에서 입장시 아지트로 보내기&lt;br&gt;[두용님]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="858" y="520" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7aeweUhe6Mv9d77EpXdP-7" value="월드맵 진입 플로우 변경&lt;br&gt;[두용님]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="858" y="450" width="160" height="59" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1070" height="270" as="geometry">
