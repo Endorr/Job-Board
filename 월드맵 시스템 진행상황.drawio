@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T12:37:47.782Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="OtBl2umzN1RkrtAAsZOw" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-17T08:37:36.438Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="_JlH26AK6t5nL__i3QQW" version="15.7.4" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,6 +15,12 @@
         </mxCell>
         <mxCell id="fKnXUZ_Y8Yj8oVJBZo9e-6" value="극단적인 화면 비율에 따른 UI 변화 대응책" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-17" vertex="1">
           <mxGeometry x="11" y="30" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7aeweUhe6Mv9d77EpXdP-2" value="현재 거점 진입시 로딩 없이&lt;br&gt;들어가도록 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-17">
+          <mxGeometry x="11" y="170" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7aeweUhe6Mv9d77EpXdP-1" value="포커싱 기능 변경" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-17">
+          <mxGeometry x="11" y="100" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MTrl5ynQiznJmTlUDSWs-4" value="대기 | 요청" style="swimlane;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="49" y="330" width="210" height="380" as="geometry" />
@@ -37,7 +43,7 @@
         <mxCell id="9A0mLHsorhuxDrabdEOj-9" value="에러 | 수정" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="620" y="440" width="500" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="EDcrVo7AF0hrpLyj6o9w-1" value="솟시마을 인근 마지막 스테이지 클리어시 스테이지 리스트 노출 안되게 하기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9A0mLHsorhuxDrabdEOj-9">
+        <mxCell id="EDcrVo7AF0hrpLyj6o9w-1" value="솟시마을 인근 마지막 스테이지 클리어시 스테이지 리스트 노출 안되게 하기" style="rounded=1;whiteSpace=wrap;html=1;" parent="9A0mLHsorhuxDrabdEOj-9" vertex="1">
           <mxGeometry x="20" y="30" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hDPYIisuoytdxOGGVnbc-3" value="     폐기 | 완료" style="swimlane;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;align=left;" parent="1" vertex="1">
