@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-18T16:19:35.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="2JeixKwitMEh2gQeQN7b" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-19T06:20:12.005Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="2qEEnNIWwaGvxSWaaPGj" version="15.8.2" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,14 +7,14 @@
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-16" value="구현" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="270" y="50" width="339" height="660" as="geometry" />
         </mxCell>
-        <mxCell id="ne8HtMgkfAkVyHzjPCBy-1" value="로컬데이터 초기화해주기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="10" y="30" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2ll814ofq2dmz8SjkR3Y-1" value="텍스트 맵 엘리먼트로&amp;nbsp; 스타일을 추가했을떄 기본적으로 적용되는 스타일이 적용되지않는 문제 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+        <mxCell id="2ll814ofq2dmz8SjkR3Y-1" value="텍스트 맵 엘리먼트로&amp;nbsp; 스타일을 추가했을떄 기본적으로 적용되는 스타일이 적용되지않는 문제 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="100" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7aeweUhe6Mv9d77EpXdP-2" value="현재 거점 진입시 로딩 없이&lt;br&gt;들어가도록 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
+        <mxCell id="8qZwhq6xs2QZ5eSCxIl9-1" value="챕터 보상 레드닷" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
           <mxGeometry x="10" y="170" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8qZwhq6xs2QZ5eSCxIl9-3" value="월드맵에서 비비는 이동 막기(임시)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="20" y="250" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="620" y="440" width="500" height="270" as="geometry" />
         </mxCell>
         <mxCell id="EDcrVo7AF0hrpLyj6o9w-1" value="솟시마을 인근 마지막 스테이지 클리어시 스테이지 리스트 노출 안되게 하기" style="rounded=1;whiteSpace=wrap;html=1;" parent="9A0mLHsorhuxDrabdEOj-9" vertex="1">
-          <mxGeometry x="20" y="30" width="159" height="60" as="geometry" />
+          <mxGeometry x="20" y="40" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hDPYIisuoytdxOGGVnbc-3" value="     폐기 | 완료" style="swimlane;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;align=left;" parent="1" vertex="1">
           <mxGeometry x="1130" y="50" width="1230" height="950" as="geometry" />
@@ -227,7 +227,7 @@
           <mxGeometry x="691" y="660" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8GiOX_5ZcvJH73Y0Fhzy-6" value="페이즈 관련 코드들 Area로 변경" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="691" y="730" width="159" height="60" as="geometry" />
+          <mxGeometry x="690" y="730" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YfF9ztZLRGlCkRkIGvAC-8" value="PV_Widget_&lt;br&gt;AdventureStagePortrait&lt;br&gt;명칭 수정" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="691" y="800" width="160" height="60" as="geometry" />
@@ -267,6 +267,12 @@
         </mxCell>
         <mxCell id="7aeweUhe6Mv9d77EpXdP-3" value="스테이지 위젯 스토리 스테이지 클리어 표기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="859" y="730" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ne8HtMgkfAkVyHzjPCBy-1" value="로컬데이터 초기화해주기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="859" y="800" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7aeweUhe6Mv9d77EpXdP-2" value="현재 거점 진입시 로딩 없이&lt;br&gt;들어가도록 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="860" y="870" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1070" height="270" as="geometry">
@@ -308,6 +314,9 @@
         </mxCell>
         <mxCell id="Vl92tkifqei7AE4Ekfks-1" value="Public으로 열어놓은 데이터 값 정해지면 삭제하기" style="rounded=1;whiteSpace=wrap;html=1;" parent="Hf2SFhrhB0-e0Vb06iSS-1" vertex="1">
           <mxGeometry x="10" y="30" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8qZwhq6xs2QZ5eSCxIl9-2" value="월드맵에서 이동 방식 리뉴얼" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Hf2SFhrhB0-e0Vb06iSS-1">
+          <mxGeometry x="10" y="100" width="159" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
