@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-18T15:46:39.863Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="UM5nrg5awIXM760P3c-Q" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-19T10:04:31.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="7T-byrQPcnXiIdhcAsfQ" version="15.8.2" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,10 +7,7 @@
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-16" value="구현" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="270" y="50" width="339" height="660" as="geometry" />
         </mxCell>
-        <mxCell id="-P6mflBc4KHeAWj7Sc4A-3" value="잠긴 난이도 잠금 처리" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="10" y="100" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-P6mflBc4KHeAWj7Sc4A-4" value="스테이지에서 달성도 계산" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+        <mxCell id="-P6mflBc4KHeAWj7Sc4A-4" value="스테이지에서 달성도 계산" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="30" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
@@ -25,11 +22,8 @@
         <mxCell id="9A0mLHsorhuxDrabdEOj-9" value="에러 | 수정" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="620" y="440" width="500" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="dtQHwgyZP7kncCCjp5I9-1" value="패트롤 스테이지 보상 수령시 중복 아이템 보상 못받는 현상 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="9A0mLHsorhuxDrabdEOj-9" vertex="1">
+        <mxCell id="dtQHwgyZP7kncCCjp5I9-1" value="패트롤 스테이지 보상 수령시 중복 아이템 보상 못받는 현상 수정&lt;br&gt;[서버팀 정민님]" style="rounded=1;whiteSpace=wrap;html=1;" parent="9A0mLHsorhuxDrabdEOj-9" vertex="1">
           <mxGeometry x="10" y="30" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-P6mflBc4KHeAWj7Sc4A-2" value="스테이지 리스트 포커싱 제대로 안되는 문제" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9A0mLHsorhuxDrabdEOj-9">
-          <mxGeometry x="10" y="105" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hDPYIisuoytdxOGGVnbc-3" value="     폐기 | 완료" style="swimlane;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;align=left;" parent="1" vertex="1">
           <mxGeometry x="1130" y="50" width="760" height="980" as="geometry" />
@@ -145,7 +139,7 @@
         <mxCell id="twP-iYC3pEqsz_lacLF1-10" value="로컬에 저장된 최근 전투 스테이지로 포커싱" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="350" y="730" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-P6mflBc4KHeAWj7Sc4A-1" value="별 갯수에 따라 UI가I변경 되도록 변경" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="-P6mflBc4KHeAWj7Sc4A-1" value="별 갯수에 따라 UI가I변경 되도록 변경" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="350" y="800" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y7kd1urKHsp-Xs45smwK-11" value="다시하기 클릭시 세팅 안거치고 스테이지 재진입" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
@@ -153,6 +147,12 @@
         </mxCell>
         <mxCell id="y7kd1urKHsp-Xs45smwK-10" value="패트롤 보상 레드닷" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="524" y="30" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-P6mflBc4KHeAWj7Sc4A-2" value="스테이지 리스트 포커싱 제대로 안되는 문제" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="524" y="100" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-P6mflBc4KHeAWj7Sc4A-3" value="잠긴 난이도 잠금 처리" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="524" y="170" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1070" height="300" as="geometry">
