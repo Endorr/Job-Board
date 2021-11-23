@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-19T10:03:03.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="HZqz7ExRj7TkJIjwcktm" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-23T14:04:39.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="wdEY2o4vOlBohE-hC4Ja" version="15.8.2" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -265,10 +265,10 @@
         <mxCell id="7aeweUhe6Mv9d77EpXdP-2" value="현재 거점 진입시 로딩 없이&lt;br&gt;들어가도록 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="860" y="870" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8qZwhq6xs2QZ5eSCxIl9-1" value="챕터 보상 레드닷" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="8qZwhq6xs2QZ5eSCxIl9-1" value="챕터 보상 레드닷" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="1030" y="30" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8qZwhq6xs2QZ5eSCxIl9-3" value="월드맵에서 비비는 이동 막기(임시)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="8qZwhq6xs2QZ5eSCxIl9-3" value="월드맵에서 비비는 이동 막기(임시)" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="1030" y="100" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EDcrVo7AF0hrpLyj6o9w-1" value="솟시마을 인근 마지막 스테이지 클리어시 스테이지 리스트 노출 안되게 하기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
@@ -315,7 +315,7 @@
         <mxCell id="Vl92tkifqei7AE4Ekfks-1" value="Public으로 열어놓은 데이터 값 정해지면 삭제하기" style="rounded=1;whiteSpace=wrap;html=1;" parent="Hf2SFhrhB0-e0Vb06iSS-1" vertex="1">
           <mxGeometry x="10" y="30" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8qZwhq6xs2QZ5eSCxIl9-2" value="월드맵에서 이동 방식 리뉴얼" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Hf2SFhrhB0-e0Vb06iSS-1">
+        <mxCell id="8qZwhq6xs2QZ5eSCxIl9-2" value="월드맵에서 이동 방식 리뉴얼" style="rounded=1;whiteSpace=wrap;html=1;" parent="Hf2SFhrhB0-e0Vb06iSS-1" vertex="1">
           <mxGeometry x="10" y="100" width="159" height="60" as="geometry" />
         </mxCell>
       </root>
