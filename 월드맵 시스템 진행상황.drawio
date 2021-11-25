@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-23T14:04:39.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="wdEY2o4vOlBohE-hC4Ja" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-25T14:54:59.884Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="onXwTmL6hUhXpGodHUrY" version="15.8.6" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,20 +10,17 @@
         <mxCell id="2ll814ofq2dmz8SjkR3Y-1" value="텍스트 맵 엘리먼트로&amp;nbsp; 스타일을 추가했을떄 기본적으로 적용되는 스타일이 적용되지않는 문제 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="40" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fKnXUZ_Y8Yj8oVJBZo9e-6" value="극단적인 화면 비율에 따른 UI 변화 대응책" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="10" y="110" width="159" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
-        </mxCell>
-        <mxCell id="7aeweUhe6Mv9d77EpXdP-1" value="포커싱 기능 변경" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-17" vertex="1">
-          <mxGeometry x="20.5" y="40" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MTrl5ynQiznJmTlUDSWs-4" value="대기 | 요청" style="swimlane;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="49" y="330" width="210" height="380" as="geometry" />
         </mxCell>
         <mxCell id="JvFQZsxhrIlM6GvxB-Bj-3" value="챕터 변경 연출&lt;br&gt;(다수 챕터 필요한 모든 연출)&lt;br&gt;[기획 이푸른님]" style="rounded=1;whiteSpace=wrap;html=1;" parent="MTrl5ynQiznJmTlUDSWs-4" vertex="1">
           <mxGeometry x="20.5" y="30" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7aeweUhe6Mv9d77EpXdP-1" value="포커싱 기능 변경" style="rounded=1;whiteSpace=wrap;html=1;" parent="MTrl5ynQiznJmTlUDSWs-4" vertex="1">
+          <mxGeometry x="26" y="100" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9A0mLHsorhuxDrabdEOj-9" value="에러 | 수정" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="620" y="440" width="500" height="270" as="geometry" />
@@ -274,6 +271,12 @@
         <mxCell id="EDcrVo7AF0hrpLyj6o9w-1" value="솟시마을 인근 마지막 스테이지 클리어시 스테이지 리스트 노출 안되게 하기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="1030" y="170" width="159" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fKnXUZ_Y8Yj8oVJBZo9e-6" value="극단적인 화면 비율에 따른 UI 변화 대응책" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="1030" y="240" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8qZwhq6xs2QZ5eSCxIl9-2" value="월드맵에서 이동 방식 리뉴얼" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="1030" y="310" width="159" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1070" height="270" as="geometry">
             <mxRectangle x="49" y="720" width="100" height="23" as="alternateBounds" />
@@ -314,9 +317,6 @@
         </mxCell>
         <mxCell id="Vl92tkifqei7AE4Ekfks-1" value="Public으로 열어놓은 데이터 값 정해지면 삭제하기" style="rounded=1;whiteSpace=wrap;html=1;" parent="Hf2SFhrhB0-e0Vb06iSS-1" vertex="1">
           <mxGeometry x="10" y="30" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8qZwhq6xs2QZ5eSCxIl9-2" value="월드맵에서 이동 방식 리뉴얼" style="rounded=1;whiteSpace=wrap;html=1;" parent="Hf2SFhrhB0-e0Vb06iSS-1" vertex="1">
-          <mxGeometry x="10" y="100" width="159" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
