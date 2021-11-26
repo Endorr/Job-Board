@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-25T15:18:33.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="S5B9RMDJZk2wUYrDi4Zx" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-26T06:36:33.595Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="LugB8jpGIWmQdQu1MF2Z" version="15.8.6" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,9 +18,6 @@
         </mxCell>
         <mxCell id="JvFQZsxhrIlM6GvxB-Bj-3" value="챕터 변경 연출&lt;br&gt;(다수 챕터 필요한 모든 연출)&lt;br&gt;[기획 이푸른님]" style="rounded=1;whiteSpace=wrap;html=1;" parent="MTrl5ynQiznJmTlUDSWs-4" vertex="1">
           <mxGeometry x="20.5" y="30" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7aeweUhe6Mv9d77EpXdP-1" value="포커싱 기능 변경" style="rounded=1;whiteSpace=wrap;html=1;" parent="MTrl5ynQiznJmTlUDSWs-4" vertex="1">
-          <mxGeometry x="26" y="100" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9A0mLHsorhuxDrabdEOj-9" value="에러 | 수정" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="620" y="440" width="500" height="270" as="geometry" />
@@ -277,8 +274,11 @@
         <mxCell id="8qZwhq6xs2QZ5eSCxIl9-2" value="월드맵에서 이동 방식 리뉴얼" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="1030" y="310" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bjaaBqrv-5sZKnMrwQVb-1" value="획득 가능 챕터 보상에 이펙트 띄우기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
-          <mxGeometry x="1030" y="390" width="159" height="60" as="geometry" />
+        <mxCell id="bjaaBqrv-5sZKnMrwQVb-1" value="획득 가능 챕터 보상에 이펙트 띄우기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="1030" y="380" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7aeweUhe6Mv9d77EpXdP-1" value="포커싱 기능 변경" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="1030" y="450" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1070" height="270" as="geometry">
