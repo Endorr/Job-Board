@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-26T16:18:20.961Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="Dh8xOjp257u5NvkcBx2Q" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-29T02:47:44.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="KGaD1baq_1KbSNJRQIQ7" version="15.8.6" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -280,11 +280,14 @@
         <mxCell id="7aeweUhe6Mv9d77EpXdP-1" value="포커싱 기능 변경" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="1030" y="450" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XMaGupbmjXg1dc3iNi8p-2" value="월드맵에서 이동 방식 리뉴얼&lt;br&gt;(MousePos 기반)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="XMaGupbmjXg1dc3iNi8p-2" value="월드맵에서 이동 방식 리뉴얼&lt;br&gt;(MousePos 기반)" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="1030" y="520" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XMaGupbmjXg1dc3iNi8p-1" value="월드맵 끝으로 가면 바운스 되도록 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="XMaGupbmjXg1dc3iNi8p-1" value="월드맵 끝으로 가면 바운스 되도록 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="1030" y="590" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMaGupbmjXg1dc3iNi8p-3" value="현재 방식 마우스 말고 터치로도 월드맵 이동 되는지 확인하고 올릴 것" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="1030" y="660" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1070" height="270" as="geometry">
@@ -326,9 +329,6 @@
         </mxCell>
         <mxCell id="Vl92tkifqei7AE4Ekfks-1" value="Public으로 열어놓은 데이터 값 정해지면 삭제하기" style="rounded=1;whiteSpace=wrap;html=1;" parent="Hf2SFhrhB0-e0Vb06iSS-1" vertex="1">
           <mxGeometry x="10" y="30" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XMaGupbmjXg1dc3iNi8p-3" value="현재 방식 마우스 말고 터치로도 월드맵 이동 되는지 확인하고 올릴 것" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Hf2SFhrhB0-e0Vb06iSS-1">
-          <mxGeometry x="10" y="120" width="159" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
