@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-29T02:47:44.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="KGaD1baq_1KbSNJRQIQ7" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-30T12:42:50.062Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="2EuofCkVs6PKbIaBGkJr" version="15.8.7" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="2ll814ofq2dmz8SjkR3Y-1" value="텍스트 맵 엘리먼트로&amp;nbsp; 스타일을 추가했을떄 기본적으로 적용되는 스타일이 적용되지않는 문제 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="40" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gtWLUjOPjHDXdY1Di-Q_-1" value="스테이지 포커싱 기능 재작업 (화면 비율에 맞춘 포커싱 테스트)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="10" y="110" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
