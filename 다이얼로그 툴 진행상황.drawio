@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-23T14:04:36.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="czjlfO9BRjPj7mAYncP9" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-02T08:37:37.560Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="pqt05S-taZh0qUBx9qel" version="15.8.8" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="290" y="50" width="281" height="640" as="geometry" />
         </mxCell>
         <mxCell id="HhCp5bAyaU2a7FvYHvNe-1" value="DialogueBaseWidget에 있는 프로젝트 의존적인 코드 이동 시킬 것" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="10" y="30" width="159" height="60" as="geometry" />
+          <mxGeometry x="61" y="30" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="200" height="360" as="geometry" />
@@ -19,7 +19,7 @@
         <mxCell id="MTrl5ynQiznJmTlUDSWs-4" value="대기 | 요청" style="swimlane;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="49" y="430" width="200" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="RefqtvOPT-CbneVdhMJ4-1" value="Despawn시 Rotation과 Scale값도 같이 초기화하도록 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MTrl5ynQiznJmTlUDSWs-4">
+        <mxCell id="RefqtvOPT-CbneVdhMJ4-1" value="Despawn시 Rotation과 Scale값도 같이 초기화하도록 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="MTrl5ynQiznJmTlUDSWs-4" vertex="1">
           <mxGeometry x="20.5" y="40" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9A0mLHsorhuxDrabdEOj-9" value="에러" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
