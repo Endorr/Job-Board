@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-02T09:48:13.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="hEdaQQtJQZoyFCC-i8wU" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-06T11:16:19.945Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="Lg0aDSDkQV_VSicvyn0L" version="15.9.1" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,12 +18,6 @@
         </mxCell>
         <mxCell id="MTrl5ynQiznJmTlUDSWs-4" value="대기 | 요청" style="swimlane;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="49" y="430" width="200" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="RefqtvOPT-CbneVdhMJ4-1" value="Despawn시 Rotation과 Scale값도 같이 초기화하도록 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="MTrl5ynQiznJmTlUDSWs-4" vertex="1">
-          <mxGeometry x="20.5" y="40" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TX_oiNkGi4RhC6tSfaPi-1" value="&lt;div&gt;ChangeAnim 실행 시, Play Montage 실행 후 Default Anim Montage로 돌아가게 처리&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MTrl5ynQiznJmTlUDSWs-4">
-          <mxGeometry x="20.5" y="110" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9A0mLHsorhuxDrabdEOj-9" value="에러" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="600" y="410" width="500" height="280" as="geometry" />
@@ -51,6 +45,12 @@
         </mxCell>
         <mxCell id="ZNA3MldTxm_1SV7WsNPP-1" value="FacialAnim에도 딜레이주기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="15" y="450" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RefqtvOPT-CbneVdhMJ4-1" value="Despawn시 Rotation과 Scale값도 같이 초기화하도록 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="15" y="520" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TX_oiNkGi4RhC6tSfaPi-1" value="&lt;div&gt;ChangeAnim 실행 시, Play Montage 실행 후 Default Anim Montage로 돌아가게 처리&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="15" y="590" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Commit" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1051" height="300" as="geometry">
