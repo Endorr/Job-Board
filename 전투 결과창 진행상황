@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-01T09:48:09.910Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="clXXyHCX336DlaibsO9_" version="15.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-06T12:56:56.217Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="ThC9T-p2taN5tx6si9CG" version="15.9.1" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,12 @@
         <mxCell id="1" parent="0" />
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-16" value="구현" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="270" y="50" width="339" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="zcyn4oi8b7TnZNW8mx5d-2" value="경험치 씬 현재 데이터 표기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="10" y="40" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zcyn4oi8b7TnZNW8mx5d-3" value="경험치 씬 합산 데이터 표기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="10" y="120" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
@@ -19,146 +25,11 @@
         <mxCell id="9A0mLHsorhuxDrabdEOj-9" value="에러 | 수정" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="620" y="440" width="500" height="270" as="geometry" />
         </mxCell>
+        <mxCell id="zcyn4oi8b7TnZNW8mx5d-1" value="레브치 전투 무한 페이드 이슈 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9A0mLHsorhuxDrabdEOj-9">
+          <mxGeometry x="20" y="40" width="159" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="hDPYIisuoytdxOGGVnbc-3" value="     폐기 | 완료" style="swimlane;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;align=left;" parent="1" vertex="1">
           <mxGeometry x="1130" y="50" width="760" height="980" as="geometry" />
-        </mxCell>
-        <mxCell id="Qk77YPfGWMz_Xu8xhVY--1" value="UPV_Mapper_Stage_Patrol 작성" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="10" y="30" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Qk77YPfGWMz_Xu8xhVY--6" value="UPV_Mapper_Star_Condition 작성" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="10" y="100" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Qk77YPfGWMz_Xu8xhVY--7" value="UPV_Mapper_Star_Point&lt;br&gt;작성" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="10" y="170" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Qk77YPfGWMz_Xu8xhVY--2" value="패트롤 지역 월드맵에 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="10" y="240" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="twP-iYC3pEqsz_lacLF1-11" value="스테이지 리스트 패트롤 별 획득 조건 표기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="10" y="310" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="twP-iYC3pEqsz_lacLF1-8" value="스테이지 리스트 난이도 변경 처리" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="10" y="380" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZG7KpP1o5SDsFTY563xy-2" value="별 달성 조건에 캐릭터 이름 표기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="10" y="450" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="twP-iYC3pEqsz_lacLF1-5" value="스테이지 리스트 패트롤 리워드 표기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="10" y="660" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZG7KpP1o5SDsFTY563xy-4" value="패트롤 리워드 표기시 골드 먼저 표기하고 그 다음에 나머지 표기할 것" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="10" y="590" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZG7KpP1o5SDsFTY563xy-3" value="별 달성 조건에 소속 표기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="10" y="520" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ftfbbZICx7ae7yBzmVb_-2" value="패트롤 전투 준비 위젯 작업" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="10" y="730" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Qk77YPfGWMz_Xu8xhVY--3" value="패트롤 스테이지 입장" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="10" y="800" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="twP-iYC3pEqsz_lacLF1-3" value="패트롤 전투 결과 서버에 전달" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="10" y="870" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Qk77YPfGWMz_Xu8xhVY--5" value="패트롤 전투 결과 위젯 작업" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="180" y="30" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="twP-iYC3pEqsz_lacLF1-1" value="로그인 시 달성 별 갯수와 별 위치 받아서 저장하기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="180" y="100" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="twP-iYC3pEqsz_lacLF1-4" value="패트롤 전투 결과 로컬에 저장" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="180" y="170" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="twP-iYC3pEqsz_lacLF1-7" value="패트롤 스테이지 진행도 저장" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="180" y="240" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iNiQomuWCNf6HEFR2LjS-2" value="임시로 public화 해둔 CurrentPatrolID정리하기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="180" y="310" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="twP-iYC3pEqsz_lacLF1-6" value="월드맵 패트롤 진행도 표기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="180" y="380" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="twP-iYC3pEqsz_lacLF1-9" value="패트롤 스테이지 진행도에 따른 스테이지 잠금 처리" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="180" y="450" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ftfbbZICx7ae7yBzmVb_-1" value="몬스터 아이콘 왜 깜박거리는 지 알아보기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="180" y="520" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iNiQomuWCNf6HEFR2LjS-3" value="스테이지 리스트 별 달성 여부 표기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="180" y="590" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Qk77YPfGWMz_Xu8xhVY--4" value="스테이지 리스트 패트롤 진행도 표기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="180" y="660" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iNiQomuWCNf6HEFR2LjS-1" value="스테이지에서 별 달성여부 계산 (서버에서 해줌)" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="180" y="730" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y7kd1urKHsp-Xs45smwK-6" value="text 스타일 지정 요청&lt;br&gt;UI 변하형 님" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="180" y="800" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y7kd1urKHsp-Xs45smwK-2" value="UI 변경&lt;br&gt;UI 변하형 님" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="180" y="870" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y7kd1urKHsp-Xs45smwK-4" value="스테이지 리스트 별 달성도 보상 정보 표기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="350" y="30" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y7kd1urKHsp-Xs45smwK-5" value="스테이지 달성도 보상 획득" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="350" y="100" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y7kd1urKHsp-Xs45smwK-14" value="서버에서 반복 전투 데이터를 못받는 현상 수정&lt;br&gt;[서버 최종훈님]" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="350" y="170" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y7kd1urKHsp-Xs45smwK-9" value="전투 결과창 별 달성 위젯 표현" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="350" y="240" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y7kd1urKHsp-Xs45smwK-13" value="입장 불가시 토스트 메시지 띄우기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="350" y="310" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JRa78PCt8DiUW9HHwvgE-1" value="몬스터 아이콘 보스 표기 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="350" y="380" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y7kd1urKHsp-Xs45smwK-12" value="마지막 스테이지면 다음스테이지 버튼 안뜨게 하기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="350" y="450" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JRa78PCt8DiUW9HHwvgE-2" value="다시하기 버튼에 행동력 소모량 표기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="350" y="520" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JRa78PCt8DiUW9HHwvgE-3" value="다음 스테이지 클릭시 다음 스테이지로 이동" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="350" y="590" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y7kd1urKHsp-Xs45smwK-8" value="패트롤 최신 스테이지 포커싱" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="350" y="660" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="twP-iYC3pEqsz_lacLF1-10" value="로컬에 저장된 최근 전투 스테이지로 포커싱" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="350" y="730" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-P6mflBc4KHeAWj7Sc4A-1" value="별 갯수에 따라 UI가I변경 되도록 변경" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="350" y="800" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y7kd1urKHsp-Xs45smwK-11" value="다시하기 클릭시 세팅 안거치고 스테이지 재진입" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="350" y="870" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y7kd1urKHsp-Xs45smwK-10" value="패트롤 보상 레드닷" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="524" y="30" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-P6mflBc4KHeAWj7Sc4A-2" value="스테이지 리스트 포커싱 제대로 안되는 문제" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="524" y="100" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-P6mflBc4KHeAWj7Sc4A-3" value="잠긴 난이도 잠금 처리" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="524" y="170" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dtQHwgyZP7kncCCjp5I9-1" value="패트롤 스테이지 보상 수령시 중복 아이템 보상 못받는 현상 수정&lt;br&gt;[서버팀 정민님]" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="524" y="240" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-P6mflBc4KHeAWj7Sc4A-4" value="스테이지에서 달성도 계산" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="524" y="310" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6sX88ohcvnw_GlhDrZpS-1" value="별 보상 순차 수령으로 만들기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="524" y="380" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cuFcQ0VIwTTpqal84aTM-1" value="영웅 밴 시스템 추가 (임시)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
-          <mxGeometry x="524" y="450" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1070" height="300" as="geometry">
