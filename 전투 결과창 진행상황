@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T08:03:54.966Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="SZ3aFo6AyglNqpTgcfeO" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-07T12:29:24.012Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="FzN0Xl-JWyv1wkZG-gWa" version="15.9.1" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,23 +7,23 @@
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-16" value="구현" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="270" y="50" width="339" height="660" as="geometry" />
         </mxCell>
-        <mxCell id="zcyn4oi8b7TnZNW8mx5d-2" value="경험치 씬 현재 데이터 표기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="64" y="40" width="159" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="zcyn4oi8b7TnZNW8mx5d-3" value="경험치 씬 합산 데이터 표기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="10" y="120" width="159" height="60" as="geometry" />
+          <mxGeometry x="10" y="40" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B5vKkklEGBepd3I0wFaL-3" value="아이템 씬에서 폴리싱 이전 위젯 관련코드 제거" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="10" y="190" width="159" height="60" as="geometry" />
+          <mxGeometry x="10" y="110" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B5vKkklEGBepd3I0wFaL-4" value="경험치 씬 완료 버튼에 딜레이 주기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="10" y="260" width="159" height="60" as="geometry" />
+          <mxGeometry x="10" y="190" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-18" value="고려" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="620" y="50" width="220" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="B5vKkklEGBepd3I0wFaL-6" value="경험치 씬 획득 시작에 딜레이 주기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-18">
+          <mxGeometry x="10" y="40" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MTrl5ynQiznJmTlUDSWs-4" value="대기 | 요청" style="swimlane;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="49" y="330" width="210" height="380" as="geometry" />
@@ -42,6 +42,12 @@
         </mxCell>
         <mxCell id="B5vKkklEGBepd3I0wFaL-2" value="전투 위젯 꺼주기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
           <mxGeometry x="10" y="180" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B5vKkklEGBepd3I0wFaL-5" value="반복전투 다시하기에서 영웅 경험치 못 받던 현상 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="10" y="250" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zcyn4oi8b7TnZNW8mx5d-2" value="경험치 씬 현재 데이터 표기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="10" y="320" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1070" height="300" as="geometry">
