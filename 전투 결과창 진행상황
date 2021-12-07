@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T12:55:56.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="GTme4ykPdmAv1hjRDePr" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-07T13:00:43.689Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="LidEH69AU23tRk1aGq57" version="15.9.1" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,7 +57,7 @@
             <mxRectangle x="49" y="720" width="100" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KfCYHrgsOKh0RXw9eGPa-2" value="&lt;h1&gt;Memo&lt;/h1&gt;&lt;p&gt;메모&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" parent="6kkVd8V_ymKgZ0_L0vxy-3" vertex="1">
+        <mxCell id="KfCYHrgsOKh0RXw9eGPa-2" value="&lt;h1&gt;Memo&lt;/h1&gt;&lt;p&gt;경험치 획득 애니메이션 재생 시간은 획득한 경험치량에 비례하도록 한다.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" parent="6kkVd8V_ymKgZ0_L0vxy-3" vertex="1">
           <mxGeometry y="20" width="1070" height="280" as="geometry" />
         </mxCell>
         <mxCell id="oumLD8d3DvaTa1NXrWpt-27" value="Tool" style="swimlane;horizontal=0;" parent="1" vertex="1">
