@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-14T05:04:45.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="MA73J-vHpkCxcBIgcStO" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-14T05:11:32.322Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="YwJsWGhI9qtusOSwDIVk" version="15.9.4" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,9 +18,6 @@
         </mxCell>
         <mxCell id="MTrl5ynQiznJmTlUDSWs-4" value="대기 | 요청" style="swimlane;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="40" y="430" width="240" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="U224prXL_mP2mbrXDM9J-2" value="SDTalk 위치 변경될 경우 다음 대사 연출 구현 &lt;br&gt;[기획팀 연수님]" style="rounded=1;whiteSpace=wrap;html=1;" parent="MTrl5ynQiznJmTlUDSWs-4" vertex="1">
-          <mxGeometry x="20" y="40" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9A0mLHsorhuxDrabdEOj-9" value="에러" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="600" y="410" width="500" height="280" as="geometry" />
