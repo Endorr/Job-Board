@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-14T03:40:27.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="twpyqY0ak0MyP9In6ort" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-14T05:04:45.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="MA73J-vHpkCxcBIgcStO" version="15.9.4" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,12 +9,6 @@
         </mxCell>
         <mxCell id="HhCp5bAyaU2a7FvYHvNe-1" value="DialogueBaseWidget에 있는 프로젝트 의존적인 코드 이동 시킬 것" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="61" y="30" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="U224prXL_mP2mbrXDM9J-1" value="Talk 액션들 WaitInput 해제시 자동으로 완료되어 내려가게 하기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="10" y="100" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VtEjcqW6dZ4e4ET2yfx2-2" value="HideTalkPanel옵션 사용시&amp;nbsp;어색한 문제 수정하기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="10" y="180" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="40" y="50" width="240" height="360" as="geometry" />
@@ -60,6 +54,12 @@
         </mxCell>
         <mxCell id="TX_oiNkGi4RhC6tSfaPi-1" value="&lt;div&gt;ChangeAnim 실행 시, Play Montage 실행 후 Default Anim Montage로 돌아가게 처리&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="15" y="590" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VtEjcqW6dZ4e4ET2yfx2-2" value="Talk에 ShowDisappearAnim추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="15" y="660" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U224prXL_mP2mbrXDM9J-1" value="Talk 액션들 WaitInput 해제시 자동으로 완료되어 내려가게 하기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="15" y="730" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Commit" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="30" y="700" width="1070" height="330" as="geometry">
