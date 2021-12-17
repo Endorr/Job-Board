@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-17T08:53:32.562Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="BrD5TId96DIB4Yzvcsv6" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-17T09:57:23.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="VIZNwC16ofISsYq30DZx" version="15.9.6" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="270" y="50" width="339" height="660" as="geometry" />
         </mxCell>
         <mxCell id="TmhBBiTESZEoPBMsBP5R-5" value="패배 시 가이드 버튼에 각 컨텐츠 연결" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="20" y="40" width="159" height="60" as="geometry" />
+          <mxGeometry x="90" y="40" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TmhBBiTESZEoPBMsBP5R-6" value="패배 시 가이드 버튼에 컨텐츠 락 반영" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
           <mxGeometry x="20" y="110" width="159" height="60" as="geometry" />
