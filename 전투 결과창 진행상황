@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T07:14:51.598Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="FLSD2xjJqeHPRNN9OVJQ" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-20T09:29:34.476Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="OsppCpunPKY9hDt0fsPe" version="15.9.6" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,9 +18,6 @@
         </mxCell>
         <mxCell id="TmhBBiTESZEoPBMsBP5R-7" value="스토리 전투 승리 결과창의&amp;nbsp; 중간 텍스트 사이즈가 안커지는 이슈 [창곤님]" style="rounded=1;whiteSpace=wrap;html=1;" parent="MTrl5ynQiznJmTlUDSWs-4" vertex="1">
           <mxGeometry x="21" y="40" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ds9kAqEc6YeWX9VmRgWI-1" value="패배시 컨텐츠 버튼 아이콘 변경 [기획 재철님, UI 은채님]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MTrl5ynQiznJmTlUDSWs-4">
-          <mxGeometry x="26" y="110" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9A0mLHsorhuxDrabdEOj-9" value="에러 | 수정" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="620" y="440" width="500" height="270" as="geometry" />
@@ -84,6 +81,9 @@
         </mxCell>
         <mxCell id="TmhBBiTESZEoPBMsBP5R-6" value="패배 시 가이드 버튼에 컨텐츠 락 반영" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="180" y="390" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ds9kAqEc6YeWX9VmRgWI-1" value="패배시 컨텐츠 버튼 아이콘 변경 [기획 재철님, UI 은채님]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="180" y="460" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1070" height="300" as="geometry">
