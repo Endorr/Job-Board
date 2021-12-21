@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T06:37:07.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="XB-EV23RZR7oujrirj7m" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-21T08:07:05.349Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="QWhFGlbvQxw4tl_--Gcm" version="16.0.0" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -74,6 +74,12 @@
         </mxCell>
         <mxCell id="0VZLuAnu4X521owhytrT-4" value="재능 축소시 회전 기능 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="10" y="870" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBoRLpcfAxv6QMKU7_ja-2" value="아이패드 해상도에서 현재 확대된 타입 외의 타입버튼을 누를 수 있는 문제 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="180" y="30" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBoRLpcfAxv6QMKU7_ja-3" value="재능 위젯 애니메이션 Talent_Slot으로 이동" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="180" y="100" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1070" height="300" as="geometry">
