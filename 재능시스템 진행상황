@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-29T13:04:01.585Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="GlRutbWkGbmTjqUyFfVR" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-30T03:00:09.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="6dPFfb1lze99kDEZmes2" version="16.1.0" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,22 +10,22 @@
         <mxCell id="MnjyOs89FLKUCTjQRcc4-3" value="각 영웅별 재능 정보 표기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="20" y="40" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDW6lU84broPBWjC_ZXO-3" value="마석 우측 탭에 표기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+        <mxCell id="JDW6lU84broPBWjC_ZXO-3" value="마석 우측 탭에 표기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="20" y="110" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDW6lU84broPBWjC_ZXO-4" value="마석 장착" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+        <mxCell id="JDW6lU84broPBWjC_ZXO-4" value="마석 장착" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="20" y="180" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDW6lU84broPBWjC_ZXO-5" value="마석 해제" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+        <mxCell id="JDW6lU84broPBWjC_ZXO-5" value="마석 해제" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="20" y="250" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDW6lU84broPBWjC_ZXO-6" value="마석 교체" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+        <mxCell id="JDW6lU84broPBWjC_ZXO-6" value="마석 교체" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="20" y="320" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDW6lU84broPBWjC_ZXO-7" value="마석 좌측 탭에 표기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+        <mxCell id="JDW6lU84broPBWjC_ZXO-7" value="마석 좌측 탭에 표기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="20" y="390" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDW6lU84broPBWjC_ZXO-8" value="재능 회전 상태 저장" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+        <mxCell id="JDW6lU84broPBWjC_ZXO-8" value="재능 회전 상태 저장" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="100" y="460" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
@@ -37,20 +37,17 @@
         <mxCell id="MTrl5ynQiznJmTlUDSWs-4" value="대기 | 요청" style="swimlane;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="49" y="330" width="210" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="JDW6lU84broPBWjC_ZXO-2" value="오픈 재료 로컬테이블 데이터 추가 [기획 지수님]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MTrl5ynQiznJmTlUDSWs-4">
+        <mxCell id="JDW6lU84broPBWjC_ZXO-2" value="오픈 재료 로컬테이블 데이터 추가 [기획 지수님]" style="rounded=1;whiteSpace=wrap;html=1;" parent="MTrl5ynQiznJmTlUDSWs-4" vertex="1">
           <mxGeometry x="11" y="40" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDW6lU84broPBWjC_ZXO-9" value="홈버튼 스크린 페이더 뭔지 물어보기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MTrl5ynQiznJmTlUDSWs-4">
-          <mxGeometry x="11" y="110" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JDW6lU84broPBWjC_ZXO-10" value="Res 패킷 변경 요청" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MTrl5ynQiznJmTlUDSWs-4">
+        <mxCell id="JDW6lU84broPBWjC_ZXO-10" value="Res 패킷 변경 요청" style="rounded=1;whiteSpace=wrap;html=1;" parent="MTrl5ynQiznJmTlUDSWs-4" vertex="1">
           <mxGeometry x="11" y="180" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6vgitg2-XiannQ_Kygl-1" value="독점그룹 종료 방식 수정 [윤재님]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MTrl5ynQiznJmTlUDSWs-4">
+          <mxGeometry x="11" y="110" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9A0mLHsorhuxDrabdEOj-9" value="에러 | 수정" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="620" y="440" width="500" height="270" as="geometry" />
-        </mxCell>
-        <mxCell id="JDW6lU84broPBWjC_ZXO-11" value="Mapper에 HeroID랑 타입, 순서만 받아서 아이디 리턴해주는 함수 만들기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9A0mLHsorhuxDrabdEOj-9">
-          <mxGeometry x="62" y="40" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hDPYIisuoytdxOGGVnbc-3" value="     폐기 | 완료" style="swimlane;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;align=left;" parent="1" vertex="1">
           <mxGeometry x="1130" y="50" width="760" height="980" as="geometry">
@@ -147,11 +144,17 @@
         <mxCell id="LVnhAacUH8bh8zjIbTem-4" value="선택시 재능 데이터 갱신" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="350" y="240" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDW6lU84broPBWjC_ZXO-1" value="처음 들어갔을 때 우측 탭이 나와있는 상태로 판정되는 이슈" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="JDW6lU84broPBWjC_ZXO-1" value="처음 들어갔을 때 우측 탭이 나와있는 상태로 판정되는 이슈" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="350" y="310" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6FosOGtcmj2S2LiD_nZ4-7" value="아이템 클릭시 상세설명 팝업" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="350" y="380" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JDW6lU84broPBWjC_ZXO-11" value="Mapper에 HeroID랑 타입, 순서만 받아서 아이디 리턴해주는 함수 만들기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="350" y="450" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JDW6lU84broPBWjC_ZXO-9" value="홈버튼 스크린 페이더 뭔지 물어보기 [윤재님]" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="350" y="520" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1070" height="300" as="geometry">
