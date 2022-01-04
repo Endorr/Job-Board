@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T06:16:05.573Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="OlboQmADP6C8X2Kr9TD6" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-04T06:16:10.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="1_FWLgMq3nUBQbHRF6TH" version="16.1.2" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="10" y="40" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tzYARC1bR076g5Nj7l02-2" value="SDTalk Switch옵션 추가및 Disappearance와의 관계설정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="10" y="110" width="159" height="60" as="geometry" />
+          <mxGeometry x="80" y="110" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="40" y="50" width="240" height="360" as="geometry" />
