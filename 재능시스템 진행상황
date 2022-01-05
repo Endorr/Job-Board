@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T08:04:33.469Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="tqAUxkKYExq9lIqU5nl9" version="16.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-05T08:24:18.815Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="QAs_ZTyCYzng_QRHWygc" version="16.1.4" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,14 +22,11 @@
         <mxCell id="io-DU-ceMwQtMLIeng1W-1" value="마석 상세정보 팝업 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
           <mxGeometry x="20" y="320" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="io-DU-ceMwQtMLIeng1W-2" value="재능 아이콘 클릭 이펙트 반영" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="90" y="534.5" width="159" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="io-DU-ceMwQtMLIeng1W-3" value="아이템 갯수 실시간 반영" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
           <mxGeometry x="20" y="390" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="io-DU-ceMwQtMLIeng1W-4" value="재능 아이콘 셀렉&amp;amp;디셀렉 이펙트 반영" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="20" y="460" width="159" height="60" as="geometry" />
+          <mxGeometry x="100" y="460" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
@@ -191,6 +188,9 @@
         </mxCell>
         <mxCell id="MnjyOs89FLKUCTjQRcc4-3" value="각 영웅별 재능 정보 표기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="524" y="520" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="io-DU-ceMwQtMLIeng1W-2" value="재능 아이콘 클릭 이펙트 반영" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="524" y="590" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1071" height="260" as="geometry">
