@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T14:17:24.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="bRZiG6OJzRGSit0Fq_ps" version="16.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-05T14:37:12.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="sDhliAr1dGj9ZOskWR7W" version="16.1.4" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-16" value="구현" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="270" y="50" width="339" height="660" as="geometry" />
         </mxCell>
-        <mxCell id="JDW6lU84broPBWjC_ZXO-3" value="마석 우측 탭에 표기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
+        <mxCell id="JDW6lU84broPBWjC_ZXO-3" value="마석 좌측 탭에 표기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="240" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JDW6lU84broPBWjC_ZXO-4" value="마석 장착" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
