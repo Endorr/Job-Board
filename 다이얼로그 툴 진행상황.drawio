@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T11:13:28.929Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="E-wGTaqYHIW5L6JuG6_r" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-06T05:40:50.328Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="OybjXKRbj-DjidSYIpjo" version="16.2.1" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,6 +21,9 @@
         </mxCell>
         <mxCell id="9A0mLHsorhuxDrabdEOj-9" value="에러" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="600" y="410" width="500" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="1xpx2sFLdFwlwE7BCLOf-1" value="ChangeMontage의 FacialType변경이 초회에만 적용되는 문제 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9A0mLHsorhuxDrabdEOj-9">
+          <mxGeometry x="30.5" y="40" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hDPYIisuoytdxOGGVnbc-3" value="폐기 | 완료" style="swimlane;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="1120" y="50" width="460" height="980" as="geometry" />
@@ -67,7 +70,7 @@
         <mxCell id="4zdBLXLB52W8DIwfXwuz-1" value="SDTalk Disappearance옵션 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="180" y="30" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tzYARC1bR076g5Nj7l02-2" value="SDTalk Switch옵션 조건 변경" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="tzYARC1bR076g5Nj7l02-2" value="SDTalk Switch옵션 조건 변경" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="180" y="100" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Commit" style="swimlane;" parent="1" vertex="1">
