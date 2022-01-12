@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T13:15:13.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="3MUrad5GD3JRspm9iO3u" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T06:10:03.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Znu9OyzEn5wBvTiqcZfM" version="16.2.4" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,12 +6,6 @@
         <mxCell id="1" parent="0" />
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-16" value="구현" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="270" y="50" width="339" height="660" as="geometry" />
-        </mxCell>
-        <mxCell id="JDW6lU84broPBWjC_ZXO-3" value="마석 장착시 발생하는 이벤트 작성" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="90" y="240" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JDW6lU84broPBWjC_ZXO-4" value="마석 장착" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="90" y="450" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JDW6lU84broPBWjC_ZXO-5" value="마석 해제" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="380" width="159" height="60" as="geometry" />
@@ -46,7 +40,7 @@
         <mxCell id="i8SMnuBDXVI6GT4HcQXo-1" value="재능&amp;amp;마석슬롯 오픈 팝업 아이콘-&amp;gt;위젯으로 변경" style="rounded=1;whiteSpace=wrap;html=1;" parent="9A0mLHsorhuxDrabdEOj-9" vertex="1">
           <mxGeometry x="18" y="40" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oMDstJ6cPb2WzY4XjBCQ-1" value="재능 인벤토리 연속 클릭시 애니메이션 다시 호출되는 현상 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9A0mLHsorhuxDrabdEOj-9">
+        <mxCell id="oMDstJ6cPb2WzY4XjBCQ-1" value="재능 인벤토리 연속 클릭시 애니메이션 다시 호출되는 현상 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="9A0mLHsorhuxDrabdEOj-9" vertex="1">
           <mxGeometry x="18" y="105" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hDPYIisuoytdxOGGVnbc-3" value="     폐기 | 완료" style="swimlane;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;align=left;" parent="1" vertex="1">
@@ -209,6 +203,12 @@
         </mxCell>
         <mxCell id="io-DU-ceMwQtMLIeng1W-1" value="마석 상세정보 팝업 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="524" y="870" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JDW6lU84broPBWjC_ZXO-4" value="마석 장착" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="690" y="30" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JDW6lU84broPBWjC_ZXO-3" value="마석 장착시 발생하는 이벤트 작성" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="690" y="100" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1071" height="260" as="geometry">
