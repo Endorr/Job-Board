@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T12:41:19.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="rhCDVLwTnK7ylO6S8JnB" version="16.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-20T12:43:30.700Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="83yK2swB7UO3Jdl3islL" version="16.3.0" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,15 +24,6 @@
         </mxCell>
         <mxCell id="9A0mLHsorhuxDrabdEOj-9" value="에러 | 수정" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="620" y="440" width="500" height="270" as="geometry" />
-        </mxCell>
-        <mxCell id="geTbF0LqRt3QGjgyDQYX-1" value="마석 클릭시 재능 클릭 상태가 갱신되지 않는 이슈" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9A0mLHsorhuxDrabdEOj-9">
-          <mxGeometry x="10" y="40" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="geTbF0LqRt3QGjgyDQYX-2" value="마석 클릭후 디테일 팝업 닫힐 때 클릭 이펙트 Off 처리" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9A0mLHsorhuxDrabdEOj-9">
-          <mxGeometry x="10" y="105" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="geTbF0LqRt3QGjgyDQYX-3" value="재능씬에서 재화창 가림" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9A0mLHsorhuxDrabdEOj-9">
-          <mxGeometry x="10" y="170" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="geTbF0LqRt3QGjgyDQYX-4" value="마석 해제 및 교체시 뉴닷이 나오는 현상 제거" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9A0mLHsorhuxDrabdEOj-9">
           <mxGeometry x="180" y="40" width="159" height="60" as="geometry" />
@@ -242,6 +233,15 @@
         </mxCell>
         <mxCell id="i8SMnuBDXVI6GT4HcQXo-1" value="재능&amp;amp;마석슬롯 오픈 팝업 아이콘-&amp;gt;위젯으로 변경" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="858" y="100" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="geTbF0LqRt3QGjgyDQYX-1" value="마석 클릭시 재능 클릭 상태가 갱신되지 않는 이슈" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="858" y="170" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="geTbF0LqRt3QGjgyDQYX-2" value="마석 클릭후 디테일 팝업 닫힐 때 클릭 이펙트 Off 처리" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="858" y="240" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="geTbF0LqRt3QGjgyDQYX-3" value="재능씬에서 재화창 가림" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="858" y="310" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1071" height="260" as="geometry">
