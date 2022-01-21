@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T07:13:28.676Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="1gMZy38st0IM5VOhQYLv" version="16.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-21T08:07:10.636Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="XKNtswhoNBzx_unOpxRn" version="16.4.3" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,9 +15,6 @@
         </mxCell>
         <mxCell id="yv2eZoPjtNACETi6723G-1" value="좌측탭 마석 정보 글자색 변경" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
           <mxGeometry x="10" y="440" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yv2eZoPjtNACETi6723G-2" value="좌측탭 확대시 마석 Select 표시" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="80" y="505" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yv2eZoPjtNACETi6723G-4" value="재능 마석 버튼 클릭시 사운드" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
           <mxGeometry x="10" y="170" width="159" height="60" as="geometry" />
@@ -263,6 +260,12 @@
         </mxCell>
         <mxCell id="yv2eZoPjtNACETi6723G-8" value="마석 미보유시 표기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
           <mxGeometry x="858" y="450" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yv2eZoPjtNACETi6723G-2" value="좌측탭 확대시 마석 Select 표시" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="858" y="520" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yv2eZoPjtNACETi6723G-9" value="위젯 폴리싱에 따른 Visibility 정리" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="858" y="590" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1071" height="260" as="geometry">
