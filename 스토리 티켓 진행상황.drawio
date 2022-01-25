@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T07:34:49.407Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="FWHXz3Gt95ihUc48oqk2" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-25T07:36:34.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ym9WGpfvUr7lyeTjyugd" version="16.4.5" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,9 +6,6 @@
         <mxCell id="1" parent="0" />
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-16" value="구현" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="270" y="50" width="339" height="660" as="geometry" />
-        </mxCell>
-        <mxCell id="yv2eZoPjtNACETi6723G-5" value="스토리 티켓 관련 데이터 저장" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="90" y="40" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cJCC7sbpeEC_L9KTbLIl-1" value="스토리 티켓 시간에 따라 증가" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="110" width="159" height="60" as="geometry" />
@@ -38,6 +35,9 @@
           <mxGeometry x="1130" y="50" width="340" height="940" as="geometry">
             <mxRectangle x="1130" y="50" width="90" height="23" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yv2eZoPjtNACETi6723G-5" value="스토리 티켓 관련 데이터 저장" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="10" y="30" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1071" height="260" as="geometry">
