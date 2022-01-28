@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-28T06:56:12.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="sgHsZpjt1-79DnrOpATM" version="16.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-28T06:56:27.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="petjs0ulbOVL9JYg8z-2" version="16.4.7" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,9 @@
         <mxCell id="1" parent="0" />
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-16" value="구현" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="270" y="50" width="339" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="io-DU-ceMwQtMLIeng1W-6" value="패시브 적용" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
+          <mxGeometry x="10" y="30" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
@@ -16,14 +19,11 @@
         <mxCell id="MTrl5ynQiznJmTlUDSWs-4" value="대기 | 요청" style="swimlane;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="49" y="330" width="210" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="io-DU-ceMwQtMLIeng1W-6" value="패시브 적용" style="rounded=1;whiteSpace=wrap;html=1;" parent="MTrl5ynQiznJmTlUDSWs-4" vertex="1">
+        <mxCell id="yv2eZoPjtNACETi6723G-10" value="재능 선택시 텍스트 색상 변경 및 위젯에 이펙트" style="rounded=1;whiteSpace=wrap;html=1;" parent="MTrl5ynQiznJmTlUDSWs-4" vertex="1">
           <mxGeometry x="21" y="30" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yv2eZoPjtNACETi6723G-10" value="재능 선택시 텍스트 색상 변경 및 위젯에 이펙트" style="rounded=1;whiteSpace=wrap;html=1;" parent="MTrl5ynQiznJmTlUDSWs-4" vertex="1">
-          <mxGeometry x="21" y="100" width="159" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="-LpInske6jSm5lROVLSk-1" value="스탯 전체보기에서 재능 스탯이 포함되지 않는 문제 수정&lt;br&gt;[기획쪽에서 정리하면 그때 시작]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MTrl5ynQiznJmTlUDSWs-4">
-          <mxGeometry x="21" y="170" width="159" height="60" as="geometry" />
+          <mxGeometry x="21" y="100" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9A0mLHsorhuxDrabdEOj-9" value="에러 | 수정" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="620" y="440" width="500" height="270" as="geometry" />
