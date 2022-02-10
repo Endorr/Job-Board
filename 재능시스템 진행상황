@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-10T12:30:53.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="zQytOHofYntYx9DX9hSk" version="16.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-10T12:55:45.254Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="wnnToztdf-I5XtIfdn4C" version="16.5.5" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -285,12 +285,15 @@
         <mxCell id="-AHsfRdiXDDpOyorY3VK-1" value="재능 회전 터치영역 원으로 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="1030" y="380" width="159" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="aA1p3sOnE2yArzDje7bW-1" value="우측 사이드탭 닫기 버튼 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="1030" y="450" width="159" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1071" height="260" as="geometry">
             <mxRectangle x="49" y="720" width="100" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KfCYHrgsOKh0RXw9eGPa-2" value="&lt;h1&gt;Memo&lt;/h1&gt;&lt;p&gt;1 2 3 4 5 6 7 10 11&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" parent="6kkVd8V_ymKgZ0_L0vxy-3" vertex="1">
+        <mxCell id="KfCYHrgsOKh0RXw9eGPa-2" value="&lt;h1&gt;Memo&lt;/h1&gt;&lt;p&gt;남은 폴리싱 요소&lt;/p&gt;&lt;p&gt;1 2 3 5 6 7 10 11&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" parent="6kkVd8V_ymKgZ0_L0vxy-3" vertex="1">
           <mxGeometry x="1" y="20" width="1070" height="240" as="geometry" />
         </mxCell>
         <mxCell id="oumLD8d3DvaTa1NXrWpt-27" value="Tool" style="swimlane;horizontal=0;" parent="1" vertex="1">
