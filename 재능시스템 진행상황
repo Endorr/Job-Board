@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-11T06:22:51.360Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="zZSk-jTig2ftdkxu7XVg" version="16.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-11T07:11:33.096Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="ch8G8J175sGMZ_3vaQdJ" version="16.5.5" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2585" dy="1385" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,9 +9,6 @@
         </mxCell>
         <mxCell id="io-DU-ceMwQtMLIeng1W-6" value="패시브 적용" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="30" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6SjCmmI4nKWdXua75MX1-2" value="마석 슬롯 선택 이펙트 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="80" y="105" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
@@ -293,6 +290,12 @@
         </mxCell>
         <mxCell id="6SjCmmI4nKWdXua75MX1-1" value="우측 탭에 스탯증가치 표기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
           <mxGeometry x="1030" y="520" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6SjCmmI4nKWdXua75MX1-2" value="마석 슬롯 선택 이펙트 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="1030" y="590" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6SjCmmI4nKWdXua75MX1-3" value="장착한 마석 등급에 따른 BG변경" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="1030" y="660" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1071" height="260" as="geometry">
