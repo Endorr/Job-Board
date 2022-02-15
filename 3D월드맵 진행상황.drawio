@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T09:12:25.776Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="aYO0ur3oGm455Acqz5IX" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-15T12:24:40.303Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="nPR1I3zAHb7_2oY2IT1q" version="16.5.6" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="270" y="50" width="339" height="660" as="geometry" />
         </mxCell>
         <mxCell id="kJ8uscEwteNc1p09hnLr-2" value="캐릭터 생성 및 빙의" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="90" y="50" width="159" height="60" as="geometry" />
+          <mxGeometry x="120" y="50" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kJ8uscEwteNc1p09hnLr-3" value="월드맵 퇴장" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="20" y="190" width="159" height="60" as="geometry" />
