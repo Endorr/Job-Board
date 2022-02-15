@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-14T12:34:05.491Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.70 Whale/3.13.131.27 Safari/537.36" etag="ezpcwxIJaJbWm8eptAbp" version="16.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-15T06:48:55.095Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.70 Whale/3.13.131.27 Safari/537.36" etag="aYxet_OldGbsFHqZEiIo" version="16.5.6" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
-    <mxGraphModel dx="1056" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1376" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,10 +8,13 @@
           <mxGeometry x="270" y="50" width="339" height="660" as="geometry" />
         </mxCell>
         <mxCell id="9BVSQYlsmqHMlIktp3W5-5" value="월드맵 씬 입장&lt;br&gt;임시" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="10" y="40" width="159" height="60" as="geometry" />
+          <mxGeometry x="90" y="40" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vTnbH4VRIqhErS-_WKO5-3" value="스트림 입장 어떻게 하는지 여쭤보기&lt;br&gt;[두용님]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="64" y="160" width="159" height="60" as="geometry" />
+        <mxCell id="kJ8uscEwteNc1p09hnLr-1" value="카메라 월드 위치로 전환" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="20" y="110" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kJ8uscEwteNc1p09hnLr-2" value="캐릭터 생성 및 빙의" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="20" y="180" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
@@ -22,10 +25,10 @@
         <mxCell id="MTrl5ynQiznJmTlUDSWs-4" value="대기 | 요청" style="swimlane;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="49" y="330" width="210" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="vTnbH4VRIqhErS-_WKO5-1" value="World 데이터테이블 추가&lt;br&gt;[기획 진권님]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MTrl5ynQiznJmTlUDSWs-4">
+        <mxCell id="vTnbH4VRIqhErS-_WKO5-1" value="World 데이터테이블 추가&lt;br&gt;[기획 진권님]" style="rounded=1;whiteSpace=wrap;html=1;" parent="MTrl5ynQiznJmTlUDSWs-4" vertex="1">
           <mxGeometry x="25.5" y="30" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vTnbH4VRIqhErS-_WKO5-2" value="Basepath_BG_File 에 월드맵 부분 추가&lt;br&gt;[기획 진권님]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MTrl5ynQiznJmTlUDSWs-4">
+        <mxCell id="vTnbH4VRIqhErS-_WKO5-2" value="Basepath_BG_File 에 월드맵 부분 추가&lt;br&gt;[기획 진권님]" style="rounded=1;whiteSpace=wrap;html=1;" parent="MTrl5ynQiznJmTlUDSWs-4" vertex="1">
           <mxGeometry x="26" y="101" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9A0mLHsorhuxDrabdEOj-9" value="에러 | 수정" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" parent="1" vertex="1">
