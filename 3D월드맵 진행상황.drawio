@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-22T07:06:10.184Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="SO3PLEFEgUZjgAQx1YBw" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-22T12:55:40.897Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="vxAJv6SNMrR0nMlXZxlu" version="16.6.1" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,19 +8,10 @@
           <mxGeometry x="270" y="50" width="339" height="660" as="geometry" />
         </mxCell>
         <mxCell id="uF-B9j87NHDLKM0phF6b-2" value="월드맵 전환 페이더로 가리기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="10" y="180" width="159" height="60" as="geometry" />
+          <mxGeometry x="10" y="110" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kUrRIZUl9LaLp0kbs6zG-1" value="월드맵 상호작용 스테이트 만들기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
           <mxGeometry x="10" y="40" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kUrRIZUl9LaLp0kbs6zG-2" value="랜드마크 UI 표기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="10" y="110" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kUrRIZUl9LaLp0kbs6zG-4" value="랜드마크 BP 만들기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="10" y="250" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kUrRIZUl9LaLp0kbs6zG-5" value="카메라 볼륨 받기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="10" y="320" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
@@ -71,6 +62,15 @@
         </mxCell>
         <mxCell id="ntnGT9J50WzDBnbT4Uqs-1" value="캐릭터 스테이트머신 만들기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="10" y="590" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kUrRIZUl9LaLp0kbs6zG-4" value="랜드마크 BP 만들기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="10" y="660" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kUrRIZUl9LaLp0kbs6zG-2" value="랜드마크 UI 표기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="10" y="730" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kUrRIZUl9LaLp0kbs6zG-5" value="카메라 볼륨 받기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="10" y="800" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1071" height="260" as="geometry">
