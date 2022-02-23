@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T02:28:38.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="omxSSyngqBbO2AIbJgq5" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T02:56:17.295Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="qw-Ef60aGs6lF0k1KWDl" version="16.6.2" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="FVeLGarL4Bx6jjXFqlQJ-1" value="월드맵 랜드마크 클래스와 랜드마크 데이터 클래스 분리" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
           <mxGeometry x="10" y="180" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FVeLGarL4Bx6jjXFqlQJ-10" value="랜드마크 UI 충돌 및 빛연산 제거" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+        <mxCell id="FVeLGarL4Bx6jjXFqlQJ-14" value="랜드마크 그림자 제거" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
           <mxGeometry x="10" y="250" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
@@ -78,6 +78,9 @@
         <mxCell id="kUrRIZUl9LaLp0kbs6zG-5" value="카메라 볼륨 받기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="10" y="800" width="159" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FVeLGarL4Bx6jjXFqlQJ-10" value="랜드마크 UI 충돌 제거" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="10" y="870" width="159" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1071" height="260" as="geometry">
             <mxRectangle x="49" y="720" width="100" height="23" as="alternateBounds" />
@@ -120,22 +123,31 @@
           <mxGeometry x="480" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FVeLGarL4Bx6jjXFqlQJ-4" value="몬스터 플레이어 방향 회전" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="1030" width="120" height="60" as="geometry" />
+          <mxGeometry x="294" y="1390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FVeLGarL4Bx6jjXFqlQJ-5" value="몬스터 시간 지나면 재배치" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="707" y="1109" width="120" height="60" as="geometry" />
+          <mxGeometry x="294" y="1109" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FVeLGarL4Bx6jjXFqlQJ-6" value="등장 조건 검사" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="1030" width="120" height="60" as="geometry" />
+        <mxCell id="FVeLGarL4Bx6jjXFqlQJ-6" value="랜드마크 출현 조건 검사" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FVeLGarL4Bx6jjXFqlQJ-7" value="터치시 확대 축소 이펙트" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="1109" width="120" height="60" as="geometry" />
+          <mxGeometry x="294" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FVeLGarL4Bx6jjXFqlQJ-8" value="퇴장시 캐릭터 움직임 처리" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="1030" width="120" height="60" as="geometry" />
+          <mxGeometry x="294" y="1250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FVeLGarL4Bx6jjXFqlQJ-9" value="상호작용 버튼 출현" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="1109" width="120" height="60" as="geometry" />
+        <mxCell id="FVeLGarL4Bx6jjXFqlQJ-9" value="상호작용 버튼 출현 여부 결정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FVeLGarL4Bx6jjXFqlQJ-11" value="상호작용 버튼 처리" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FVeLGarL4Bx6jjXFqlQJ-12" value="퀘스트 아이콘 출현 여부 결정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FVeLGarL4Bx6jjXFqlQJ-13" value="랜드마크 이름 출력" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
