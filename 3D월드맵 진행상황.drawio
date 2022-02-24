@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T06:47:53.020Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Jhg9Of7J85SXFB2E35QS" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-24T09:25:38.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="E_nzz5mq7FQYs3ZqeMbi" version="16.6.2" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="FVeLGarL4Bx6jjXFqlQJ-1" value="월드맵 랜드마크 클래스와 랜드마크 데이터 클래스 분리" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="100" y="180" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FVeLGarL4Bx6jjXFqlQJ-14" value="랜드마크 그림자 제거" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
+        <mxCell id="FVeLGarL4Bx6jjXFqlQJ-14" value="랜드마크 위젯 라이팅 안받게 조정" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="250" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MpmLaDjJg55ybIjkZB8d-3" value="월드맵 충돌 계산 방식 변경" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
