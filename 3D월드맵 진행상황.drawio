@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T13:05:53.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="b56C4cB05lhzeIQVtWQw" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-25T07:00:30.568Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="YmFeG9Rvwbrbkyu0kmjf" version="16.6.3" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="uF-B9j87NHDLKM0phF6b-2" value="월드맵 전환 페이더로 가리기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="110" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kUrRIZUl9LaLp0kbs6zG-1" value="월드맵 상호작용 스테이트 만들기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
+        <mxCell id="kUrRIZUl9LaLp0kbs6zG-1" value="월드맵 캐릭터 상호작용 스테이트 만들기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="40" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FVeLGarL4Bx6jjXFqlQJ-1" value="월드맵 랜드마크 클래스와 랜드마크 데이터 클래스 분리" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
@@ -18,9 +18,6 @@
         </mxCell>
         <mxCell id="FVeLGarL4Bx6jjXFqlQJ-14" value="랜드마크 위젯 라이팅 안받게 조정" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="250" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MpmLaDjJg55ybIjkZB8d-3" value="월드맵 충돌 계산 방식 변경" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="100" y="320" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
@@ -87,11 +84,14 @@
         <mxCell id="FVeLGarL4Bx6jjXFqlQJ-15" value="월드맵 여기서 플레이 만들기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="180" y="30" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MpmLaDjJg55ybIjkZB8d-1" value="월드맵 카메라 스프링 암 제거" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="MpmLaDjJg55ybIjkZB8d-1" value="월드맵 카메라 스프링 암 제거" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="181" y="100" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MpmLaDjJg55ybIjkZB8d-2" value="몬스터 BP 메쉬에서 ChildActor로 변경" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="MpmLaDjJg55ybIjkZB8d-2" value="몬스터 BP 메쉬에서 ChildActor로 변경" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="181" y="170" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MpmLaDjJg55ybIjkZB8d-3" value="월드맵 3D UI 클릭 구현" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="181" y="240" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1071" height="260" as="geometry">
