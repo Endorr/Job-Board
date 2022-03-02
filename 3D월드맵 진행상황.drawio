@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T12:10:37.352Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Wf-ObN9aWWUK4c8XbCcT" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-02T12:24:38.256Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="l4c4xOoLjSOpIhD5cgMZ" version="16.6.4" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,6 +15,12 @@
         </mxCell>
         <mxCell id="tX3Zyx4plG_LYguIR7dp-2" value="월드맵 입장 캐릭터 연출 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="90" y="180" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hu1OD9EVnopHbL7iSOV7-4" value="몬스터 사망 연출 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="90" y="250" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hu1OD9EVnopHbL7iSOV7-5" value="워프 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="90" y="320" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
