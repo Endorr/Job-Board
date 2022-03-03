@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T13:09:43.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="pvkQUfbdRjQNLefW0kXv" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-03T06:01:57.567Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="SG6Fq3PZuRMufa6q0qoQ" version="16.6.4" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,10 +16,10 @@
         <mxCell id="tX3Zyx4plG_LYguIR7dp-2" value="월드맵 입장 캐릭터 연출 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="90" y="180" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hu1OD9EVnopHbL7iSOV7-4" value="몬스터 사망 연출 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+        <mxCell id="hu1OD9EVnopHbL7iSOV7-4" value="몬스터 사망 연출 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="90" y="250" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hu1OD9EVnopHbL7iSOV7-5" value="워프 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+        <mxCell id="hu1OD9EVnopHbL7iSOV7-5" value="워프 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="90" y="320" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
@@ -105,16 +105,16 @@
         <mxCell id="tX3Zyx4plG_LYguIR7dp-1" value="스테이지 전투 입장 구현" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="180" y="450" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hu1OD9EVnopHbL7iSOV7-1" value="앞에 물체가 있어도&amp;nbsp; 메뉴 아이콘이 눌리도록 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="hu1OD9EVnopHbL7iSOV7-1" value="앞에 물체가 있어도&amp;nbsp; 메뉴 아이콘이 눌리도록 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="180" y="520" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hu1OD9EVnopHbL7iSOV7-2" value="베이스 랜드마크에서 연출용위치 받아오기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="hu1OD9EVnopHbL7iSOV7-2" value="베이스 랜드마크에서 연출용위치 받아오기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="180" y="590" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hu1OD9EVnopHbL7iSOV7-3" value="베이스 랜드마크의 연출 데이터에 따라 캐릭터 회전" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="hu1OD9EVnopHbL7iSOV7-3" value="베이스 랜드마크의 연출 데이터에 따라 캐릭터 회전" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="180" y="660" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hu1OD9EVnopHbL7iSOV7-6" value="아지트 이동 기능 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="hu1OD9EVnopHbL7iSOV7-6" value="아지트 이동 기능 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="181" y="730" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
