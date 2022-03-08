@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T14:10:49.191Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="0bhcgQ8fZqFpYiXPqoZI" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T05:17:14.960Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="2ctaMKd8kzkSVvzQKcwR" version="16.6.6" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,19 +11,13 @@
           <mxGeometry x="10" y="40" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tX3Zyx4plG_LYguIR7dp-2" value="월드맵 입장 캐릭터 연출 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="90" y="180" width="159" height="60" as="geometry" />
+          <mxGeometry x="90" y="110" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hu1OD9EVnopHbL7iSOV7-4" value="몬스터 사망 연출 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="90" y="250" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hu1OD9EVnopHbL7iSOV7-5" value="워프 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="90" y="320" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VziutdPzhEZgrA94Z21b-1" value="Chapter_Area 기반 데이터 테이블 참조 구조 변경" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="90" y="390" width="159" height="60" as="geometry" />
+          <mxGeometry x="90" y="180" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VziutdPzhEZgrA94Z21b-2" value="기존 월드맵 대체" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="90" y="460" width="159" height="60" as="geometry" />
+          <mxGeometry x="50" y="260" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
@@ -34,17 +28,11 @@
         <mxCell id="MTrl5ynQiznJmTlUDSWs-4" value="대기 | 요청" style="swimlane;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="49" y="330" width="210" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="vTnbH4VRIqhErS-_WKO5-2" value="Basepath_BG_File 에 월드맵 부분 추가&lt;br&gt;[기획 진권님]" style="rounded=1;whiteSpace=wrap;html=1;" parent="MTrl5ynQiznJmTlUDSWs-4" vertex="1">
-          <mxGeometry x="11" y="30" width="159" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="9A0mLHsorhuxDrabdEOj-9" value="에러 | 수정" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="620" y="440" width="500" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="tX3Zyx4plG_LYguIR7dp-3" value="퀘스트 진행도에 따라 랜드마크 이름 안나오는 현상 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="9A0mLHsorhuxDrabdEOj-9" vertex="1">
-          <mxGeometry x="30" y="40" width="159" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="hDPYIisuoytdxOGGVnbc-3" value="    폐기 | 완료" style="swimlane;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;align=left;" parent="1" vertex="1">
-          <mxGeometry x="1130" y="50" width="340" height="940" as="geometry">
+          <mxGeometry x="1130" y="50" width="530" height="940" as="geometry">
             <mxRectangle x="1130" y="50" width="90" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -122,6 +110,18 @@
         </mxCell>
         <mxCell id="FVeLGarL4Bx6jjXFqlQJ-14" value="랜드마크 위젯 라이팅 안받게 조정" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="180" y="800" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VziutdPzhEZgrA94Z21b-1" value="Chapter_Area 기반 데이터 테이블 참조 구조 변경" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="180" y="870" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hu1OD9EVnopHbL7iSOV7-5" value="워프 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="350" y="30" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tX3Zyx4plG_LYguIR7dp-3" value="퀘스트 진행도에 따라 랜드마크 이름 안나오는 현상 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="350" y="100" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vTnbH4VRIqhErS-_WKO5-2" value="Basepath_BG_File 에 월드맵 부분 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="350" y="170" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1071" height="260" as="geometry">
