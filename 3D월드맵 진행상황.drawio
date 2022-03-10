@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T10:03:05.404Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="J9AXup09DWZ_f6y5umP_" version="17.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T10:03:19.278Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="4L2PBJ2hB9gCH0rP0msg" version="17.1.0" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,14 +19,11 @@
         <mxCell id="aJXqh1K0Nn5Xe1cv9KpU-3" value="몬스터 랜드마크 제거 처리" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="390" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aJXqh1K0Nn5Xe1cv9KpU-4" value="여기서 플레이시 워프" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
+        <mxCell id="aJXqh1K0Nn5Xe1cv9KpU-5" value="워프시 위치 갱신" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="460" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aJXqh1K0Nn5Xe1cv9KpU-5" value="워프시 위치 갱신" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="10" y="530" width="159" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="aJXqh1K0Nn5Xe1cv9KpU-6" value="챕터 배너 데이터 채우기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="10" y="600" width="159" height="60" as="geometry" />
+          <mxGeometry x="10" y="530" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aJXqh1K0Nn5Xe1cv9KpU-7" value="월드맵 내에서 월드맵 버튼 누를 시 토스트" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="80" y="180" width="159" height="60" as="geometry" />
