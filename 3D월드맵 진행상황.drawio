@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T13:44:07.941Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="byuubFo-KhFMkYYxPz-b" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-16T14:25:07.006Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="SjvT_KUY9bkBN6KzjX40" version="17.1.3" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,9 +34,6 @@
         <mxCell id="Jo1sR8eKfxSIK5YHPcvh-8" value="월드간 자동 이동" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
           <mxGeometry x="10" y="590" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jo1sR8eKfxSIK5YHPcvh-9" value="월드맵 시작시 자동이동 킬지 여부를 확인할 코드 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="180" y="100" width="159" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
         </mxCell>
@@ -58,11 +55,8 @@
         <mxCell id="9A0mLHsorhuxDrabdEOj-9" value="에러 | 수정" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="620" y="440" width="500" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="Jo1sR8eKfxSIK5YHPcvh-6" value="월드맵 자동이동시 무조건 해당 씬에 입장할 수 있는 이슈 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9A0mLHsorhuxDrabdEOj-9">
-          <mxGeometry x="90" y="30" width="159" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Jo1sR8eKfxSIK5YHPcvh-7" value="스테이지 클리어후 월드맵으로 갈 수 없는 이슈 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9A0mLHsorhuxDrabdEOj-9">
-          <mxGeometry x="20" y="100" width="159" height="60" as="geometry" />
+          <mxGeometry x="10" y="40" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hDPYIisuoytdxOGGVnbc-3" value="    폐기 | 완료" style="swimlane;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;align=left;" parent="1" vertex="1">
           <mxGeometry x="1130" y="50" width="710" height="940" as="geometry">
@@ -201,12 +195,18 @@
         <mxCell id="Jo1sR8eKfxSIK5YHPcvh-1" value="스테이지-&amp;gt;베이스-&amp;gt;월드로 이동시 잘못된 위치에서 스폰되는 문제 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
           <mxGeometry x="524" y="310" width="159" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Jo1sR8eKfxSIK5YHPcvh-6" value="월드맵 자동이동시 무조건 해당 씬에 입장할 수 있는 이슈 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="524" y="381" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jo1sR8eKfxSIK5YHPcvh-9" value="월드맵 시작시 자동이동 킬지 여부를 확인할 코드 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="524" y="450" width="159" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1071" height="260" as="geometry">
             <mxRectangle x="49" y="720" width="100" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KfCYHrgsOKh0RXw9eGPa-2" value="&lt;h1&gt;Memo&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" parent="6kkVd8V_ymKgZ0_L0vxy-3" vertex="1">
+        <mxCell id="KfCYHrgsOKh0RXw9eGPa-2" value="&lt;h1&gt;Memo&lt;/h1&gt;&lt;p&gt;UPV_Widget_QuestHudWidget::OnBasePointPlayerAutoMove 이펙트&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" parent="6kkVd8V_ymKgZ0_L0vxy-3" vertex="1">
           <mxGeometry x="1" y="20" width="1070" height="240" as="geometry" />
         </mxCell>
         <mxCell id="oumLD8d3DvaTa1NXrWpt-27" value="Tool" style="swimlane;horizontal=0;" parent="1" vertex="1">
