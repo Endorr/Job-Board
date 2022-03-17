@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-17T17:26:49.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="fOPwbHRLSvbspla1IKYO" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-17T17:26:55.896Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="GbG_jvJvVYTDBT_MbkYB" version="17.1.3" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -280,9 +280,6 @@
         </mxCell>
         <mxCell id="FVeLGarL4Bx6jjXFqlQJ-13" value="랜드마크 이름 출력" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="1240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8W-5HiM0g_xqCb6TnJaL-2" value="&lt;div&gt;1. 특정 랜드마크의 마지막 스테이지를 클리어하는 경우,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[현재 상황] 기존 거점으로 자동으로 이동합니다.&lt;/div&gt;&lt;div&gt;[기대 결과] 월드맵에서 전투에 진입했던 위치에 그대로 유지합니다.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 전투 승리 후, [다음 스테이지]로 편성화면 호출 후, [뒤로가기] 버튼을 누르는 경우&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[현재 상황] 결과 화면에서 멈춤&lt;/div&gt;&lt;div&gt;[기대 결과] 월드맵으로 전환하고, 전투에 진입했던 위치에 그대로 유지합니다.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 특정 랜드마크의 스테이지 리스트 위젯을 한번 실행했다가 종료한 후, 다시 거점에 재진입한 다음 [월드] 버튼으로 이동하는 경우&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[현재 상황] 이전에 선택했던 스테이지 랜드마크 앞에서 시작되며 진행 불가&lt;/div&gt;&lt;div&gt;[기대 결과] 월드맵으로 전환하고, 해당 랜드마크에 대응하는 위치로 빠져나옵니다.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1030" width="690" height="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
