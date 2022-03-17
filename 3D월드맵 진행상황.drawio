@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-17T17:26:55.896Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="GbG_jvJvVYTDBT_MbkYB" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-17T17:27:00.887Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="eOCKQa9kCGJbCwzXHEQc" version="17.1.3" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -247,39 +247,6 @@
         </mxCell>
         <mxCell id="Jo1sR8eKfxSIK5YHPcvh-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="oumLD8d3DvaTa1NXrWpt-27" vertex="1">
           <mxGeometry x="31.5" y="20" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FVeLGarL4Bx6jjXFqlQJ-2" value="생성부&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%EC%9B%94%EB%93%9C%EB%A7%B5%20%EC%A0%84%ED%99%98%20%ED%8E%98%EC%9D%B4%EB%8D%94%EB%A1%9C%20%EA%B0%80%EB%A6%AC%EA%B8%B0%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22280%22%20y%3D%22160%22%20width%3D%22159%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E부부&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294" y="1030" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FVeLGarL4Bx6jjXFqlQJ-3" value="데이터부" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="1030" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FVeLGarL4Bx6jjXFqlQJ-4" value="몬스터 플레이어 방향 회전" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294" y="1240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FVeLGarL4Bx6jjXFqlQJ-5" value="몬스터 시간 지나면 재배치" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294" y="1169" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FVeLGarL4Bx6jjXFqlQJ-6" value="랜드마크 출현 조건 검사" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294" y="1100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FVeLGarL4Bx6jjXFqlQJ-7" value="터치시 확대 축소 이펙트" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="1310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FVeLGarL4Bx6jjXFqlQJ-8" value="퇴장시 캐릭터 움직임 처리" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="1380" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FVeLGarL4Bx6jjXFqlQJ-9" value="상호작용 버튼 출현 여부 결정" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="1450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FVeLGarL4Bx6jjXFqlQJ-11" value="상호작용 버튼 처리" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="1100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FVeLGarL4Bx6jjXFqlQJ-12" value="퀘스트 아이콘 출현 여부 결정" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="1169" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FVeLGarL4Bx6jjXFqlQJ-13" value="랜드마크 이름 출력" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
