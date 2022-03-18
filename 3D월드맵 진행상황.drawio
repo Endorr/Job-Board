@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-17T17:27:00.887Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="eOCKQa9kCGJbCwzXHEQc" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-18T05:56:46.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="wVEqw-epod5qxOthGSCS" version="17.1.3" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,13 +11,10 @@
           <mxGeometry x="10" y="100" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3n9GUd-Abg_DTLboe1xY-3" value="전투 패배시의 히어로 인포 바로가기 처리" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="10" y="170" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="YOphfvXv3w3T6gH0D8vC-1" value="워프 진입시 디폴트 팝업 띄우기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="80" y="240" width="159" height="60" as="geometry" />
+          <mxGeometry x="90" y="250" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u0nCcGJNxC8-_9czxoVS-3" value="랜드마크 이외의 위치 클릭해 작동 (디버깅용)" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="10" y="310" width="159" height="60" as="geometry" />
+          <mxGeometry x="10" y="180" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jo1sR8eKfxSIK5YHPcvh-4" value="월드맵 자동이동 QuesHud 이펙트" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="30" width="159" height="60" as="geometry" />
@@ -34,7 +31,7 @@
         <mxCell id="Jo1sR8eKfxSIK5YHPcvh-3" value="여기서 플레이시 몬스터&amp;nbsp; 랜드마크 보이게" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-18" vertex="1">
           <mxGeometry x="19" y="29" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8W-5HiM0g_xqCb6TnJaL-3" value="경로 탐색 오류시 디버그 메시지 띄워주기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-18">
+        <mxCell id="8W-5HiM0g_xqCb6TnJaL-3" value="경로 탐색 오류시 디버그 메시지 띄워주기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-18" vertex="1">
           <mxGeometry x="19" y="99" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MTrl5ynQiznJmTlUDSWs-4" value="대기 | 요청" style="swimlane;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
@@ -189,7 +186,7 @@
         <mxCell id="Jo1sR8eKfxSIK5YHPcvh-9" value="월드맵 시작시 자동이동 킬지 여부를 확인할 코드 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="524" y="450" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8W-5HiM0g_xqCb6TnJaL-1" value="워프 랜드마크 입장 애니메이션 안나오는 문제" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="8W-5HiM0g_xqCb6TnJaL-1" value="워프 랜드마크 입장 애니메이션 안나오는 문제" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="524" y="520" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jo1sR8eKfxSIK5YHPcvh-8" value="월드간 자동 이동" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
@@ -204,14 +201,20 @@
         <mxCell id="YOphfvXv3w3T6gH0D8vC-3" value="아지트에서 진입 시 월드맵에서 왔을 때와 베이스에서 왔을 때 구분" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="524" y="800" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8W-5HiM0g_xqCb6TnJaL-8" value="월드맵 데이터 구조체화 및 접근 경로 일원화" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="8W-5HiM0g_xqCb6TnJaL-8" value="월드맵 데이터 구조체화 및 접근 경로 일원화" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="524" y="870" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jo1sR8eKfxSIK5YHPcvh-7" value="스테이지 클리어후 월드맵으로 갈 수 없는 이슈 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="690" y="30" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8W-5HiM0g_xqCb6TnJaL-13" value="컴뱃 씬에서 뒤로가기시 월드맵으로 가지지 않는 현상 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="8W-5HiM0g_xqCb6TnJaL-13" value="컴뱃 씬에서 뒤로가기시 월드맵으로 가지지 않는 현상 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="690" y="100" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YOphfvXv3w3T6gH0D8vC-1" value="워프 진입시 디폴트 팝업 띄우기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="690" y="170" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0YbdCkCPDgOpJQ5s0eNi-1" value="월드맵에서 컴뱃세팅 껐을 때&lt;br&gt;조이스틱 제대로 동작안하는 현상 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="690" y="240" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1071" height="260" as="geometry">
