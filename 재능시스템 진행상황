@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T09:59:38.979Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="nnLXueW433hoNqC5Qas8" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-29T11:36:50.764Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="psgzBglwiswcAEv66msd" version="17.2.4" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,9 +9,6 @@
         </mxCell>
         <mxCell id="io-DU-ceMwQtMLIeng1W-6" value="패시브 적용" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="30" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yv2eZoPjtNACETi6723G-10" value="재능 위치 변경&lt;br&gt;[UI 작업대기]" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="20" y="130" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6SjCmmI4nKWdXua75MX1-5" value="재능아이콘 터치시 바로 확대&lt;br&gt;[UI 작업대기]" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="20" y="200" width="159" height="60" as="geometry" />
@@ -47,7 +44,7 @@
           <mxGeometry x="90" y="30" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hDPYIisuoytdxOGGVnbc-3" value="    폐기 | 완료" style="swimlane;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;align=left;" parent="1" vertex="1">
-          <mxGeometry x="1130" y="50" width="1200" height="940" as="geometry">
+          <mxGeometry x="1130" y="50" width="1390" height="940" as="geometry">
             <mxRectangle x="1130" y="50" width="90" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -323,6 +320,9 @@
         </mxCell>
         <mxCell id="6SjCmmI4nKWdXua75MX1-4" value="좌측탭 정보 변경&lt;br&gt;[기획 작업대기]" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="1030" y="870" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yv2eZoPjtNACETi6723G-10" value="재능 위치 변경" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="1200" y="30" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1071" height="260" as="geometry">
