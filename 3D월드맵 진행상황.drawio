@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T15:58:50.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="gB2IIKlAAHaWWd1hhYFo" version="17.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-29T06:24:31.987Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="LGL5oJZIEaH3_Kvze8nH" version="17.2.4" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,8 +28,11 @@
         <mxCell id="MTrl5ynQiznJmTlUDSWs-4" value="대기 | 요청" style="swimlane;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="49" y="330" width="210" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="6BeGjnloRrR3I4soAt5y-3" value="전투 종료시 사운드 없애는 문제 [성제님]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MTrl5ynQiznJmTlUDSWs-4">
+        <mxCell id="6BeGjnloRrR3I4soAt5y-3" value="전투 종료시 사운드 없애는 문제 [성제님]" style="rounded=1;whiteSpace=wrap;html=1;" parent="MTrl5ynQiznJmTlUDSWs-4" vertex="1">
           <mxGeometry x="25.5" y="41" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZXJnPdTZzkH9vvSo_Yl-2" value="캐릭터 빌보드 각도 픽스&lt;br&gt;[진권님]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MTrl5ynQiznJmTlUDSWs-4">
+          <mxGeometry x="25.5" y="110" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9A0mLHsorhuxDrabdEOj-9" value="에러 | 수정" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="620" y="440" width="500" height="270" as="geometry" />
@@ -261,11 +264,14 @@
         <mxCell id="s3fVz8B0_eKCuiCZlDrP-3" value="스테이지 중도 포기시의 플로우 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="858" y="590" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6BeGjnloRrR3I4soAt5y-1" value="워프시 카메라 튀는 현상 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="6BeGjnloRrR3I4soAt5y-1" value="워프시 카메라 튀는 현상 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="858" y="660" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6BeGjnloRrR3I4soAt5y-2" value="캐릭터 빌보드 처리" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="6BeGjnloRrR3I4soAt5y-2" value="캐릭터 빌보드 처리" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="858" y="730" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZXJnPdTZzkH9vvSo_Yl-1" value="탑뷰모드 구현" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="858" y="800" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1071" height="260" as="geometry">
