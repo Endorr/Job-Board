@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T10:13:21.080Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="rZQFWi90k3OBVSXa6fr5" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-12T11:52:35.174Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="kNigH9QX8LjTYHnRpjc0" version="17.4.2" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,12 +9,6 @@
         </mxCell>
         <mxCell id="r7n4yb4tb-19pTRCdEt8-4" value="우측 인벤토리 위젯 대체 위젯 기능 작성" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="40" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tzuht2VtkHR2EltoHRVy-1" value="좌측 탭 클릭시 확대 및 선택 기능 추가&lt;br&gt;[하형님 작업 대기]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="80" y="190" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tzuht2VtkHR2EltoHRVy-3" value="재능 육각형 별도로 돌아가게 만들기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="10" y="120" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
@@ -348,8 +342,17 @@
         <mxCell id="Hubt_0t7WHH2d3kHcnun-1" value="재화 다시 보이도록 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="1200" y="870" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tzuht2VtkHR2EltoHRVy-4" value="좌측탭에 선택된 재능 표시 기능 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="tzuht2VtkHR2EltoHRVy-4" value="좌측탭에 선택된 재능 표시 기능 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="1370" y="100" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tzuht2VtkHR2EltoHRVy-3" value="재능 육각형 별도로 돌아가게 만들기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="1370" y="170" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g8wAIaoH2Oa2el5s8Dnz-1" value="위젯 회전 후 확대되는 현상 재발생" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="1370" y="240" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tzuht2VtkHR2EltoHRVy-1" value="좌측 탭 클릭시 확대 및 선택 기능 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="1370" y="311" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1071" height="260" as="geometry">
@@ -386,7 +389,7 @@
         <mxCell id="Fb32EvJjGHJRLybvlaYY-3" value="Text" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="oumLD8d3DvaTa1NXrWpt-27" vertex="1">
           <mxGeometry x="220" y="20" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tzuht2VtkHR2EltoHRVy-2" value="좌우 이동 애니메이션 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tzuht2VtkHR2EltoHRVy-2" value="좌우 이동 애니메이션 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2500" y="80" width="159" height="60" as="geometry" />
         </mxCell>
       </root>
