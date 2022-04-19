@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T08:01:42.307Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="ZQLcSj2ZhDUFlrQ5zB8s" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-19T09:42:25.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="5MT8t7223C1TA-aeTGyZ" version="17.4.5" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1778" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,9 +21,6 @@
         </mxCell>
         <mxCell id="00uq8wK7RQb69D_6-GNy-5" value="탑뷰 전환시 캐릭터 아이콘 애니메이션 처리" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="310" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vkU4h4DgNddi4Fep3lrU-2" value="&lt;span&gt;World_Landmark_Setting&lt;br&gt;적용&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="90" y="380" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jo1sR8eKfxSIK5YHPcvh-2" value="몬스터 랜드마크 사망 애니메이션 출력" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="450" width="159" height="60" as="geometry" />
@@ -329,6 +326,9 @@
         </mxCell>
         <mxCell id="00uq8wK7RQb69D_6-GNy-2" value="탑뷰 아이콘 딤드 처리" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="1200" y="30" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vkU4h4DgNddi4Fep3lrU-2" value="&lt;span&gt;World_Landmark_Setting&lt;br&gt;적용&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="1200" y="240" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1071" height="260" as="geometry">
