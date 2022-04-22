@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T13:06:09.272Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Si2e73dU4i8G5NxfHKti" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-22T02:26:57.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="xGY7O5Sx_lA6H36r5xGO" version="17.4.6" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,11 +34,8 @@
         <mxCell id="9A0mLHsorhuxDrabdEOj-9" value="에러 | 수정" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="620" y="440" width="500" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="ZZ_allogNaNS1vJRIOOs-3" value="월드맵에서 스테이지 리스트 진입후 뒤로 가기로 나갈때 위치 정보 갱신하지 않는 현상 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9A0mLHsorhuxDrabdEOj-9">
-          <mxGeometry x="30" y="40" width="159" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="hDPYIisuoytdxOGGVnbc-3" value="    폐기 | 완료" style="swimlane;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;align=left;" parent="1" vertex="1">
-          <mxGeometry x="1130" y="50" width="1370" height="940" as="geometry">
+          <mxGeometry x="1130" y="50" width="1540" height="940" as="geometry">
             <mxRectangle x="1130" y="50" width="90" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -348,10 +345,10 @@
         <mxCell id="EZXJnPdTZzkH9vvSo_Yl-3" value="카메라 자유 이동 모드 구현" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="1200" y="730" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZZ_allogNaNS1vJRIOOs-1" value="월드맵 캐릭터 교체 팝업 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="ZZ_allogNaNS1vJRIOOs-1" value="월드맵 캐릭터 교체 팝업 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="1200" y="800" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZZ_allogNaNS1vJRIOOs-2" value="순찰 스테이지 전환시 랜드마크 아이콘이 바뀌지 않는 현상 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="ZZ_allogNaNS1vJRIOOs-2" value="순찰 스테이지 전환시 랜드마크 아이콘이 바뀌지 않는 현상 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="1200" y="870" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
@@ -391,6 +388,9 @@
         </mxCell>
         <mxCell id="0KTxnGNHvr2HrzmjyLr9-1" value="접근했을 때&lt;br&gt;누를 때" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="1060" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZ_allogNaNS1vJRIOOs-3" value="월드맵에서 스테이지 리스트 진입후 뒤로 가기로 나갈때 위치 정보 갱신하지 않는 현상 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2500" y="80" width="159" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
