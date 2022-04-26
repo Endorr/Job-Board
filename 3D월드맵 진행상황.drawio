@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T12:53:51.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="R13T5lBJV6Q6LPKPUe0y" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T13:09:14.479Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="N5VCsM2IIgEOjWqBwpUe" version="17.4.6" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,6 +36,9 @@
         </mxCell>
         <mxCell id="ADQ0uxT1Ed19uStfYu5g-4" value="지정 월드로 워프 하는기능" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MTrl5ynQiznJmTlUDSWs-4">
           <mxGeometry x="25.5" y="40" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ADQ0uxT1Ed19uStfYu5g-6" value="최신 스테이지 표기&lt;br&gt;(PV_Widget_StageInfo)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MTrl5ynQiznJmTlUDSWs-4">
+          <mxGeometry x="25.5" y="110" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9A0mLHsorhuxDrabdEOj-9" value="에러 | 수정" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="620" y="440" width="500" height="270" as="geometry" />
