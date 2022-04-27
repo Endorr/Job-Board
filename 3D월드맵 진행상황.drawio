@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T13:13:17.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="rCFG16JGnkP18ToQhSlb" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-27T06:44:26.536Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Fc_qXzLIdpXQ9ykZlvz5" version="17.4.6" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,10 +16,7 @@
         <mxCell id="TReP1YVHW7QV6D7MhSft-1" value="스테이지 포커싱 모드 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="90" y="190" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ADQ0uxT1Ed19uStfYu5g-3" value="변경된 스테이지 UI 반영" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="90" y="260" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ADQ0uxT1Ed19uStfYu5g-5" value="전투 승리 후 월드 복귀시 스테이지 리스트 유지" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+        <mxCell id="ADQ0uxT1Ed19uStfYu5g-5" value="전투 승리 후 월드 복귀시 스테이지 리스트 유지" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="330" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
@@ -34,17 +31,14 @@
         <mxCell id="MTrl5ynQiznJmTlUDSWs-4" value="대기 | 요청" style="swimlane;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="49" y="330" width="210" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="ADQ0uxT1Ed19uStfYu5g-4" value="지정 월드로 워프 하는기능" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MTrl5ynQiznJmTlUDSWs-4">
+        <mxCell id="ADQ0uxT1Ed19uStfYu5g-4" value="지정 월드로 워프 하는기능" style="rounded=1;whiteSpace=wrap;html=1;" parent="MTrl5ynQiznJmTlUDSWs-4" vertex="1">
           <mxGeometry x="25.5" y="40" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ADQ0uxT1Ed19uStfYu5g-6" value="최신 스테이지 표기&lt;br&gt;(PV_Widget_StageInfo)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MTrl5ynQiznJmTlUDSWs-4">
-          <mxGeometry x="25.5" y="110" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9A0mLHsorhuxDrabdEOj-9" value="에러 | 수정" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="620" y="440" width="500" height="270" as="geometry" />
         </mxCell>
         <mxCell id="hDPYIisuoytdxOGGVnbc-3" value="    폐기 | 완료" style="swimlane;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;align=left;" parent="1" vertex="1">
-          <mxGeometry x="1130" y="50" width="1540" height="940" as="geometry">
+          <mxGeometry x="1130" y="50" width="1710" height="940" as="geometry">
             <mxRectangle x="1130" y="50" width="90" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -390,11 +384,14 @@
         <mxCell id="mnf_BsjecDP9vaYiEndk-10" value="랜드마크 클릭 사운드 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="1370" y="730" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ADQ0uxT1Ed19uStfYu5g-1" value="월드맵 입장 랜드마크 선정 과정 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="ADQ0uxT1Ed19uStfYu5g-1" value="월드맵 입장 랜드마크 선정 과정 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="1370" y="800" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ADQ0uxT1Ed19uStfYu5g-2" value="스테이지 리스트 껐다 켰을 때 메뉴 아이콘 안 뜨는 현상 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="ADQ0uxT1Ed19uStfYu5g-2" value="스테이지 리스트 껐다 켰을 때 메뉴 아이콘 안 뜨는 현상 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="1370" y="870" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ADQ0uxT1Ed19uStfYu5g-3" value="변경된 스테이지 UI 반영" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="1540" y="100" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1071" height="260" as="geometry">
@@ -436,6 +433,9 @@
         </mxCell>
         <mxCell id="ZZ_allogNaNS1vJRIOOs-3" value="월드맵에서 스테이지 리스트 진입후 뒤로 가기로 나갈때 위치 정보 갱신하지 않는 현상 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2500" y="80" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ADQ0uxT1Ed19uStfYu5g-6" value="최신 스테이지 표기&lt;br&gt;이펙트 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2670" y="80" width="159" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
