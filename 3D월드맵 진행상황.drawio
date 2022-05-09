@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-09T01:58:16.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="1uOztnhzUrbVUiiI01JU" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-09T15:03:21.724Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="czBmRPOphqC5lLZr2dS0" version="18.0.2" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,9 +19,6 @@
         <mxCell id="ADQ0uxT1Ed19uStfYu5g-5" value="전투 승리 후 월드 복귀시 스테이지 리스트 유지" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="90" y="250" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R7_haFQ820AaPYOJl5g9-3" value="탑뷰 시 플레이어 안보이게 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="90" y="320" width="159" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
         </mxCell>
@@ -39,12 +36,6 @@
         </mxCell>
         <mxCell id="9A0mLHsorhuxDrabdEOj-9" value="에러 | 수정" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="620" y="440" width="500" height="270" as="geometry" />
-        </mxCell>
-        <mxCell id="5x3nI9I8BunxCBTQifZ8-1" value="힛테스트 채널 변경" style="rounded=1;whiteSpace=wrap;html=1;" parent="9A0mLHsorhuxDrabdEOj-9" vertex="1">
-          <mxGeometry x="20" y="40" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-KJIVDEVjarwDbDfy3RH-1" value="클릭 방식 롤백 및 잠금화면 예외처리" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9A0mLHsorhuxDrabdEOj-9">
-          <mxGeometry x="100" y="115" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hDPYIisuoytdxOGGVnbc-3" value="    폐기 | 완료" style="swimlane;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;align=left;" parent="1" vertex="1">
           <mxGeometry x="1130" y="50" width="1710" height="940" as="geometry">
@@ -407,6 +398,15 @@
         </mxCell>
         <mxCell id="R7_haFQ820AaPYOJl5g9-2" value="탑뷰&amp;nbsp; 시 메뉴아이콘 오차 보정" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="1540" y="240" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5x3nI9I8BunxCBTQifZ8-1" value="힛테스트 채널 변경" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="1540" y="310" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-KJIVDEVjarwDbDfy3RH-1" value="클릭 방식 롤백 및 잠금화면 예외처리" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="1540" y="380" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R7_haFQ820AaPYOJl5g9-3" value="탑뷰 시 플레이어 안보이게 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="1540" y="450" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1071" height="260" as="geometry">
