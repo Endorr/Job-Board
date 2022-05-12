@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T19:28:36.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="cSjYAIRZLfbJ9vZq7Np0" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-12T19:40:30.404Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="4aEIH7NYx3ucAF6rOS4j" version="18.0.3" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1497" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,11 +24,11 @@
         <mxCell id="TReP1YVHW7QV6D7MhSft-1" value="스테이지 포커싱 모드 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="180" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ADQ0uxT1Ed19uStfYu5g-5" value="전투 승리 후 월드 복귀시 스테이지 리스트 유지" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="90" y="250" width="159" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="t61tYE5_9ADe4W2ooDKp-1" value="탑뷰 전환시 캐릭터 사라지는 연출에 딜레이를 줘 안보이게 하기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="320" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dc0jTIMLgrcwtydTX8lu-1" value="승리 후 복귀시&lt;br&gt;아이콘 언제 떠야 하는지 확인 받기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="10" y="250" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
@@ -421,6 +421,9 @@
         <mxCell id="R7_haFQ820AaPYOJl5g9-3" value="탑뷰 시 플레이어 안보이게 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="1540" y="450" width="159" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ADQ0uxT1Ed19uStfYu5g-5" value="전투 승리 후 월드 복귀시 스테이지 리스트 유지" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="1540" y="520" width="159" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1071" height="260" as="geometry">
             <mxRectangle x="49" y="720" width="100" height="23" as="alternateBounds" />
@@ -664,16 +667,16 @@
         <mxCell id="2y3D352C6oCNutm9sGn3-1" value="스토리 전투 승리 후 나가기" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="290" y="1880" width="231" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2y3D352C6oCNutm9sGn3-2" value="스토리 전투 승리 후 다음 스테이지" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2y3D352C6oCNutm9sGn3-2" value="스토리 전투 승리 후 다음 스테이지" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="290" y="1950" width="231" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2y3D352C6oCNutm9sGn3-3" value="스토리 전투 승리 후 다음 스테이지&lt;br&gt;(티켓 부족)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="2020" width="231" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2y3D352C6oCNutm9sGn3-4" value="스토리 전투 패배 후 확인" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2y3D352C6oCNutm9sGn3-4" value="스토리 전투 패배 후 확인" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="290" y="2160" width="231" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2y3D352C6oCNutm9sGn3-5" value="스토리 전투 패배 후 영웅정보" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2y3D352C6oCNutm9sGn3-5" value="스토리 전투 패배 후 영웅정보" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="290" y="2230" width="231" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2y3D352C6oCNutm9sGn3-6" value="레브치 전투 승리" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -730,10 +733,10 @@
         <mxCell id="2y3D352C6oCNutm9sGn3-26" value="순찰 전투 패배 후 반복하기" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1260" y="1950" width="231" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2y3D352C6oCNutm9sGn3-27" value="스토리 중간 재도전" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2y3D352C6oCNutm9sGn3-27" value="스토리 중간 재도전" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="290" y="2300" width="231" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2y3D352C6oCNutm9sGn3-28" value="스토리 중간 나가기" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2y3D352C6oCNutm9sGn3-28" value="스토리 중간 나가기" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="290" y="2370" width="231" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2y3D352C6oCNutm9sGn3-29" value="스토리 인카운터 전투 중간 나가기" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
