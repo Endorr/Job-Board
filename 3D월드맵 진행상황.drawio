@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T03:26:17.854Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="BYBlG_L8J_ZmQOh7C-Az" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-12T03:26:42.527Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="fb-Y5wwtWZ_c5XhwcyQr" version="18.0.3" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -706,13 +706,13 @@
         <mxCell id="2y3D352C6oCNutm9sGn3-14" value="순찰 전투 승리 후 다음 스테이지" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="2200" width="231" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2y3D352C6oCNutm9sGn3-15" value="순찰 전투 승리 후 반복하기(재화 부족)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2y3D352C6oCNutm9sGn3-15" value="순찰 전투 승리 후 반복하기&lt;br&gt;(행동력 부족)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="2020" width="231" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2y3D352C6oCNutm9sGn3-16" value="스토리 전투 승리 후 다음 스테이지&lt;br&gt;(재화 맥스)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="2090" width="231" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2y3D352C6oCNutm9sGn3-17" value="순찰 전투 승리 후 반복하기(재화 맥스)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2y3D352C6oCNutm9sGn3-17" value="순찰 전투 승리 후 반복하기&lt;br&gt;(재화 맥스)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="2090" width="231" height="60" as="geometry" />
         </mxCell>
       </root>
