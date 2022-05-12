@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T20:38:54.439Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="U6xMW8kNOHo76B3jclM0" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-12T20:38:58.927Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="LaReKHYl-oubPqWtcYvO" version="18.0.3" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1497" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -863,7 +863,7 @@
           <mxGeometry x="1140" y="1730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dc0jTIMLgrcwtydTX8lu-2" value="아지트에서 일반 도전 입장 후 패배, 영웅정보 입장" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="2730" width="231" height="60" as="geometry" />
+          <mxGeometry x="1750" y="2720" width="231" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
