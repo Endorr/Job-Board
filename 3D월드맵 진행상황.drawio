@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T09:16:54.422Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="eWIcIVckfpA7RbbZJ78E" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-12T11:28:46.824Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="jMSz-p1SV8qA6q59Jo0r" version="18.0.3" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
-    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1354" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -688,7 +688,7 @@
         <mxCell id="2y3D352C6oCNutm9sGn3-9" value="엔드 시네마가 있는 스토리 전투 패배 후 나가기" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="530" y="1950" width="231" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2y3D352C6oCNutm9sGn3-10" value="스토리 인카운터 전투 승리 후 나가기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2y3D352C6oCNutm9sGn3-10" value="스토리 인카운터 전투 승리 후 나가기" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="769" y="1880" width="231" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2y3D352C6oCNutm9sGn3-11" value="스토리 인카운터 전투 패배 후 나가기" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -727,7 +727,7 @@
         <mxCell id="2y3D352C6oCNutm9sGn3-24" value="순찰 전투 승리 후 다음 스테이지&lt;br&gt;(재화 맥스)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="2370" width="231" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2y3D352C6oCNutm9sGn3-25" value="순찰 전투 패배 후 나가기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2y3D352C6oCNutm9sGn3-25" value="순찰 전투 패배 후 나가기" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1260" y="1880" width="231" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2y3D352C6oCNutm9sGn3-26" value="순찰 전투 패배 후 반복하기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -742,7 +742,7 @@
         <mxCell id="2y3D352C6oCNutm9sGn3-29" value="스토리 인카운터 전투 중간 나가기" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="769" y="2020" width="231" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2y3D352C6oCNutm9sGn3-30" value="스토리 인카운터 전투 중간 재도전" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2y3D352C6oCNutm9sGn3-30" value="스토리 인카운터 전투 중간 재도전" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="769" y="2090" width="231" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2y3D352C6oCNutm9sGn3-31" value="엔드 시네마가 있는 스토리 전투 중간 나가기" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -781,7 +781,7 @@
         <mxCell id="2y3D352C6oCNutm9sGn3-43" value="프리 스테이지 패배 후 영웅정보" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1500" y="2020" width="231" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2y3D352C6oCNutm9sGn3-44" value="일반 도전 승리 후 나가기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2y3D352C6oCNutm9sGn3-44" value="일반 도전 승리 후 나가기" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1750" y="1950" width="231" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2y3D352C6oCNutm9sGn3-45" value="일반 도전 패배 후 나가기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -837,6 +837,9 @@
         </mxCell>
         <mxCell id="2y3D352C6oCNutm9sGn3-63" value="284" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="864.5" y="1840" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2y3D352C6oCNutm9sGn3-64" value="286" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1115.5" y="1840" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
