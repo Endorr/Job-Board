@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T02:37:47.319Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="lP4xMRZYeKErijEmIt4I" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-13T05:24:38.629Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="UUmpcvI4nNPM-5YGOAKl" version="18.0.3" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,12 +14,6 @@
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-16" value="구현" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="270" y="50" width="339" height="660" as="geometry" />
-        </mxCell>
-        <mxCell id="Jo1sR8eKfxSIK5YHPcvh-2" value="몬스터 랜드마크 사망 애니메이션 출력" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="10" y="40" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vkU4h4DgNddi4Fep3lrU-4" value="탑뷰 시점에 따라 탑뷰 아이콘 빌보드" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="10" y="110" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TReP1YVHW7QV6D7MhSft-1" value="스테이지 포커싱 모드 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="180" width="159" height="60" as="geometry" />
@@ -42,13 +36,13 @@
         <mxCell id="ADQ0uxT1Ed19uStfYu5g-4" value="지정 월드로 워프 하는기능" style="rounded=1;whiteSpace=wrap;html=1;" parent="MTrl5ynQiznJmTlUDSWs-4" vertex="1">
           <mxGeometry x="25.5" y="40" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dc0jTIMLgrcwtydTX8lu-1" value="승리 후 복귀시&lt;br&gt;아이콘 언제 떠야 하는지 확인 받기" style="rounded=1;whiteSpace=wrap;html=1;" parent="MTrl5ynQiznJmTlUDSWs-4" vertex="1">
-          <mxGeometry x="26" y="110" width="159" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="9A0mLHsorhuxDrabdEOj-9" value="에러 | 수정" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="620" y="440" width="500" height="270" as="geometry">
             <mxRectangle x="620" y="440" width="90" height="23" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dA8mBhQ8xBqRkSYBBK88-19" value="탑뷰 블렌딩 안되는 현상 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9A0mLHsorhuxDrabdEOj-9">
+          <mxGeometry x="62" y="51" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hDPYIisuoytdxOGGVnbc-3" value="    폐기 | 완료" style="swimlane;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;align=left;" parent="1" vertex="1">
           <mxGeometry x="1130" y="50" width="1710" height="940" as="geometry">
@@ -426,6 +420,12 @@
         </mxCell>
         <mxCell id="dA8mBhQ8xBqRkSYBBK88-18" value="전투시 몬스터 랜드마크와 플레이어가 바라보도록 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
           <mxGeometry x="1540" y="590" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vkU4h4DgNddi4Fep3lrU-4" value="탑뷰 시점에 따라 탑뷰 아이콘 빌보드" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="1540" y="660" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dc0jTIMLgrcwtydTX8lu-1" value="복귀시&lt;br&gt;아이콘 안뜨게 처리" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="1540" y="730" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1071" height="260" as="geometry">
