@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T05:25:48.804Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="3pKYBcbOS5iG39tW1NmZ" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-13T06:04:31.245Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="tnDdMdE0D6DwxYOaESP1" version="18.0.3" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,13 +19,10 @@
           <mxGeometry x="10" y="180" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t61tYE5_9ADe4W2ooDKp-1" value="탑뷰 전환시 캐릭터 사라지는 연출에 딜레이를 줘 안보이게 하기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="10" y="320" width="159" height="60" as="geometry" />
+          <mxGeometry x="10" y="260" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dA8mBhQ8xBqRkSYBBK88-21" value="도전 스테이지 드랍아이템 맥스 체크 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
           <mxGeometry x="10" y="40" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dA8mBhQ8xBqRkSYBBK88-22" value="탑뷰 Ui를 눌렀을때 작동하게 하기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="10" y="110" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
@@ -47,11 +44,11 @@
             <mxRectangle x="620" y="440" width="90" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dA8mBhQ8xBqRkSYBBK88-19" value="탑뷰 블렌딩 안되는 현상 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9A0mLHsorhuxDrabdEOj-9">
-          <mxGeometry x="90" y="50" width="159" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="dA8mBhQ8xBqRkSYBBK88-20" value="근처 랜드마크 클릭시 캐릭터 튀는 현상" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9A0mLHsorhuxDrabdEOj-9">
-          <mxGeometry x="31.5" y="130" width="159" height="60" as="geometry" />
+          <mxGeometry x="30" y="40" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dA8mBhQ8xBqRkSYBBK88-23" value="네비로 이동할 때 회전이 안되는 문제" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9A0mLHsorhuxDrabdEOj-9">
+          <mxGeometry x="260" y="130" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hDPYIisuoytdxOGGVnbc-3" value="    폐기 | 완료" style="swimlane;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;align=left;" parent="1" vertex="1">
           <mxGeometry x="1130" y="50" width="1710" height="940" as="geometry">
@@ -435,6 +432,12 @@
         </mxCell>
         <mxCell id="dc0jTIMLgrcwtydTX8lu-1" value="복귀시&lt;br&gt;아이콘 안뜨게 처리" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="1540" y="730" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dA8mBhQ8xBqRkSYBBK88-19" value="탑뷰 블렌딩 안되는 현상 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="1540" y="800" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dA8mBhQ8xBqRkSYBBK88-22" value="탑뷰 UI에 애니메이션 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="1540" y="870" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1071" height="260" as="geometry">
