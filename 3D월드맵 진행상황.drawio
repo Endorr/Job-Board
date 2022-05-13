@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T21:27:53.278Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="tOkRe4acl8BYBBkNQXr3" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-13T01:10:18.855Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="Fo0jjLzVw0gZMfqhjUph" version="18.0.3" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
-    <mxGraphModel dx="1497" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,7 +27,7 @@
         <mxCell id="t61tYE5_9ADe4W2ooDKp-1" value="탑뷰 전환시 캐릭터 사라지는 연출에 딜레이를 줘 안보이게 하기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="320" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dc0jTIMLgrcwtydTX8lu-1" value="승리 후 복귀시&lt;br&gt;아이콘 언제 떠야 하는지 확인 받기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+        <mxCell id="dc0jTIMLgrcwtydTX8lu-1" value="승리 후 복귀시&lt;br&gt;아이콘 언제 떠야 하는지 확인 받기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="250" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
@@ -721,7 +721,7 @@
         <mxCell id="2y3D352C6oCNutm9sGn3-20" value="반복스테이지 승리 후 진행" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1260" y="2090" width="231" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2y3D352C6oCNutm9sGn3-22" value="일반 도전 스테이지 후 각 장소 복귀" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2y3D352C6oCNutm9sGn3-22" value="일반 도전 스테이지 후 각 장소 복귀" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1750" y="1880" width="231" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2y3D352C6oCNutm9sGn3-24" value="순찰 전투 승리 후 다음 스테이지&lt;br&gt;(재화 맥스)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -802,10 +802,10 @@
         <mxCell id="2y3D352C6oCNutm9sGn3-51" value="일반 도전 패배 후 영웅정보" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1750" y="2370" width="231" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2y3D352C6oCNutm9sGn3-52" value="특별 도전 스테이지 후 각 장소 복귀" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2y3D352C6oCNutm9sGn3-52" value="특별 도전 스테이지 후 각 장소 복귀" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="2000" y="1880" width="231" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2y3D352C6oCNutm9sGn3-53" value="특별 도전 승리 후 나가기" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2y3D352C6oCNutm9sGn3-53" value="특별 도전 승리 후 나가기" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="2000" y="1950" width="231" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2y3D352C6oCNutm9sGn3-54" value="특별 도전 패배 후 나가기" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -862,7 +862,58 @@
         <mxCell id="2y3D352C6oCNutm9sGn3-71" value="매니저에 띄울 위젯들 등록해두기" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1140" y="1730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dc0jTIMLgrcwtydTX8lu-2" value="아지트에서 일반 도전 입장 후 패배, 영웅정보 입장" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dc0jTIMLgrcwtydTX8lu-2" value="아지트에서 일반 도전 입장 후 패배, 영웅정보 입장" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1750" y="2720" width="231" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dA8mBhQ8xBqRkSYBBK88-1" value="일반 도전 승리 후 계속하기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="2020" width="231" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dA8mBhQ8xBqRkSYBBK88-2" value="특별 도전 승리 후 계속하기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="2020" width="231" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dA8mBhQ8xBqRkSYBBK88-3" value="일반 도전 승리 후 계속하기&lt;br&gt;(지원 마도사)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="2230" width="231" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dA8mBhQ8xBqRkSYBBK88-4" value="특별 도전 승리 후 계속하기&lt;br&gt;(지원 마도사)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="2230" width="231" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dA8mBhQ8xBqRkSYBBK88-5" value="특별 도전 패배 후 나가기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="2300" width="231" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dA8mBhQ8xBqRkSYBBK88-6" value="일반 도전 패배 후 나가기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="2300" width="231" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dA8mBhQ8xBqRkSYBBK88-7" value="일반 도전 승리 후 계속하기" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="2020" width="231" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dA8mBhQ8xBqRkSYBBK88-8" value="특별 도전 승리 후 계속하기" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="2020" width="231" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dA8mBhQ8xBqRkSYBBK88-9" value="일반 도전 승리 후 계속하기&lt;br&gt;(지원 마도사)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="2230" width="231" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dA8mBhQ8xBqRkSYBBK88-10" value="특별 도전 승리 후 계속하기&lt;br&gt;(지원 마도사)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="2230" width="231" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dA8mBhQ8xBqRkSYBBK88-11" value="특별 도전 패배 후 나가기" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="2300" width="231" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dA8mBhQ8xBqRkSYBBK88-12" value="일반 도전 패배 후 나가기" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="2300" width="231" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dA8mBhQ8xBqRkSYBBK88-13" value="특별 도전 패배 후 영웅정보" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="2370" width="231" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dA8mBhQ8xBqRkSYBBK88-14" value="일반 도전 패배 후 영웅정보" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="2370" width="231" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dA8mBhQ8xBqRkSYBBK88-15" value="일반 도전 승리 후 다시하기&lt;br&gt;영상 다시보이는 문제 있음" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="2440" width="231" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dA8mBhQ8xBqRkSYBBK88-16" value="일반 도전 승리 후 다시하기&lt;br&gt;(지원 마도사)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="2650" width="231" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dA8mBhQ8xBqRkSYBBK88-17" value="아지트에서 일반 도전 입장 후 패배, 영웅정보 입장" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1750" y="2720" width="231" height="60" as="geometry" />
         </mxCell>
       </root>
