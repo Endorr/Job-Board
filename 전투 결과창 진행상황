@@ -1,11 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-01-06T08:47:15.105Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="flARVieX9QgqaA9u72ys" version="16.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-18T16:07:50.247Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="KGQNgea1BkQf9Wrwsebh" version="18.0.7" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-16" value="구현" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="270" y="50" width="339" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="ZaQpRjoWSUF0L112aurr-1" value="경험치 창 애정도 애니메이션 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="30" y="40" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZaQpRjoWSUF0L112aurr-2" value="전투 결과 창 캐릭터 토스트 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="30" y="130" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
@@ -16,10 +22,16 @@
         <mxCell id="MTrl5ynQiznJmTlUDSWs-4" value="대기 | 요청" style="swimlane;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="49" y="330" width="210" height="380" as="geometry" />
         </mxCell>
+        <mxCell id="ZaQpRjoWSUF0L112aurr-4" value="스킵시 레벨업 어떻게 할 것인지 [재철님]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MTrl5ynQiznJmTlUDSWs-4">
+          <mxGeometry x="25.5" y="40" width="159" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="9A0mLHsorhuxDrabdEOj-9" value="에러 | 수정" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="620" y="440" width="500" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="hDPYIisuoytdxOGGVnbc-3" value="폐기 | 완료" style="swimlane;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;align=center;" parent="1" vertex="1">
+        <mxCell id="ZaQpRjoWSUF0L112aurr-3" value="애정도 스킵시 레벨업 연출 나오도록 할 것" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9A0mLHsorhuxDrabdEOj-9">
+          <mxGeometry x="10" y="40" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hDPYIisuoytdxOGGVnbc-3" value="    폐기 | 완료" style="swimlane;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;align=left;" parent="1" vertex="1">
           <mxGeometry x="1130" y="50" width="760" height="980" as="geometry" />
         </mxCell>
         <mxCell id="zcyn4oi8b7TnZNW8mx5d-1" value="레브치 전투 무한 페이드 이슈 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
@@ -85,13 +97,13 @@
         <mxCell id="TmhBBiTESZEoPBMsBP5R-7" value="스토리 전투 승리 결과창의&amp;nbsp; 중간 텍스트 사이즈가 안커지는 이슈 [창곤님]" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="180" y="530" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jeq-RMRfP_urg29SH56R-3" value="반복전투 별 애니메이션 재생" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="Jeq-RMRfP_urg29SH56R-3" value="반복전투 별 애니메이션 재생" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="180" y="740" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jeq-RMRfP_urg29SH56R-2" value="캐릭터 경험치창 Appear 애니메이션 재생" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="Jeq-RMRfP_urg29SH56R-2" value="캐릭터 경험치창 Appear 애니메이션 재생" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="180" y="670" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jeq-RMRfP_urg29SH56R-1" value="경험치 증가량 Int가아닌 float으로 증가하도록 처리" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="Jeq-RMRfP_urg29SH56R-1" value="경험치 증가량 Int가아닌 float으로 증가하도록 처리" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="180" y="600" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
