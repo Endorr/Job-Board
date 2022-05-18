@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-17T14:41:56.836Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="7YQSrGfoAOAfy104CLJ0" version="18.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-18T01:54:17.126Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="pAEv8QfHE4kTVmXEeBeH" version="18.0.6" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -433,8 +433,11 @@
         <mxCell id="E4y-HX-GbuqqLlXtMpzm-1" value="코스튬 미리보기에 대한 플로우 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="1710" y="170" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TReP1YVHW7QV6D7MhSft-1" value="스테이지 포커싱 모드 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+        <mxCell id="TReP1YVHW7QV6D7MhSft-1" value="랜드마크 포커싱 모드 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="1710" y="240" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_92vd8wkXU_vev4LflZ-1" value="탑뷰에서 바로 랜드마크 포커싱 하는 기능 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="1710" y="310" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1071" height="260" as="geometry">
