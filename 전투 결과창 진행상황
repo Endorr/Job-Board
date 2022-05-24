@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T05:46:18.304Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="g6uUdsYha4SeY3J3Mvhs" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-24T06:04:02.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="d5wJNFzZQ0mqVwXpwIBd" version="18.1.1" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,12 +6,6 @@
         <mxCell id="1" parent="0" />
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-16" value="구현" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="270" y="50" width="339" height="660" as="geometry" />
-        </mxCell>
-        <mxCell id="gD8tSJ4jhlysI-i1iXjA-1" value="버튼 애니메이션이 끝나기 전에 버튼이 눌리던 문제 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="10" y="70" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gD8tSJ4jhlysI-i1iXjA-2" value="컨텐츠 락 상태 반영" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="10" y="140" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
@@ -120,6 +114,12 @@
         </mxCell>
         <mxCell id="RvKwIcIr5oMhM6AgruNp-3" value="고위 등급 아이템 연출" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="350" y="320" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gD8tSJ4jhlysI-i1iXjA-2" value="컨텐츠 락 상태 반영" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="350" y="460" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gD8tSJ4jhlysI-i1iXjA-1" value="버튼 애니메이션이 끝나기 전에 버튼이 눌리던 문제 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="350" y="390" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1070" height="300" as="geometry">
