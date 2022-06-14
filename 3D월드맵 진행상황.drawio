@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T12:47:32.068Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="iwEp0DsuN3mtnZM7RMtq" version="19.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-14T07:58:18.381Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="zcA4Ii26L0_0jFIInXcs" version="20.0.1" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,18 +25,18 @@
           <mxGeometry x="10" y="180" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="stxqKzvu3eA99aNSGff1-1" value="터치 기능 구현" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="80" y="260" width="159" height="60" as="geometry" />
+          <mxGeometry y="260" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="stxqKzvu3eA99aNSGff1-3" value="위젯 정상화" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="80" y="330" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NF6qyUkneYACWTzJGOK2-3" value="탑뷰 모드 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+        <mxCell id="NF6qyUkneYACWTzJGOK2-3" value="탑뷰 모드 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="80" y="400" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NF6qyUkneYACWTzJGOK2-4" value="씬별 이동후 복귀 정상화" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+        <mxCell id="NF6qyUkneYACWTzJGOK2-4" value="씬별 이동후 복귀 정상화" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="80" y="475" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NF6qyUkneYACWTzJGOK2-5" value="랜드마크 상호작용 정상화" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+        <mxCell id="NF6qyUkneYACWTzJGOK2-5" value="랜드마크 상호작용 정상화" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="80" y="540" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
@@ -463,14 +463,17 @@
         <mxCell id="w7RAfR1nLSR_LPooRSeb-1" value="월드맵에서 영상 보고 나면 월드맵 위젯이 노출되지 않음" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="1710" y="450" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NF6qyUkneYACWTzJGOK2-1" value="신규 월드맵 씬 구성" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="NF6qyUkneYACWTzJGOK2-1" value="신규 월드맵 씬 구성" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="1710" y="520" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NF6qyUkneYACWTzJGOK2-2" value="신규 월드맵 플레이어 구성" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="NF6qyUkneYACWTzJGOK2-2" value="신규 월드맵 플레이어 구성" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="1710" y="590" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="stxqKzvu3eA99aNSGff1-2" value="신규 월드맵 카메라 구성" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="1710" y="660" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i3ZYrzTtTBeootf22tKf-1" value="월드맵 카메라 자유이동 정상화" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="1710" y="730" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1071" height="260" as="geometry">
