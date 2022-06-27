@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T14:06:36.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="gIzKxsIpsGaMILbMafiu" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-27T14:06:42.560Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="JL3nQQT31sf8r2Ykviu2" version="20.0.3" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,9 +20,6 @@
         </mxCell>
         <mxCell id="tH88tRurDEZZYX3UZ1Wb-2" value="랜드마크 두개가 겹칠때의 처리 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="180" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NF6qyUkneYACWTzJGOK2-4" value="씬별 이동후 복귀 정상화" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="144" y="270" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v65rkzVDSnlC5BNiTX9z-2" value="예약 위젯 오픈 기능 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="40" width="159" height="60" as="geometry" />
