@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T05:29:27.489Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="qNC8ERXom2ndY6BMsOnZ" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-27T05:35:41.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Yz3lWVfFsFGjN1N6P-Ob" version="20.0.1" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,9 +18,6 @@
         <mxCell id="t61tYE5_9ADe4W2ooDKp-1" value="탑뷰 전환시 캐릭터 사라지는 연출에 딜레이를 줘 안보이게 하기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="110" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dA8mBhQ8xBqRkSYBBK88-21" value="모든 스테이지 드랍아이템 맥스 체크 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="10" y="40" width="159" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="tH88tRurDEZZYX3UZ1Wb-2" value="랜드마크 두개가 겹칠때의 처리 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="180" width="159" height="60" as="geometry" />
         </mxCell>
@@ -35,6 +32,9 @@
         </mxCell>
         <mxCell id="v65rkzVDSnlC5BNiTX9z-1" value="워프 랜드마크에도 자동이동 위치 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
           <mxGeometry x="20" y="480" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v65rkzVDSnlC5BNiTX9z-2" value="예약 위젯 오픈 기능 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="10" y="40" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
