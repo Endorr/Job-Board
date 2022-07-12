@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T06:43:59.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="BSbUhvzXI4TPfJD0wpCn" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-12T08:43:44.729Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="DzqbkIUpcTUVi9Q4XJ41" version="20.0.3" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1580" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,9 +6,6 @@
         <mxCell id="1" parent="0" />
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-16" value="구현" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="270" y="50" width="339" height="660" as="geometry" />
-        </mxCell>
-        <mxCell id="7CCVxl33b37e4v3HeEtN-7" value="10개 다 획득시 알림 처리" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="20" y="30" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
@@ -46,6 +43,12 @@
         </mxCell>
         <mxCell id="7CCVxl33b37e4v3HeEtN-6" value="탐색 시 위젯 및 랜드마크 눌림 금지 처리" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
           <mxGeometry x="31" y="390" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7CCVxl33b37e4v3HeEtN-8" value="탐색 포인트 상호작용중&amp;nbsp; 탐색 아이콘이 뜨는 문제 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="31" y="460" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7CCVxl33b37e4v3HeEtN-7" value="10개 다 획득시 알림 처리" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="31" y="530" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1071" height="260" as="geometry">
