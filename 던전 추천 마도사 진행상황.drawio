@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-08-03T02:49:33.911Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="FP1UH_4wO0gPiCcKYVha" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-03T02:50:14.319Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="0hbJQqIxicHXb5mVgW8h" version="21.6.6" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-16" value="구현" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="270" y="50" width="320" height="660" as="geometry" />
+          <mxGeometry x="270" y="50" width="330" height="660" as="geometry" />
         </mxCell>
         <mxCell id="3UnPyx0yrbw4a88SuA1K-3" value="UI 기능 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="100" width="159" height="60" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="90" y="170" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9A0mLHsorhuxDrabdEOj-9" value="에러 | 수정" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="339" y="390" width="500" height="270" as="geometry">
+          <mxGeometry x="339" y="390" width="511" height="270" as="geometry">
             <mxRectangle x="620" y="440" width="90" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
