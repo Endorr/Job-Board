@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-03T14:35:46.964Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ittSh0PY7Ov_84tunMMR" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-03T14:36:41.500Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="HBXnwVALlCxy8aebJN0v" version="21.6.6" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,14 +12,11 @@
             <mxRectangle x="620" y="440" width="90" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rHGuIm1BuCQ5DgF4SuUG-11" value="보유에 따른 딤드 제대로 안나옴" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="9A0mLHsorhuxDrabdEOj-9">
-          <mxGeometry x="31" y="40" width="159" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="rHGuIm1BuCQ5DgF4SuUG-13" value="공략 버튼 잠금 노출" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="9A0mLHsorhuxDrabdEOj-9">
-          <mxGeometry x="31" y="105" width="159" height="60" as="geometry" />
+          <mxGeometry x="21" y="40" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rHGuIm1BuCQ5DgF4SuUG-14" value="클래스 아이콘 색상 바꿔줄 것" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="9A0mLHsorhuxDrabdEOj-9">
-          <mxGeometry x="211" y="40" width="159" height="60" as="geometry" />
+          <mxGeometry x="21" y="115" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-18" value="고려" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="340" y="1" width="231" height="380" as="geometry" />
@@ -76,6 +73,9 @@
         </mxCell>
         <mxCell id="3UnPyx0yrbw4a88SuA1K-7" value="신규 위젯 호출 함수 작성" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="10" y="810" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rHGuIm1BuCQ5DgF4SuUG-11" value="보유에 따른 딤드 제대로 안나옴" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="10" y="880" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1071" height="260" as="geometry">
