@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-03T14:35:25.567Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="834kXArtcNOAWHzLdwno" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-03T14:35:30.789Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="W1rXT6T3atj2RUY-_kAe" version="21.6.6" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,9 +9,6 @@
         </mxCell>
         <mxCell id="3UnPyx0yrbw4a88SuA1K-3" value="UI 기능 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="100" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3UnPyx0yrbw4a88SuA1K-7" value="신규 위젯 호출 함수 작성" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="10" y="30" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9A0mLHsorhuxDrabdEOj-9" value="에러 | 수정" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="339" y="390" width="511" height="270" as="geometry">
@@ -76,6 +73,9 @@
         </mxCell>
         <mxCell id="rHGuIm1BuCQ5DgF4SuUG-10" value="추천 마도사 표기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
           <mxGeometry x="10" y="740" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3UnPyx0yrbw4a88SuA1K-7" value="신규 위젯 호출 함수 작성" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="10" y="810" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1071" height="260" as="geometry">
