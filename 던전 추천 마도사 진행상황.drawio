@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-08T13:19:58.450Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="uXnAZE7MVWPQvqQ_cBYP" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-08T13:20:58.357Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="8pPn4UmHWW9j08V3MhAg" version="21.6.6" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,9 +20,6 @@
         </mxCell>
         <mxCell id="rHGuIm1BuCQ5DgF4SuUG-22" value="추천마도사 표기 영웅 모아보기에서도 가능하도록 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="100" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZqfSHBfJASZd3rZq1coX-1" value="던전 추천 마도사 위젯&lt;br&gt;호출 위치 변경" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="64" y="180" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
@@ -114,19 +111,22 @@
           <mxGeometry x="180" y="810" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZqfSHBfJASZd3rZq1coX-2" value="스크롤 박스가 엔진 영역 밖에서 멈추는 현상" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
-          <mxGeometry x="180" y="880" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZqfSHBfJASZd3rZq1coX-4" value="마도사 상세보기의 인연스킬을 볼 때 스킬 레벨 성장치가 노출되는 현상" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
           <mxGeometry x="350" y="40" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZqfSHBfJASZd3rZq1coX-3" value="추천 마도사 클래스 정렬이 제대로 되지 않는 현상" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="ZqfSHBfJASZd3rZq1coX-4" value="마도사 상세보기의 인연스킬을 볼 때 스킬 레벨 성장치가 노출되는 현상" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
           <mxGeometry x="350" y="110" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZqfSHBfJASZd3rZq1coX-5" value="마도사 상세 정보 팝업에서 이름영역을 누르면 닫히는 현상" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="ZqfSHBfJASZd3rZq1coX-3" value="추천 마도사 클래스 정렬이 제대로 되지 않는 현상" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
           <mxGeometry x="350" y="180" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZqfSHBfJASZd3rZq1coX-6" value="합격기의 상세설명 툴팁이 제대로 노출되지 않는 현상" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="ZqfSHBfJASZd3rZq1coX-5" value="마도사 상세 정보 팝업에서 이름영역을 누르면 닫히는 현상" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
           <mxGeometry x="350" y="250" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZqfSHBfJASZd3rZq1coX-6" value="합격기의 상세설명 툴팁이 제대로 노출되지 않는 현상" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="350" y="320" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZqfSHBfJASZd3rZq1coX-1" value="던전 추천 마도사 위젯&lt;br&gt;호출 위치 변경" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="180" y="880" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1071" height="260" as="geometry">
