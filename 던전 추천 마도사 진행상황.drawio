@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-08T12:41:48.682Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="NdURFQevU_5QW1E4w30b" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-08T13:19:58.450Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="uXnAZE7MVWPQvqQ_cBYP" version="21.6.6" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -121,6 +121,12 @@
         </mxCell>
         <mxCell id="ZqfSHBfJASZd3rZq1coX-3" value="추천 마도사 클래스 정렬이 제대로 되지 않는 현상" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
           <mxGeometry x="350" y="110" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZqfSHBfJASZd3rZq1coX-5" value="마도사 상세 정보 팝업에서 이름영역을 누르면 닫히는 현상" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="350" y="180" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZqfSHBfJASZd3rZq1coX-6" value="합격기의 상세설명 툴팁이 제대로 노출되지 않는 현상" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="350" y="250" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1071" height="260" as="geometry">
