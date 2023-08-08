@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T10:47:12.254Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="d8VHDvp-3nKTRcjEzAb8" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-08T02:04:14.973Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="FCXLDiyc6lF1YcGu_Uuq" version="21.6.6" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1687" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,6 +11,15 @@
           <mxGeometry x="339" y="390" width="511" height="270" as="geometry">
             <mxRectangle x="620" y="440" width="90" height="23" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rHGuIm1BuCQ5DgF4SuUG-23" value="마도사 툴팁에 강화 효과 노출되는 현상" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="9A0mLHsorhuxDrabdEOj-9">
+          <mxGeometry x="21" y="50" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rHGuIm1BuCQ5DgF4SuUG-24" value="추천마도사 합격기 아이콘 미노출" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="9A0mLHsorhuxDrabdEOj-9">
+          <mxGeometry x="213" y="50" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rHGuIm1BuCQ5DgF4SuUG-25" value="공략탭 선택시 몬스터 탭 테두리 남아있는 현상" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="9A0mLHsorhuxDrabdEOj-9">
+          <mxGeometry x="21" y="130" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-18" value="고려" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="340" y="1" width="231" height="380" as="geometry" />
