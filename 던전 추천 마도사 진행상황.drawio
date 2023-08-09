@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-08T14:13:28.336Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="UmpUAjLFlGDaYIlno055" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-09T01:47:53.115Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="EtM1BEBMXGhFgm_xw_fw" version="21.6.6" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,7 +15,7 @@
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-18" value="고려" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="340" y="1" width="231" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="rHGuIm1BuCQ5DgF4SuUG-16" value="기존 위젯 완전 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
+        <mxCell id="rHGuIm1BuCQ5DgF4SuUG-16" value="기존 위젯 MonsterSkillInfoWidget 완전 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="30" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rHGuIm1BuCQ5DgF4SuUG-22" value="추천마도사 표기 영웅 모아보기에서도 가능하도록 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
