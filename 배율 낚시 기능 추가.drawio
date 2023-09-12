@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T08:37:54.533Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="cPwuUbltD0ngx5RRq8QO" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-12T08:56:09.152Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Wmd4U2Xf-ztpGChjueAb" version="21.7.1" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,6 +15,21 @@
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-18" value="고려" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="340" y="1" width="231" height="380" as="geometry" />
         </mxCell>
+        <mxCell id="23xOXwe0LaK21AtvZ5Q6-1" value="컨텐츠 언락 기반으로 배율 낚시 기능 오픈" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
+          <mxGeometry x="10" y="30" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23xOXwe0LaK21AtvZ5Q6-2" value="낚시 60회 이후 토스트 출력" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
+          <mxGeometry x="10" y="100" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8IGrAw701jnbkH6kilL0-1" value="버튼 On/Off 기능 작성" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="10" y="170" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8IGrAw701jnbkH6kilL0-2" value="낚시 시작할 때 미끼 갯수 저장" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="10" y="240" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8IGrAw701jnbkH6kilL0-3" value="배율 기능에 따른 미끼 소모 갯수 정보 패킷에 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="10" y="310" width="159" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
         </mxCell>
@@ -25,45 +40,6 @@
           <mxGeometry x="1130" y="50" width="610" height="940" as="geometry">
             <mxRectangle x="1130" y="50" width="90" height="23" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="23xOXwe0LaK21AtvZ5Q6-1" value="돌발 몬스터&lt;br&gt;삭제 시 문제점 확인" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="10" y="40" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="23xOXwe0LaK21AtvZ5Q6-2" value="낚시&lt;br&gt;삭제 시 문제점 확인" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="10" y="110" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="23xOXwe0LaK21AtvZ5Q6-3" value="탐색&lt;br&gt;삭제 시 문제점 확인" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="10" y="180" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="23xOXwe0LaK21AtvZ5Q6-4" value="순찰&lt;br&gt;삭제 시 문제점 확인" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="10" y="250" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="23xOXwe0LaK21AtvZ5Q6-5" value="월드 우호도&lt;br&gt;삭제 시 문제점 확인" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="10" y="320" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="23xOXwe0LaK21AtvZ5Q6-6" value="주민 의뢰&lt;br&gt;삭제 시 문제점 확인" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="10" y="390" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="23xOXwe0LaK21AtvZ5Q6-7" value="기억의 파편&lt;br&gt;삭제 시 문제점 확인" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="10" y="460" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="23xOXwe0LaK21AtvZ5Q6-8" value="거점 상점&lt;br&gt;삭제 시 문제점 확인" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="10" y="534.5" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="23xOXwe0LaK21AtvZ5Q6-9" value="월드 재화&lt;br&gt;삭제 시 문제점 확인" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="10" y="610" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="23xOXwe0LaK21AtvZ5Q6-10" value="모험일지 버튼 가리기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="10" y="680" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="23xOXwe0LaK21AtvZ5Q6-12" value="메인 HUD 거점 상점 가리기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="10" y="750" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="23xOXwe0LaK21AtvZ5Q6-13" value="도전 모드 순찰 스테이지 바로가기에서 특정 월드 제외" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="10" y="820" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="23xOXwe0LaK21AtvZ5Q6-11" value="월드 지도 UI 변경" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
-          <mxGeometry x="180" y="40" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1071" height="260" as="geometry">
