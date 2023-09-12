@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T09:41:49.490Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="eDVEqY2KDfzJ1kh2SrGt" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-12T09:43:15.925Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="VPVU-2AARADzGzETROrC" version="21.7.1" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,6 +32,12 @@
         </mxCell>
         <mxCell id="8IGrAw701jnbkH6kilL0-5" value="잠김 상태일 때 토스트 로컬 작업" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
           <mxGeometry x="10" y="450" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8IGrAw701jnbkH6kilL0-6" value="배율 낚시 안내 팝업 출력" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="10" y="520" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8IGrAw701jnbkH6kilL0-7" value="배율 낚시 안내 팝업&lt;br&gt;오늘 하루 안보기 기능 추가하기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="10" y="590" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
