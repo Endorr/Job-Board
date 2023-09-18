@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-15T07:51:37.507Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="glhwtuGZHmLA-EEVqZxg" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-18T08:58:28.562Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Lxcd7t9OV4UARiW1QG3y" version="21.7.5" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,12 +14,6 @@
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-18" value="고려" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="340" y="1" width="231" height="380" as="geometry" />
-        </mxCell>
-        <mxCell id="8IGrAw701jnbkH6kilL0-5" value="잠김 상태일 때 토스트 로컬 작업" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="20" y="110" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WcDFybzWImXP3FC_hpMs-2" value="이벤트 병렬 처리 가능하도록 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="20" y="180" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
@@ -44,7 +38,7 @@
         <mxCell id="8IGrAw701jnbkH6kilL0-7" value="배율 낚시 안내 팝업&lt;br&gt;오늘 하루 안보기 기능 추가하기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="10" y="240" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WcDFybzWImXP3FC_hpMs-1" value="배율 낚시 안내 팝업 오늘 하루 안보기 데이터를 로컬 세이브에 저장" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="WcDFybzWImXP3FC_hpMs-1" value="배율 낚시 안내 팝업 오늘 하루 안보기 데이터를 로컬 세이브에 저장" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="10" y="310" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="23xOXwe0LaK21AtvZ5Q6-1" value="컨텐츠 언락 기반으로 배율 낚시 기능 오픈" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
@@ -55,6 +49,12 @@
         </mxCell>
         <mxCell id="8IGrAw701jnbkH6kilL0-3" value="배율 기능에 따른 미끼 소모 갯수 정보 패킷에 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="10" y="520" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8IGrAw701jnbkH6kilL0-5" value="잠김 상태일 때 토스트 로컬 작업" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="10" y="590" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WcDFybzWImXP3FC_hpMs-2" value="이벤트 병렬 처리 가능하도록 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="10" y="660" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1071" height="260" as="geometry">
