@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T08:15:26.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="AK50lmplSvIOrXaVbv5-" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-09T00:29:44.954Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Rb0iQf7jCeElH6KEiT15" version="21.8.2" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,12 +15,6 @@
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-18" value="고려" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="340" y="1" width="231" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="cpLjO2ORt0f3C-8ycr53-10" value="스테이지 리스트에서 베이스포인트 입장 버튼 구현" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="20" y="40" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cpLjO2ORt0f3C-8ycr53-11" value="LandmarkNameWidget처리" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="20" y="110" width="159" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
         </mxCell>
@@ -32,26 +26,32 @@
             <mxRectangle x="1130" y="50" width="90" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cpLjO2ORt0f3C-8ycr53-2" value="Landmark Interation 함수 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="cpLjO2ORt0f3C-8ycr53-2" value="Landmark Interation 함수 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="20" y="40" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cpLjO2ORt0f3C-8ycr53-1" value="자동이동의 처리" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="cpLjO2ORt0f3C-8ycr53-1" value="자동이동의 처리" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="20" y="110" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cpLjO2ORt0f3C-8ycr53-4" value="" style="group" vertex="1" connectable="0" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="cpLjO2ORt0f3C-8ycr53-4" value="" style="group" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1" connectable="0">
           <mxGeometry x="20" y="180" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cpLjO2ORt0f3C-8ycr53-5" value="각종 특정 랜드마크에 대한 예외처리 사항에 멀티롤에 대한 내용 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cpLjO2ORt0f3C-8ycr53-4">
+        <mxCell id="cpLjO2ORt0f3C-8ycr53-5" value="각종 특정 랜드마크에 대한 예외처리 사항에 멀티롤에 대한 내용 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="cpLjO2ORt0f3C-8ycr53-4" vertex="1">
           <mxGeometry width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CXniyDMgOWZlJddHDZSy-1" value="데이터 받아와서 상호작용 위젯 두개 띄우기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="20" y="250" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cpLjO2ORt0f3C-8ycr53-8" value="월드맵 상호작용 위젯 데이터 세팅 함수 랜드마크 기반에서 랜드마크에리어로 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="cpLjO2ORt0f3C-8ycr53-8" value="월드맵 상호작용 위젯 데이터 세팅 함수 랜드마크 기반에서 랜드마크에리어로 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="20" y="320" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cpLjO2ORt0f3C-8ycr53-9" value="탑뷰 아이콘 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="cpLjO2ORt0f3C-8ycr53-9" value="탑뷰 아이콘 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="20" y="390" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cpLjO2ORt0f3C-8ycr53-11" value="LandmarkNameWidget처리" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="20" y="460" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cpLjO2ORt0f3C-8ycr53-10" value="스테이지 리스트에서 베이스포인트 입장 버튼 구현" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="20" y="530" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1071" height="260" as="geometry">
