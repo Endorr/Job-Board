@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T07:16:29.602Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="JPifGXIvr9D9afVsTbYV" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-07T08:19:22.414Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="v46zPy_eQAq2Hh0J5I2C" version="23.1.1" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,17 +15,14 @@
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-18" value="고려" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="340" y="1" width="231" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="b3EFWp87HoEQgZqNGqgz-1" value="정렬 규칙 변경" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+        <mxCell id="b3EFWp87HoEQgZqNGqgz-1" value="정렬 규칙 변경" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="30" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b3EFWp87HoEQgZqNGqgz-2" value="본인이 장착한 마석에 대한 예외처리" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+        <mxCell id="b3EFWp87HoEQgZqNGqgz-2" value="본인이 장착한 마석에 대한 예외처리" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="100" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b3EFWp87HoEQgZqNGqgz-3" value="장착된 마석 우선 정렬" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+        <mxCell id="b3EFWp87HoEQgZqNGqgz-3" value="장착된 마석 우선 정렬" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="10" y="170" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="b3EFWp87HoEQgZqNGqgz-4" value="장착된 마석에 소유자 표기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="10" y="240" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="49" y="50" width="211" height="270" as="geometry" />
@@ -37,6 +34,12 @@
           <mxGeometry x="1130" y="50" width="610" height="940" as="geometry">
             <mxRectangle x="1130" y="50" width="90" height="23" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="b3EFWp87HoEQgZqNGqgz-4" value="장착된 마석에 소유자 표기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="10" y="40" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EdSWONilKh17CuWe-m5M-2" value="아이템 아이디가 같은 각인석이 다수 존재할 때 의도한대로 클릭이 되지 않는 이슈" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="10" y="120" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="49" y="730" width="1071" height="260" as="geometry">
