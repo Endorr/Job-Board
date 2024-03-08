@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-08T06:31:12.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Db0EG483BT09amna17fi" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-08T06:38:08.076Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ChG4fItgVPeS4nr9xzWr" version="24.0.2" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,54 +8,175 @@
           <mxGeometry x="270" y="50" width="850" height="950" as="geometry" />
         </mxCell>
         <UserObject label="" link="https://trello.com/c/kNVWwDCS" linkTarget="_blank" id="Lh-9QCx4mtw0z8OulHlL-4">
-          <mxCell style="group" vertex="1" connectable="0" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxCell style="group" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1" connectable="0">
             <mxGeometry x="30" y="40" width="220" height="100" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="Lh-9QCx4mtw0z8OulHlL-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Lh-9QCx4mtw0z8OulHlL-4">
+        <mxCell id="Lh-9QCx4mtw0z8OulHlL-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="Lh-9QCx4mtw0z8OulHlL-4" vertex="1">
           <mxGeometry x="100" y="80" width="120" height="20" as="geometry" />
         </mxCell>
         <UserObject label="기억의 파편 수진 현황 표기 개선" link="https://trello.com/c/kNVWwDCS" linkTarget="_blank" id="Lh-9QCx4mtw0z8OulHlL-6">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Lh-9QCx4mtw0z8OulHlL-4">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="Lh-9QCx4mtw0z8OulHlL-4" vertex="1">
             <mxGeometry width="159" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="Lh-9QCx4mtw0z8OulHlL-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Lh-9QCx4mtw0z8OulHlL-4">
+        <mxCell id="Lh-9QCx4mtw0z8OulHlL-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="Lh-9QCx4mtw0z8OulHlL-4" vertex="1">
           <mxGeometry x="100" y="60" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Lh-9QCx4mtw0z8OulHlL-8" value="김상엽" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Lh-9QCx4mtw0z8OulHlL-4">
+        <mxCell id="Lh-9QCx4mtw0z8OulHlL-8" value="김상엽" style="rounded=0;whiteSpace=wrap;html=1;" parent="Lh-9QCx4mtw0z8OulHlL-4" vertex="1">
           <mxGeometry x="100" y="40" width="120" height="20" as="geometry" />
         </mxCell>
         <UserObject label="" link="https://trello.com/c/Q22xp66G" linkTarget="_blank" id="Lh-9QCx4mtw0z8OulHlL-9">
-          <mxCell style="group" vertex="1" connectable="0" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxCell style="group" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1" connectable="0">
             <mxGeometry x="20" y="160" width="220" height="100" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="Lh-9QCx4mtw0z8OulHlL-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Lh-9QCx4mtw0z8OulHlL-9">
+        <mxCell id="Lh-9QCx4mtw0z8OulHlL-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="Lh-9QCx4mtw0z8OulHlL-9" vertex="1">
           <mxGeometry x="100" y="80" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Lh-9QCx4mtw0z8OulHlL-11" value="신규 유저 초고속 성장의 길" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Lh-9QCx4mtw0z8OulHlL-9">
+        <mxCell id="Lh-9QCx4mtw0z8OulHlL-11" value="신규 유저 초고속 성장의 길" style="rounded=1;whiteSpace=wrap;html=1;" parent="Lh-9QCx4mtw0z8OulHlL-9" vertex="1">
           <mxGeometry width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lh-9QCx4mtw0z8OulHlL-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Lh-9QCx4mtw0z8OulHlL-9">
+        <mxCell id="Lh-9QCx4mtw0z8OulHlL-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="Lh-9QCx4mtw0z8OulHlL-9" vertex="1">
           <mxGeometry x="100" y="60" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Lh-9QCx4mtw0z8OulHlL-13" value="최원지" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Lh-9QCx4mtw0z8OulHlL-9">
+        <mxCell id="Lh-9QCx4mtw0z8OulHlL-13" value="최원지" style="rounded=0;whiteSpace=wrap;html=1;" parent="Lh-9QCx4mtw0z8OulHlL-9" vertex="1">
           <mxGeometry x="100" y="40" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Lh-9QCx4mtw0z8OulHlL-14" value="" style="group" vertex="1" connectable="0" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="20" y="270" width="220" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="Lh-9QCx4mtw0z8OulHlL-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Lh-9QCx4mtw0z8OulHlL-14">
+        <UserObject label="" link="https://trello.com/c/enRphk5c" linkTarget="_blank" id="Lh-9QCx4mtw0z8OulHlL-14">
+          <mxCell style="group" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1" connectable="0">
+            <mxGeometry x="20" y="270" width="220" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Lh-9QCx4mtw0z8OulHlL-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="Lh-9QCx4mtw0z8OulHlL-14" vertex="1">
           <mxGeometry x="100" y="80" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Lh-9QCx4mtw0z8OulHlL-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Lh-9QCx4mtw0z8OulHlL-14">
+        <mxCell id="Lh-9QCx4mtw0z8OulHlL-16" value="신규/복귀 배틀 패스 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="Lh-9QCx4mtw0z8OulHlL-14" vertex="1">
           <mxGeometry width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lh-9QCx4mtw0z8OulHlL-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Lh-9QCx4mtw0z8OulHlL-14">
+        <mxCell id="Lh-9QCx4mtw0z8OulHlL-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="Lh-9QCx4mtw0z8OulHlL-14" vertex="1">
           <mxGeometry x="100" y="60" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Lh-9QCx4mtw0z8OulHlL-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Lh-9QCx4mtw0z8OulHlL-14">
+        <mxCell id="Lh-9QCx4mtw0z8OulHlL-18" value="최원지" style="rounded=0;whiteSpace=wrap;html=1;" parent="Lh-9QCx4mtw0z8OulHlL-14" vertex="1">
+          <mxGeometry x="100" y="40" width="120" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="https://trello.com/c/LiZjJdCo" linkTarget="_blank" id="8R-gsmBWgNkcNB-_LANe-1">
+          <mxCell style="group" vertex="1" connectable="0" parent="wOnGFkAYj0Utu0_wV-MN-16">
+            <mxGeometry x="20" y="390" width="220" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8R-gsmBWgNkcNB-_LANe-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8R-gsmBWgNkcNB-_LANe-1">
+          <mxGeometry x="100" y="80" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8R-gsmBWgNkcNB-_LANe-3" value="기사단 꾸미기 아이템 상위 버전 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8R-gsmBWgNkcNB-_LANe-1">
+          <mxGeometry width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8R-gsmBWgNkcNB-_LANe-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8R-gsmBWgNkcNB-_LANe-1">
+          <mxGeometry x="100" y="60" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8R-gsmBWgNkcNB-_LANe-5" value="최원지" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8R-gsmBWgNkcNB-_LANe-1">
+          <mxGeometry x="100" y="40" width="120" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22group%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221170%22%20y%3D%22150%22%20width%3D%22220%22%20height%3D%22100%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20x%3D%22100%22%20y%3D%2280%22%20width%3D%22120%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20width%3D%22159%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20value%3D%22%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20x%3D%22100%22%20y%3D%2260%22%20width%3D%22120%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%226%22%20value%3D%22%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20x%3D%22100%22%20y%3D%2240%22%20width%3D%22120%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E" linkTarget="_blank" id="8R-gsmBWgNkcNB-_LANe-6">
+          <mxCell style="group" vertex="1" connectable="0" parent="wOnGFkAYj0Utu0_wV-MN-16">
+            <mxGeometry x="290" y="40" width="220" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8R-gsmBWgNkcNB-_LANe-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8R-gsmBWgNkcNB-_LANe-6">
+          <mxGeometry x="100" y="80" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8R-gsmBWgNkcNB-_LANe-8" value="전투 편성 화면에서 애정도 레벨 확인 기능 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8R-gsmBWgNkcNB-_LANe-6">
+          <mxGeometry width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8R-gsmBWgNkcNB-_LANe-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8R-gsmBWgNkcNB-_LANe-6">
+          <mxGeometry x="100" y="60" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8R-gsmBWgNkcNB-_LANe-10" value="오유석" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8R-gsmBWgNkcNB-_LANe-6">
+          <mxGeometry x="100" y="40" width="120" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="https://trello.com/c/VjcVY7dM" linkTarget="_blank" id="8R-gsmBWgNkcNB-_LANe-11">
+          <mxCell style="group" vertex="1" connectable="0" parent="wOnGFkAYj0Utu0_wV-MN-16">
+            <mxGeometry x="290" y="160" width="220" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8R-gsmBWgNkcNB-_LANe-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8R-gsmBWgNkcNB-_LANe-11">
+          <mxGeometry x="100" y="80" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8R-gsmBWgNkcNB-_LANe-13" value="마도사/스킬 페이지 Kill Switch 기능 개선" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8R-gsmBWgNkcNB-_LANe-11">
+          <mxGeometry width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8R-gsmBWgNkcNB-_LANe-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8R-gsmBWgNkcNB-_LANe-11">
+          <mxGeometry x="100" y="60" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8R-gsmBWgNkcNB-_LANe-15" value="오유석" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8R-gsmBWgNkcNB-_LANe-11">
+          <mxGeometry x="100" y="40" width="120" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="https://trello.com/c/XeyyobU8" linkTarget="_blank" id="8R-gsmBWgNkcNB-_LANe-16">
+          <mxCell style="group" vertex="1" connectable="0" parent="wOnGFkAYj0Utu0_wV-MN-16">
+            <mxGeometry x="290" y="280" width="220" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8R-gsmBWgNkcNB-_LANe-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8R-gsmBWgNkcNB-_LANe-16">
+          <mxGeometry x="100" y="80" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8R-gsmBWgNkcNB-_LANe-18" value="기사단 대항전 개편" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8R-gsmBWgNkcNB-_LANe-16">
+          <mxGeometry width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8R-gsmBWgNkcNB-_LANe-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8R-gsmBWgNkcNB-_LANe-16">
+          <mxGeometry x="100" y="60" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8R-gsmBWgNkcNB-_LANe-20" value="최원지" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8R-gsmBWgNkcNB-_LANe-16">
+          <mxGeometry x="100" y="40" width="120" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="https://trello.com/c/3f9v9atv" linkTarget="_blank" id="8R-gsmBWgNkcNB-_LANe-21">
+          <mxCell style="group" vertex="1" connectable="0" parent="wOnGFkAYj0Utu0_wV-MN-16">
+            <mxGeometry x="300" y="410" width="220" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8R-gsmBWgNkcNB-_LANe-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8R-gsmBWgNkcNB-_LANe-21">
+          <mxGeometry x="100" y="80" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8R-gsmBWgNkcNB-_LANe-23" value="대왕 몽몽쿤" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8R-gsmBWgNkcNB-_LANe-21">
+          <mxGeometry width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8R-gsmBWgNkcNB-_LANe-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8R-gsmBWgNkcNB-_LANe-21">
+          <mxGeometry x="100" y="60" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8R-gsmBWgNkcNB-_LANe-25" value="김상엽" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8R-gsmBWgNkcNB-_LANe-21">
+          <mxGeometry x="100" y="40" width="120" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="https://trello.com/c/fzN3XEZb" linkTarget="_blank" id="8R-gsmBWgNkcNB-_LANe-27">
+          <mxCell style="group" vertex="1" connectable="0" parent="wOnGFkAYj0Utu0_wV-MN-16">
+            <mxGeometry x="557" y="40" width="220" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8R-gsmBWgNkcNB-_LANe-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8R-gsmBWgNkcNB-_LANe-27">
+          <mxGeometry x="100" y="80" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8R-gsmBWgNkcNB-_LANe-29" value="&amp;nbsp;탐색 개선 - 자동 탐색" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8R-gsmBWgNkcNB-_LANe-27">
+          <mxGeometry width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8R-gsmBWgNkcNB-_LANe-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8R-gsmBWgNkcNB-_LANe-27">
+          <mxGeometry x="100" y="60" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8R-gsmBWgNkcNB-_LANe-31" value="김상엽" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8R-gsmBWgNkcNB-_LANe-27">
+          <mxGeometry x="100" y="40" width="120" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="https://trello.com/c/svSI5szq" linkTarget="_blank" id="8R-gsmBWgNkcNB-_LANe-32">
+          <mxCell style="group" vertex="1" connectable="0" parent="wOnGFkAYj0Utu0_wV-MN-16">
+            <mxGeometry x="557" y="160" width="220" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8R-gsmBWgNkcNB-_LANe-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8R-gsmBWgNkcNB-_LANe-32">
+          <mxGeometry x="100" y="80" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8R-gsmBWgNkcNB-_LANe-34" value="현상 수배 모드" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8R-gsmBWgNkcNB-_LANe-32">
+          <mxGeometry width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8R-gsmBWgNkcNB-_LANe-35" value="오유석" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8R-gsmBWgNkcNB-_LANe-32">
+          <mxGeometry x="100" y="60" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8R-gsmBWgNkcNB-_LANe-36" value="김상엽" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8R-gsmBWgNkcNB-_LANe-32">
           <mxGeometry x="100" y="40" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
@@ -80,7 +201,7 @@
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-18" value="고려" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="28" y="720" width="231" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="oumLD8d3DvaTa1NXrWpt-27" value="Tool" style="swimlane;horizontal=0;" parent="1" vertex="1">
+        <mxCell id="oumLD8d3DvaTa1NXrWpt-27" value="Preset" style="swimlane;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="1130" y="50" width="270" height="380" as="geometry" />
         </mxCell>
         <mxCell id="oumLD8d3DvaTa1NXrWpt-32" value="" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="oumLD8d3DvaTa1NXrWpt-27" vertex="1" collapsed="1">
@@ -102,10 +223,10 @@
         <mxCell id="8vmb4RLjWRvc2X2qJKQM-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="oumLD8d3DvaTa1NXrWpt-27" vertex="1">
           <mxGeometry x="101" y="210" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lh-9QCx4mtw0z8OulHlL-3" value="" style="group" vertex="1" connectable="0" parent="oumLD8d3DvaTa1NXrWpt-27">
+        <mxCell id="Lh-9QCx4mtw0z8OulHlL-3" value="" style="group" parent="oumLD8d3DvaTa1NXrWpt-27" vertex="1" connectable="0">
           <mxGeometry x="40" y="100" width="220" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Lh-9QCx4mtw0z8OulHlL-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Lh-9QCx4mtw0z8OulHlL-3">
+        <mxCell id="Lh-9QCx4mtw0z8OulHlL-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="Lh-9QCx4mtw0z8OulHlL-3" vertex="1">
           <mxGeometry x="100" y="80" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oumLD8d3DvaTa1NXrWpt-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="Lh-9QCx4mtw0z8OulHlL-3" vertex="1">
