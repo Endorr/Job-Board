@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T06:52:02.675Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="FfmdazEBnhETQMHYak79" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-14T07:40:50.167Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="9dPejk9vFzXnu8FfdRsl" version="24.0.2" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,9 +6,6 @@
         <mxCell id="1" parent="0" />
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-16" value="구현" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="270" y="50" width="850" height="950" as="geometry" />
-        </mxCell>
-        <mxCell id="U6G1Snlq9G3L8RfConAO-1" value="햄버거 메뉴에 현상수배 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="110" y="50" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U6G1Snlq9G3L8RfConAO-2" value="콘텐츠 확장 메뉴에 현상수배 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
           <mxGeometry x="30" y="130" width="159" height="60" as="geometry" />
@@ -27,24 +24,8 @@
             <mxRectangle x="1130" y="50" width="90" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="" link="https://trello.com/c/kNVWwDCS" linkTarget="_blank" id="Lh-9QCx4mtw0z8OulHlL-4">
-          <mxCell style="group" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1" connectable="0">
-            <mxGeometry x="14" y="40" width="220" height="100" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="Lh-9QCx4mtw0z8OulHlL-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="Lh-9QCx4mtw0z8OulHlL-4" vertex="1">
-          <mxGeometry x="100" y="80" width="120" height="20" as="geometry" />
-        </mxCell>
-        <UserObject label="기억의 파편 수진 현황 표기 개선" link="https://trello.com/c/kNVWwDCS" linkTarget="_blank" id="Lh-9QCx4mtw0z8OulHlL-6">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="Lh-9QCx4mtw0z8OulHlL-4" vertex="1">
-            <mxGeometry width="159" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="Lh-9QCx4mtw0z8OulHlL-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="Lh-9QCx4mtw0z8OulHlL-4" vertex="1">
-          <mxGeometry x="100" y="60" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Lh-9QCx4mtw0z8OulHlL-8" value="김상엽" style="rounded=0;whiteSpace=wrap;html=1;" parent="Lh-9QCx4mtw0z8OulHlL-4" vertex="1">
-          <mxGeometry x="100" y="40" width="120" height="20" as="geometry" />
+        <mxCell id="U6G1Snlq9G3L8RfConAO-1" value="햄버거 메뉴에 현상수배 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="10" y="40" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="30" y="1010" width="1710" height="260" as="geometry">
