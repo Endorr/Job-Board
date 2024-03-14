@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T08:18:20.973Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="AIIk1qt5GoC45CE7uj4j" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-14T09:56:12.308Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="DTQwZXrS98im2KgAfPEl" version="24.0.2" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1687" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,8 +7,11 @@
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-16" value="구현" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="270" y="50" width="850" height="950" as="geometry" />
         </mxCell>
-        <mxCell id="U6G1Snlq9G3L8RfConAO-2" value="콘텐츠 확장 메뉴에 현상수배 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="130" y="50" width="159" height="60" as="geometry" />
+        <mxCell id="U6G1Snlq9G3L8RfConAO-5" value="현상 수배 카드 추가 로직 구현(임시)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="130" y="60" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U6G1Snlq9G3L8RfConAO-7" value="현상 수배 카드 위젯 작업" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="50" y="150" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="30" y="50" width="230" height="270" as="geometry" />
@@ -18,6 +21,9 @@
         </mxCell>
         <mxCell id="U6G1Snlq9G3L8RfConAO-4" value="햄버거 메뉴 텍스트 연결" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MTrl5ynQiznJmTlUDSWs-4">
           <mxGeometry x="34" y="40" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U6G1Snlq9G3L8RfConAO-6" value="현상수배 씬 패킷 대응" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MTrl5ynQiznJmTlUDSWs-4">
+          <mxGeometry x="35.5" y="120" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hDPYIisuoytdxOGGVnbc-3" value="    폐기 | 완료" style="swimlane;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;align=left;" parent="1" vertex="1">
           <mxGeometry x="1420" y="50" width="610" height="940" as="geometry">
@@ -29,6 +35,9 @@
         </mxCell>
         <mxCell id="U6G1Snlq9G3L8RfConAO-3" value="임시 설정된 Contents_Unlock 바꿔둘 것&lt;div&gt;(Drawer Widget)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
           <mxGeometry x="10" y="110" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U6G1Snlq9G3L8RfConAO-2" value="콘텐츠 확장 메뉴에 현상수배 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="10" y="180" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="30" y="1010" width="1710" height="260" as="geometry">
