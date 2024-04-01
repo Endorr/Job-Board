@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T06:36:58.942Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="mteSKQ1WB3i4Qhtnx3UH" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-01T07:29:39.074Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="SClcI7tCmsztbnH34D2j" version="24.0.7" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-16" value="구현" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="270" y="50" width="850" height="950" as="geometry" />
+          <mxGeometry x="270" y="50" width="859" height="950" as="geometry" />
         </mxCell>
-        <mxCell id="U6G1Snlq9G3L8RfConAO-7" value="현상 수배 카드 위젯 작업" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="110" y="60" width="159" height="60" as="geometry" />
+        <mxCell id="cQT0x60TEEhq_TcZNhzu-8" value="추가 보상 획득 구현" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="290" y="120" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U6G1Snlq9G3L8RfConAO-6" value="현상수배 씬 입장 패킷 처리" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="50" y="140" width="159" height="60" as="geometry" />
+        <mxCell id="cQT0x60TEEhq_TcZNhzu-10" value="현상 수배 즉시 완료 구현" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="40" y="60" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cQT0x60TEEhq_TcZNhzu-1" value="현상수배 추가 패킷 처리" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="50" y="210" width="159" height="60" as="geometry" />
+        <mxCell id="cQT0x60TEEhq_TcZNhzu-11" value="현상 수배 보상 획득 구현" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="40" y="130" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="30" y="50" width="230" height="270" as="geometry" />
@@ -41,6 +41,30 @@
         </mxCell>
         <mxCell id="U6G1Snlq9G3L8RfConAO-4" value="햄버거 메뉴 텍스트 연결" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="10" y="320" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cQT0x60TEEhq_TcZNhzu-7" value="추가 보상 위젯 작업" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="10" y="390" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U6G1Snlq9G3L8RfConAO-7" value="현상 수배 카드 위젯 작업" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="10" y="460" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U6G1Snlq9G3L8RfConAO-6" value="현상수배 씬 입장 패킷 처리" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="10" y="530" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cQT0x60TEEhq_TcZNhzu-1" value="현상수배 추가 패킷 처리" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="10" y="600" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cQT0x60TEEhq_TcZNhzu-3" value="현상 수배지 충전 위젯 작업" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="10" y="670" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cQT0x60TEEhq_TcZNhzu-6" value="현상수배 완료 후 제거 처리" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="10" y="740" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cQT0x60TEEhq_TcZNhzu-4" value="현상수배 만료 처리 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="10" y="810" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cQT0x60TEEhq_TcZNhzu-5" value="킬스위치 처리" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="10" y="880" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="30" y="1010" width="1710" height="260" as="geometry">
