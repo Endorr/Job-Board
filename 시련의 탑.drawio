@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T13:45:38.383Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="7lxTNUtENZc2m1xe-SmR" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T14:00:45.974Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="qAVtszI4usnSZiU8RWBI" version="24.4.4" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="2514" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,8 +25,8 @@
         <mxCell id="loLB35hQQc__Ai0n8xd4-11" value="보상 받은 상황 리프레쉬 적용" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
           <mxGeometry x="20" y="520" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="loLB35hQQc__Ai0n8xd4-12" value="컨텐츠 언락 적용" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="80" y="600" width="159" height="60" as="geometry" />
+        <mxCell id="loLB35hQQc__Ai0n8xd4-15" value="보상 위젯 표기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="80" y="50" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="30" y="50" width="230" height="270" as="geometry" />
@@ -36,6 +36,9 @@
         </mxCell>
         <mxCell id="MTrl5ynQiznJmTlUDSWs-4" value="대기 | 요청" style="swimlane;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="30" y="330" width="229" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="loLB35hQQc__Ai0n8xd4-14" value="Contents_Unlock에 있는 시련의 탑 오타 수정 요청(푸른님)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MTrl5ynQiznJmTlUDSWs-4">
+          <mxGeometry x="30" y="30" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hDPYIisuoytdxOGGVnbc-3" value="    폐기 | 완료" style="swimlane;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;align=left;" parent="1" vertex="1">
           <mxGeometry x="1420" y="50" width="610" height="940" as="geometry">
@@ -62,6 +65,9 @@
         </mxCell>
         <mxCell id="cQT0x60TEEhq_TcZNhzu-10" value="킬 스위치 구현" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="10" y="505" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loLB35hQQc__Ai0n8xd4-12" value="컨텐츠 언락 적용" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="10" y="580" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="30" y="1010" width="1710" height="260" as="geometry">
