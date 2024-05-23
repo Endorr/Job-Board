@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T14:46:15.526Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="l8v_TvRNh5R9jNLT9Ilg" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T11:23:43.287Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="gXU6XKXD9vqZrL3Oq_6u" version="24.4.4" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1687" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,26 @@
         <mxCell id="cQT0x60TEEhq_TcZNhzu-10" value="킬 스위치 구현" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="40" y="60" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KzR6uSGkWvc5jmkU1Vno-2" value="층 선택 기능 구현" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="110" y="130" width="159" height="60" as="geometry" />
+        <mxCell id="loLB35hQQc__Ai0n8xd4-2" value="입장 재화에 따른 처리 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="150" y="150" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loLB35hQQc__Ai0n8xd4-3" value="랭킹" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="20" y="230" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loLB35hQQc__Ai0n8xd4-4" value="친구 진행도 보기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="20" y="310" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loLB35hQQc__Ai0n8xd4-5" value="길드원 진행도 보기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="20" y="390" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loLB35hQQc__Ai0n8xd4-6" value="보상 받기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="20" y="470" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loLB35hQQc__Ai0n8xd4-7" value="보상 레드닷" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="20" y="550" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loLB35hQQc__Ai0n8xd4-8" value="진행도에 따른 층 위젯 표기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="20" y="630" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="30" y="50" width="230" height="270" as="geometry" />
@@ -27,8 +45,14 @@
         <mxCell id="U6G1Snlq9G3L8RfConAO-1" value="시련의 탑 입장" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="10" y="40" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KzR6uSGkWvc5jmkU1Vno-1" value="시련의 탑 리스트 구현" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="KzR6uSGkWvc5jmkU1Vno-1" value="시련의 탑 리스트 구현" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="10" y="120" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KzR6uSGkWvc5jmkU1Vno-2" value="층 선택 기능 구현" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="10" y="200" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loLB35hQQc__Ai0n8xd4-1" value="층별 정보 표기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="10" y="280" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="30" y="1010" width="1710" height="260" as="geometry">
@@ -40,6 +64,9 @@
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-18" value="고려" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="28" y="720" width="231" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="loLB35hQQc__Ai0n8xd4-9" value="행동력 할인 어디서 처리되는지 확인할 것" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-18">
+          <mxGeometry x="32" y="40" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oumLD8d3DvaTa1NXrWpt-27" value="Preset" style="swimlane;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="1130" y="50" width="270" height="380" as="geometry" />
