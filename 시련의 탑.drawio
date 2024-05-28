@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-28T13:16:37.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="eyJmVogob0v3l-15Ner5" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-28T14:05:08.530Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="cb70DqVG8HGUYvL27NfW" version="24.4.4" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="2514" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="270" y="50" width="859" height="950" as="geometry" />
         </mxCell>
         <mxCell id="loLB35hQQc__Ai0n8xd4-3" value="랭킹" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="20" y="130" width="159" height="60" as="geometry" />
+          <mxGeometry x="100" y="130" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="loLB35hQQc__Ai0n8xd4-4" value="친구 진행도 보기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
           <mxGeometry x="20" y="210" width="159" height="60" as="geometry" />
@@ -16,17 +16,14 @@
         <mxCell id="loLB35hQQc__Ai0n8xd4-5" value="길드원 진행도 보기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
           <mxGeometry x="20" y="290" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="loLB35hQQc__Ai0n8xd4-7" value="보상 레드닷" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="230" y="430" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="loLB35hQQc__Ai0n8xd4-11" value="보상 받은 상황 리프레쉬 적용" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="230" y="520" width="159" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="loLB35hQQc__Ai0n8xd4-20" value="이어하기용 Floor 데이터 저장&lt;br&gt;SceneCombat 스타트에서" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
           <mxGeometry x="20" y="370" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="loLB35hQQc__Ai0n8xd4-13" value="킬 스위치 작동 시 토스트가 두 곳에서 되는 현상 개선" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
           <mxGeometry x="20" y="60" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loLB35hQQc__Ai0n8xd4-23" value="다음 보상 위젯 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="179" y="440" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="30" y="50" width="230" height="270" as="geometry" />
@@ -34,8 +31,11 @@
         <mxCell id="MTrl5ynQiznJmTlUDSWs-4" value="대기 | 요청" style="swimlane;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="30" y="330" width="229" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="loLB35hQQc__Ai0n8xd4-21" value="UI팀에 레드닷 달 수 있는 위젯으로 변경 요청" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MTrl5ynQiznJmTlUDSWs-4">
-          <mxGeometry x="20" y="40" width="159" height="60" as="geometry" />
+        <mxCell id="loLB35hQQc__Ai0n8xd4-22" value="신규 로컬 요청&lt;br&gt;현재층:&lt;div&gt;다음 보상&lt;/div&gt;&lt;div&gt;푸른님&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MTrl5ynQiznJmTlUDSWs-4">
+          <mxGeometry x="35.5" y="40" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loLB35hQQc__Ai0n8xd4-24" value="셀렉트 이펙트 확인&lt;br&gt;UI 지원님" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MTrl5ynQiznJmTlUDSWs-4">
+          <mxGeometry x="34" y="120" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hDPYIisuoytdxOGGVnbc-3" value="    폐기 | 완료" style="swimlane;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;align=left;" parent="1" vertex="1">
           <mxGeometry x="1420" y="50" width="610" height="940" as="geometry">
@@ -89,6 +89,12 @@
         </mxCell>
         <mxCell id="loLB35hQQc__Ai0n8xd4-10" value="보상 받을 때 맥스 인벤 체크" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
           <mxGeometry x="190" y="350" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loLB35hQQc__Ai0n8xd4-11" value="보상 받은 상황 리프레쉬 적용" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="190" y="430" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loLB35hQQc__Ai0n8xd4-7" value="보상 레드닷" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="190" y="505" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="30" y="1010" width="1710" height="260" as="geometry">
