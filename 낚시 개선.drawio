@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T15:26:42.925Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="xBMSsw2_XfR6mO0GAuxB" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T15:35:37.819Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="1mJ6EQ6IjgaX1VcOvDBd" version="24.4.9" type="github">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
     <mxGraphModel dx="1687" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,8 +16,11 @@
         <mxCell id="QOW8IyzNT6ggvtPZmbmT-11" value="이동 팝업에서 미끼 실시간 반영" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
           <mxGeometry x="10" y="280" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QOW8IyzNT6ggvtPZmbmT-15" value="" style="group" vertex="1" connectable="0" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="20" y="380" width="220" height="100" as="geometry" />
+        <mxCell id="QOW8IyzNT6ggvtPZmbmT-22" value="" style="group" vertex="1" connectable="0" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="20" y="380" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QOW8IyzNT6ggvtPZmbmT-15" value="" style="group" vertex="1" connectable="0" parent="QOW8IyzNT6ggvtPZmbmT-22">
+          <mxGeometry width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="QOW8IyzNT6ggvtPZmbmT-16" value="모험일지" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QOW8IyzNT6ggvtPZmbmT-15">
           <mxGeometry x="100" y="80" width="120" height="20" as="geometry" />
@@ -30,6 +33,9 @@
         </mxCell>
         <mxCell id="QOW8IyzNT6ggvtPZmbmT-19" value="랜드마크" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QOW8IyzNT6ggvtPZmbmT-15">
           <mxGeometry x="100" y="40" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QOW8IyzNT6ggvtPZmbmT-21" value="지도" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QOW8IyzNT6ggvtPZmbmT-22">
+          <mxGeometry x="100" y="100" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="30" y="50" width="230" height="270" as="geometry" />
