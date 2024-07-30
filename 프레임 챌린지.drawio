@@ -7,9 +7,6 @@
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-16" value="구현" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="270" y="50" width="859" height="950" as="geometry" />
         </mxCell>
-        <mxCell id="U6G1Snlq9G3L8RfConAO-1" value="스테이지 리스트 표기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="30" y="40" width="159" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="30" y="50" width="230" height="270" as="geometry" />
         </mxCell>
@@ -21,11 +18,20 @@
             <mxRectangle x="1130" y="50" width="90" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QYKIm_SfAloXlcLKh4Xb-1" value="프레임 챌린지씬 입장" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="QYKIm_SfAloXlcLKh4Xb-1" value="프레임 챌린지씬 입장" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="20" y="110" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QYKIm_SfAloXlcLKh4Xb-2" value="관련 맵퍼 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+        <mxCell id="QYKIm_SfAloXlcLKh4Xb-2" value="관련 맵퍼 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="20" y="40" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U6G1Snlq9G3L8RfConAO-1" value="스테이지 리스트 표기" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="20" y="180" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ePZxKTdKOvCnPFrOoljD-2" value="스테이지 진행도 표기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="20" y="250" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ePZxKTdKOvCnPFrOoljD-1" value="스테이지 리스트 정보 표기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="20" y="320" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="30" y="1010" width="1710" height="260" as="geometry">
