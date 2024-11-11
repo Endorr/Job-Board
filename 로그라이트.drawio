@@ -34,14 +34,8 @@
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="30" y="50" width="230" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="Hl0CqrcyUsH3RmlXjL36-13" value="각 이벤트 탐험정보 확인 위젯 추가시 해당 위젯으로 돌아가는 방법 확인&lt;br&gt;[기획팀]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-17">
-          <mxGeometry x="35" y="40" width="159" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="MTrl5ynQiznJmTlUDSWs-4" value="대기 | 요청" style="swimlane;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
-          <mxGeometry x="30" y="330" width="229" height="380" as="geometry" />
-        </mxCell>
-        <mxCell id="Hl0CqrcyUsH3RmlXjL36-2" value="전투 결과창 종료시 유저 경험치 위젯 잠시 노출&lt;br&gt;[광래님]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MTrl5ynQiznJmTlUDSWs-4">
-          <mxGeometry x="20" y="40" width="159" height="60" as="geometry" />
+          <mxGeometry x="30" y="330" width="230" height="380" as="geometry" />
         </mxCell>
         <mxCell id="Hl0CqrcyUsH3RmlXjL36-6" value="전투시 임시 페이드 노출&lt;div&gt;[기획팀]&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MTrl5ynQiznJmTlUDSWs-4">
           <mxGeometry x="20" y="110" width="159" height="60" as="geometry" />
@@ -51,6 +45,12 @@
         </mxCell>
         <mxCell id="Hl0CqrcyUsH3RmlXjL36-22" value="보상창 텍스트 색상 관련 문의(리롤 빠진거, 아이템 항목에서 빨간색으로 안나오는거)&lt;div&gt;[UI팀]&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MTrl5ynQiznJmTlUDSWs-4">
           <mxGeometry x="20" y="255" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hl0CqrcyUsH3RmlXjL36-23" value="리롤 능력 생기는 능력은 어떻게 확인하는지?&lt;div&gt;[경천님]&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MTrl5ynQiznJmTlUDSWs-4">
+          <mxGeometry x="20" y="320" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hl0CqrcyUsH3RmlXjL36-13" value="각 이벤트 탐험정보 확인 위젯 추가시 해당 위젯으로 돌아가는 위젯 추가 요청&lt;br&gt;&lt;div&gt;[UI팀]&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MTrl5ynQiznJmTlUDSWs-4">
+          <mxGeometry x="20" y="40" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hDPYIisuoytdxOGGVnbc-3" value="    폐기 | 완료" style="swimlane;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;align=left;" parent="1" vertex="1">
           <mxGeometry x="1420" y="50" width="610" height="940" as="geometry">
@@ -80,6 +80,9 @@
         </mxCell>
         <mxCell id="Hl0CqrcyUsH3RmlXjL36-21" value="MagicRegionEventReward 위젯 보상 없을 경우에 대한 캔버스 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
           <mxGeometry x="10" y="520" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hl0CqrcyUsH3RmlXjL36-2" value="전투 결과창 종료시 유저 경험치 위젯 잠시 노출&lt;br&gt;[광래님]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="10" y="590" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="30" y="1010" width="1710" height="260" as="geometry">
