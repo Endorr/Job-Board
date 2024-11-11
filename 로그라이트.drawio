@@ -95,6 +95,9 @@
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-18" value="고려" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="28" y="720" width="231" height="280" as="geometry" />
         </mxCell>
+        <mxCell id="Hl0CqrcyUsH3RmlXjL36-24" value="MagicRegionEventPopup&lt;br&gt;갱신 애니메이션 없음&lt;div&gt;[UI팀]&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-18">
+          <mxGeometry x="22" y="10" width="159" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="oumLD8d3DvaTa1NXrWpt-27" value="Preset" style="swimlane;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="1130" y="50" width="270" height="380" as="geometry" />
         </mxCell>
