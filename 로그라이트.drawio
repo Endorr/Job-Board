@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram id="sQ8EXhfYu_Z4RW1TYD9f" name="Page-1">
-    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="Hl0CqrcyUsH3RmlXjL36-15" value="캠프 강화 이벤트 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
           <mxGeometry x="100" y="400" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hl0CqrcyUsH3RmlXjL36-16" value="거래 아이템 정렬 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+        <mxCell id="Hl0CqrcyUsH3RmlXjL36-16" value="거래 아이템 정렬" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
           <mxGeometry x="30" y="470" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hl0CqrcyUsH3RmlXjL36-18" value="스테이지 완료 후 입장시 이전 스테이지 선택" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
@@ -27,6 +27,12 @@
         </mxCell>
         <mxCell id="Hl0CqrcyUsH3RmlXjL36-23" value="리롤 어빌리티 Common테이블 통해 체크" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
           <mxGeometry x="30" y="620" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hl0CqrcyUsH3RmlXjL36-29" value="보상 선택 및 업그레이드에서 갯수 다 못채운 상태에서 진행시 노티" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="30" y="690" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hl0CqrcyUsH3RmlXjL36-30" value="전투 이어하기 구현" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="30" y="770" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="30" y="50" width="230" height="270" as="geometry" />
