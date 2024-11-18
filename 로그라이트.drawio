@@ -32,13 +32,13 @@
           <mxGeometry x="30" y="190" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hl0CqrcyUsH3RmlXjL36-28" value="MagicRegionItemIcon 위젯에서 CPP_Txt_Upgrade에 들어갈 로컬 키 요청&lt;br&gt;[기획팀]" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="220" y="320" width="159" height="60" as="geometry" />
+          <mxGeometry x="30" y="340" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-H19STxGfVn_PWDj7dHE-2" value="Score 남은 시간 표기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="190" y="130" width="159" height="60" as="geometry" />
+          <mxGeometry x="350" y="140" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-H19STxGfVn_PWDj7dHE-3" value="Score 보상 위젯 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="210" y="220" width="159" height="60" as="geometry" />
+          <mxGeometry x="20" y="40" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="30" y="50" width="230" height="270" as="geometry" />
@@ -48,6 +48,9 @@
         </mxCell>
         <mxCell id="Hl0CqrcyUsH3RmlXjL36-31" value="버튼 사운드 추가 - 후순위&lt;br&gt;[기획팀]" style="rounded=1;whiteSpace=wrap;html=1;" parent="MTrl5ynQiznJmTlUDSWs-4" vertex="1">
           <mxGeometry x="30" y="110" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-H19STxGfVn_PWDj7dHE-4" value="스코어 초기화 시간 관련 로컬 추가&lt;br&gt;[해성님]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MTrl5ynQiznJmTlUDSWs-4">
+          <mxGeometry x="40" y="190" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hDPYIisuoytdxOGGVnbc-3" value="    폐기 | 완료" style="swimlane;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;align=left;" parent="1" vertex="1">
           <mxGeometry x="1420" y="50" width="610" height="940" as="geometry">
