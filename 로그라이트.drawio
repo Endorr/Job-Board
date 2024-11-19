@@ -8,7 +8,7 @@
           <mxGeometry x="270" y="50" width="859" height="950" as="geometry" />
         </mxCell>
         <mxCell id="Hl0CqrcyUsH3RmlXjL36-1" value="결과창 정보 채워주기" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="20" y="110" width="159" height="60" as="geometry" />
+          <mxGeometry x="90" y="110" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hl0CqrcyUsH3RmlXjL36-16" value="거래 아이템 정렬" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="30" y="470" width="159" height="60" as="geometry" />
@@ -19,26 +19,20 @@
         <mxCell id="Hl0CqrcyUsH3RmlXjL36-19" value="베이스포인트씬에서 입장시 카메라 위치정보가 초기화되지 않는 현상 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="30" y="550" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hl0CqrcyUsH3RmlXjL36-23" value="리롤 어빌리티 Common테이블 통해 체크" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="30" y="620" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Hl0CqrcyUsH3RmlXjL36-29" value="보상에서 갯수 다 못채운 상태에서 진행시 노티" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="30" y="690" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Hl0CqrcyUsH3RmlXjL36-33" value="업그레이드에서 갯수 다 못채운 상태에서 진행시 노티" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="100" y="860" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Hl0CqrcyUsH3RmlXjL36-34" value="강화시 효과 설명에 다음 효과 설명 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="30" y="190" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Hl0CqrcyUsH3RmlXjL36-28" value="MagicRegionItemIcon 위젯에서 CPP_Txt_Upgrade에 들어갈 로컬 키 요청&lt;br&gt;[기획팀]" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
-          <mxGeometry x="30" y="340" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-H19STxGfVn_PWDj7dHE-2" value="Score 남은 시간 표기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="350" y="140" width="159" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="-H19STxGfVn_PWDj7dHE-3" value="Score 보상 위젯 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="20" y="400" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-H19STxGfVn_PWDj7dHE-4" value="스코어 초기화 시간 관련 로컬 추가&lt;br&gt;[기획팀 해성님]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="30" y="330" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-H19STxGfVn_PWDj7dHE-11" value="Score 보상 레드닷 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
           <mxGeometry x="20" y="40" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-H19STxGfVn_PWDj7dHE-17" value="거래 예외 규칙 적용" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="30" y="610" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-H19STxGfVn_PWDj7dHE-19" value="탐험 효과 강화에 Pause 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
+          <mxGeometry x="40" y="680" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="30" y="50" width="230" height="270" as="geometry" />
@@ -47,10 +41,13 @@
           <mxGeometry x="30" y="330" width="230" height="380" as="geometry" />
         </mxCell>
         <mxCell id="Hl0CqrcyUsH3RmlXjL36-31" value="버튼 사운드 추가 - 후순위&lt;br&gt;[기획팀]" style="rounded=1;whiteSpace=wrap;html=1;" parent="MTrl5ynQiznJmTlUDSWs-4" vertex="1">
-          <mxGeometry x="30" y="110" width="159" height="60" as="geometry" />
+          <mxGeometry x="20" y="30" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-H19STxGfVn_PWDj7dHE-4" value="스코어 초기화 시간 관련 로컬 추가&lt;br&gt;[해성님]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MTrl5ynQiznJmTlUDSWs-4">
-          <mxGeometry x="40" y="190" width="159" height="60" as="geometry" />
+        <mxCell id="-H19STxGfVn_PWDj7dHE-18" value="추가 편성에는 Pause 없어도 되는 건지?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MTrl5ynQiznJmTlUDSWs-4">
+          <mxGeometry x="30" y="100" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-H19STxGfVn_PWDj7dHE-20" value="강화창에서 업그레이드할 항목이 없을 때 나오는 위젯 위치가 올바른지 확인&lt;br&gt;[기획팀 경천님]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MTrl5ynQiznJmTlUDSWs-4">
+          <mxGeometry x="20" y="170" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hDPYIisuoytdxOGGVnbc-3" value="    폐기 | 완료" style="swimlane;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;align=left;" parent="1" vertex="1">
           <mxGeometry x="1420" y="50" width="610" height="940" as="geometry">
@@ -126,6 +123,48 @@
         <mxCell id="Hl0CqrcyUsH3RmlXjL36-30" value="전투 이어하기 구현" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="180" y="730" width="159" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-H19STxGfVn_PWDj7dHE-2" value="Score 남은 시간 표기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="180" y="800" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-H19STxGfVn_PWDj7dHE-8" value="스코어 리워드 팝업 Resource_Widget 테이블에 추가 요청&lt;br&gt;[기획팀 해성님]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="180" y="870" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hl0CqrcyUsH3RmlXjL36-23" value="리롤 어빌리티 Common테이블 통해 체크" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="350" y="30" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-H19STxGfVn_PWDj7dHE-10" value="리워드 팝업 아이템 아이콘 이름 제대로 노출되지 않던 현상 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="350" y="100" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-H19STxGfVn_PWDj7dHE-12" value="교환소 연결" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="350" y="170" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-H19STxGfVn_PWDj7dHE-9" value="ScoreReward아이콘들이 갯수에 맞춰 위치가 정렬되도록 수정 요청&lt;br&gt;[UI팀]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="350" y="240" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hl0CqrcyUsH3RmlXjL36-28" value="MagicRegionItemIcon 위젯에서 CPP_Txt_Upgrade에 들어갈 로컬 키 요청&lt;br&gt;[기획팀]" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="350" y="310" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-H19STxGfVn_PWDj7dHE-6" value="보상 위젯 생성시 연출 애니메이션 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="350" y="380" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-H19STxGfVn_PWDj7dHE-14" value="이벤트 위젯 접어두기 기능 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="350" y="450" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hl0CqrcyUsH3RmlXjL36-29" value="보상에서 갯수 다 못채운 상태에서 진행시 노티" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="350" y="520" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-H19STxGfVn_PWDj7dHE-15" value="노티 팝업에서 체크박스 안눌리는 현상 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="350" y="590" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-H19STxGfVn_PWDj7dHE-16" value="노티에서 오늘은 그만이 작동하지 않는 현상 수정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="350" y="660" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hl0CqrcyUsH3RmlXjL36-33" value="업그레이드에서 갯수 다 못채운 상태에서 진행시 노티" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="350" y="730" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hl0CqrcyUsH3RmlXjL36-34" value="강화시 효과 설명에 다음 효과 설명 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
+          <mxGeometry x="350" y="800" width="159" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="30" y="1010" width="1710" height="260" as="geometry">
             <mxRectangle x="49" y="720" width="100" height="23" as="alternateBounds" />
@@ -136,6 +175,12 @@
         </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-18" value="고려" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="28" y="720" width="231" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="-H19STxGfVn_PWDj7dHE-7" value="Score 유효기간이 지났을 경우에 대한 예외처리 추가하려면 시작 시간을 알아야함" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-18">
+          <mxGeometry x="32" y="50" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-H19STxGfVn_PWDj7dHE-13" value="ScorePopup 불필요한 서브 위젯 병합 요청" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-18">
+          <mxGeometry x="37.5" y="125" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oumLD8d3DvaTa1NXrWpt-27" value="Preset" style="swimlane;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="1130" y="50" width="270" height="380" as="geometry" />
@@ -154,7 +199,7 @@
           <mxGeometry x="220" y="20" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tH88tRurDEZZYX3UZ1Wb-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="oumLD8d3DvaTa1NXrWpt-27" vertex="1">
-          <mxGeometry x="31" y="20" width="159" height="60" as="geometry" />
+          <mxGeometry x="40" y="20" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8vmb4RLjWRvc2X2qJKQM-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="oumLD8d3DvaTa1NXrWpt-27" vertex="1">
           <mxGeometry x="101" y="210" width="159" height="60" as="geometry" />
