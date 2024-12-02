@@ -10,9 +10,6 @@
         <mxCell id="-H19STxGfVn_PWDj7dHE-33" value="탐험 능력 강화시 애니메이션 추가" style="rounded=1;whiteSpace=wrap;html=1;" parent="wOnGFkAYj0Utu0_wV-MN-16" vertex="1">
           <mxGeometry x="20" y="130" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sR531eOXUpZFUP8H-u2r-1" value="사건 UI 노출시 플레이씬 UI 미노출" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wOnGFkAYj0Utu0_wV-MN-16">
-          <mxGeometry x="90" y="220" width="159" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="wOnGFkAYj0Utu0_wV-MN-17" value="분석 | 논의" style="swimlane;strokeColor=#82b366;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="30" y="50" width="230" height="270" as="geometry" />
         </mxCell>
@@ -212,6 +209,9 @@
         </mxCell>
         <mxCell id="Hl0CqrcyUsH3RmlXjL36-19" value="베이스포인트씬에서 입장시 카메라 위치정보가 초기화되지 않는 현상 수정" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDPYIisuoytdxOGGVnbc-3" vertex="1">
           <mxGeometry x="690" y="800" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sR531eOXUpZFUP8H-u2r-1" value="사건 UI 노출시 플레이씬 UI 미노출" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hDPYIisuoytdxOGGVnbc-3">
+          <mxGeometry x="690" y="870" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6kkVd8V_ymKgZ0_L0vxy-3" value="My Comment" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="30" y="1010" width="1710" height="260" as="geometry">
